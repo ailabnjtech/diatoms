@@ -1,0 +1,1941 @@
+0;E:\code/datasets/test\Acanthoceras\Acanthoceras zachariasii6.jpg
+0;E:\code/datasets/test\Acanthoceras\Acanthoceras zachariasii7.jpg
+1;E:\code/datasets/test\Achnanthes\Achnanhes felinophila-Afelinophila.jpg
+1;E:\code/datasets/test\Achnanthes\Achnanhes felinophila-Afelinprv.jpg
+1;E:\code/datasets/test\Achnanthes\Achnanthes coarctata_ANSP_GC3441_a.jpg
+1;E:\code/datasets/test\Achnanthes\Achnanthes inflata -Edited_RLV.jpg
+1;E:\code/datasets/test\Achnanthes\Achnanthes inflata -Edited_RV.jpg
+1;E:\code/datasets/test\Achnanthes\Achnanthes inflata -Inflat_59.4_RV.jpg
+1;E:\code/datasets/test\Achnanthes\Achnanthes longboardia  -Alongprv.jpg
+1;E:\code/datasets/test\Achnanthes\Achnanthes longboardia  -A_lngboardia_typerv.jpg
+1;E:\code/datasets/test\Achnanthes\Achnanthes mauiensis-Amauiensisprv.jpg
+1;E:\code/datasets/test\Achnanthes\Achnanthes mauiensis-Mauiensiss.jpg
+1;E:\code/datasets/test\Achnanthes\Achnanthes rostellata_408001rv.jpg
+1;E:\code/datasets/test\Achnanthes\Achnanthes rostellata_439301prv.jpg
+1;E:\code/datasets/test\Achnanthes\Achnanthes tumescens-Atumgv.jpg
+1;E:\code/datasets/test\Achnanthes\Achnanthes tumescens-Atumprv.jpg
+1;E:\code/datasets/test\Achnanthes\Achnanthes undulorostrata -Aundrostgood.jpg
+1;E:\code/datasets/test\Achnanthes\Achnanthes undulorostrata -Aundulo.jpg
+2;E:\code/datasets/test\Achnanthidium\Achnanthidium  rivulare-SEM3.jpg
+2;E:\code/datasets/test\Achnanthidium\Achnanthidium  rivulare-SEM4.jpg
+2;E:\code/datasets/test\Achnanthidium\Achnanthidium alpestre-ADA_2a_ed.jpg
+2;E:\code/datasets/test\Achnanthidium\Achnanthidium alpestre-NotInCircle4_ed.jpg
+2;E:\code/datasets/test\Achnanthidium\Achnanthidium atomus-Ach_atomom_plate1_ed.jpg
+2;E:\code/datasets/test\Achnanthidium\Achnanthidium atomus-Ach_atomom_plate4_ed.jpg
+2;E:\code/datasets/test\Achnanthidium\Achnanthidium crassum -CT10010_A_122017_89.jpg
+2;E:\code/datasets/test\Achnanthidium\Achnanthidium crassum -NRSA2361_053116_3.jpg
+2;E:\code/datasets/test\Achnanthidium\Achnanthidium deflexum-Utah_GC6777a_AD2.jpg
+2;E:\code/datasets/test\Achnanthidium\Achnanthidium deflexum-YELL_GSN07248_AD11.jpg
+2;E:\code/datasets/test\Achnanthidium\Achnanthidium delmontii-25.4(10¦Ìm).jpg
+2;E:\code/datasets/test\Achnanthidium\Achnanthidium delmontii-VA000670.jpg
+2;E:\code/datasets/test\Achnanthidium\Achnanthidium druartii-KDOW03024042_8.jpg
+2;E:\code/datasets/test\Achnanthidium\Achnanthidium druartii-KDOW42_02.jpg
+2;E:\code/datasets/test\Achnanthidium\Achnanthidium druartii-KDOW42_10.jpg
+2;E:\code/datasets/test\Achnanthidium\Achnanthidium duthiei-GSS01047_Duthii4_ed.jpg
+2;E:\code/datasets/test\Achnanthidium\Achnanthidium duthiei-GSS01047_Duthii7_ed.jpg
+2;E:\code/datasets/test\Achnanthidium\Achnanthidium eutrophilum-GS001021_R25.jpg
+2;E:\code/datasets/test\Achnanthidium\Achnanthidium eutrophilum-GS009181_RL4.jpg
+2;E:\code/datasets/test\Achnanthidium\Achnanthidium eutrophilum-MO000511_AHeutr_1ed_1.jpg
+2;E:\code/datasets/test\Achnanthidium\Achnanthidium exiguum-GS027521_24.jpg
+2;E:\code/datasets/test\Achnanthidium\Achnanthidium exiguum-GS027521_26.jpg
+2;E:\code/datasets/test\Achnanthidium\Achnanthidium exiguum-GS027521_6.jpg
+2;E:\code/datasets/test\Achnanthidium\Achnanthidium gracillimum-MO000019_1ed.jpg
+2;E:\code/datasets/test\Achnanthidium\Achnanthidium gracillimum-MO000019_2_ed.jpg
+2;E:\code/datasets/test\Achnanthidium\Achnanthidium gracillimum-S87-1b_ed_a.jpg
+2;E:\code/datasets/test\Achnanthidium\Achnanthidium kranzii-Kranz1b.jpg
+2;E:\code/datasets/test\Achnanthidium\Achnanthidium kranzii-Kranz7.jpg
+2;E:\code/datasets/test\Achnanthidium\Achnanthidium kranzii-Kranz8b.jpg
+2;E:\code/datasets/test\Achnanthidium\Achnanthidium latecephalum-Achn_lateceph6b_ed.jpg
+2;E:\code/datasets/test\Achnanthidium\Achnanthidium latecephalum-GSS01047_Latec1a_ed_1.jpg
+2;E:\code/datasets/test\Achnanthidium\Achnanthidium latecephalum-GSS01047_Latec2b_ed_1.jpg
+2;E:\code/datasets/test\Achnanthidium\Achnanthidium minutissimum-SEM2.jpg
+2;E:\code/datasets/test\Achnanthidium\Achnanthidium minutissimum-SEM3.jpg
+2;E:\code/datasets/test\Achnanthidium\Achnanthidium minutissimum-SEM4.jpg
+2;E:\code/datasets/test\Achnanthidium\Achnanthidium nanthes rostellata6.jpg
+2;E:\code/datasets/test\Achnanthidium\Achnanthidium nanthes rostellata7.jpg
+2;E:\code/datasets/test\Achnanthidium\Achnanthidium pyrenaicum-25.3(1¦Ìm).jpg
+2;E:\code/datasets/test\Achnanthidium\Achnanthidium pyrenaicum-25.4(1¦Ìm).jpg
+2;E:\code/datasets/test\Achnanthidium\Achnanthidium pyrenaicum-25.5(1¦Ìm).jpg
+2;E:\code/datasets/test\Achnanthidium\Achnanthidium reimeri-25.4(10¦Ìm).jpg
+2;E:\code/datasets/test\Achnanthidium\Achnanthidium rosenstockii-VT10089_A_010418_10_c.jpg
+2;E:\code/datasets/test\Achnanthidium\Achnanthidium rosenstockii-VT10093_A_012618_02_c.jpg
+2;E:\code/datasets/test\Achnanthidium\Achnanthidium subhudsonis var. kraeuselii-25.2(5¦Ìm).jpg
+2;E:\code/datasets/test\Achnanthidium\Achnanthidium subhudsonis var. kraeuselii-25.3(5¦Ìm).jpg
+2;E:\code/datasets/test\Achnanthidium\Achnanthidium subhudsonis var. kraeuselii-25.4(5¦Ìm).png
+3;E:\code/datasets/test\Actinella\Actinella punctata-NCPA0001_04.png
+3;E:\code/datasets/test\Actinella\Actinella punctata-NCPA0001_05.png
+3;E:\code/datasets/test\Actinella\Actinella punctata-NCPA0001_07.png
+4;E:\code/datasets/test\Actinocyclus\Actinocyclus normanii7.jpg
+4;E:\code/datasets/test\Actinocyclus\Actinocyclus normanii8.jpg
+6;E:\code/datasets/test\Adlafia\Adlafia detenta-Navdetenta5.jpg
+6;E:\code/datasets/test\Adlafia\Adlafia detenta-Navdetenta6.jpg
+6;E:\code/datasets/test\Adlafia\Adlafia detenta-Navdetenta7.jpg
+6;E:\code/datasets/test\Adlafia\Adlafia multnomahii-WI16.jpg
+6;E:\code/datasets/test\Adlafia\Adlafia multnomahii-WI17.jpg
+6;E:\code/datasets/test\Adlafia\Adlafia multnomahii-WI3.jpg
+6;E:\code/datasets/test\Adlafia\Adlafia suchlandtii -NH10001V2_A_120517_35_c.jpg
+7;E:\code/datasets/test\Amphicampa\Amphicampa otia eruca5.jpg
+8;E:\code/datasets/test\Amphipleura\Amphipleura pellucida-Pellu5.png
+8;E:\code/datasets/test\Amphipleura\Amphipleura pellucida-PelluB.png
+9;E:\code/datasets/test\Amphora\Amphora bicapitata-2_TYPESLIDE_cl.jpeg
+9;E:\code/datasets/test\Amphora\Amphora bicapitata-7_TYPESLIDE_cl.jpeg
+9;E:\code/datasets/test\Amphora\Amphora calumetica-MBE2215b_1283_58.jpg
+9;E:\code/datasets/test\Amphora\Amphora copulata-332_01_final.jpg
+9;E:\code/datasets/test\Amphora\Amphora copulata-344_01_final.jpg
+9;E:\code/datasets/test\Amphora\Amphora copulata-RL207_01_final.jpg
+9;E:\code/datasets/test\Amphora\Amphora delphinea var. minor -MEHP002_A_110817_68.png
+9;E:\code/datasets/test\Amphora\Amphora delphinea var. minor -NY10014_A_121417_37.jpg
+9;E:\code/datasets/test\Amphora\Amphora delphinea var. minor -_139.4_11.3.jpg
+9;E:\code/datasets/test\Amphora\Amphora minutissima-332_02.jpg
+9;E:\code/datasets/test\Amphora\Amphora ovalis -2833_01_final.jpg
+9;E:\code/datasets/test\Amphora\Amphora ovalis -332_03_final.jpg
+9;E:\code/datasets/test\Amphora\Amphora pediculus-2833_02_final.jpg
+9;E:\code/datasets/test\Amphora\Amphora pediculus7.jpg
+10;E:\code/datasets/test\Aneumastus\Aneumastus carolinianus-25.3(10¦Ìm).jpg
+10;E:\code/datasets/test\Aneumastus\Aneumastus carolinianus-NAVcarolinana_2.jpg
+10;E:\code/datasets/test\Aneumastus\Aneumastus minor-Aneumastus_minor_5.jpg
+10;E:\code/datasets/test\Aneumastus\Aneumastus pseudotusculus-25.3(10¦Ìm).jpg
+10;E:\code/datasets/test\Aneumastus\Aneumastus rostratus3.jpg
+10;E:\code/datasets/test\Aneumastus\Aneumastus tusculus-6.jpg
+11;E:\code/datasets/test\Anomoeoneis\Aneumastus costata-4_412002.jpg
+11;E:\code/datasets/test\Anomoeoneis\Aneumastus fogedii -7.jpg
+11;E:\code/datasets/test\Anomoeoneis\Aneumastus monoensis-3-186002-3.jpg
+11;E:\code/datasets/test\Anomoeoneis\Aneumastus monoensis-4-141901-2.jpg
+11;E:\code/datasets/test\Anomoeoneis\Aneumastus sculpta-6.jpg
+11;E:\code/datasets/test\Anomoeoneis\Aneumastus sculpta-7.jpg
+11;E:\code/datasets/test\Anomoeoneis\Anomoeoneis capitata-5-type.jpg
+11;E:\code/datasets/test\Anomoeoneis\Anomoeoneis capitata-6-type.jpg
+11;E:\code/datasets/test\Anomoeoneis\Anomoeoneis sphaerophora  f. rostrata6.jpg
+11;E:\code/datasets/test\Anomoeoneis\Anomoeoneis sphaerophora  f. rostrata7.jpg
+11;E:\code/datasets/test\Anomoeoneis\Anomoeoneis sphaerophora-4-251001.jpg
+11;E:\code/datasets/test\Anomoeoneis\Anomoeoneis sphaerophora-7-082201.jpg
+12;E:\code/datasets/test\Asterionella\Asterionella formosa-5.jpg
+12;E:\code/datasets/test\Asterionella\Asterionella formosa-6.jpg
+12;E:\code/datasets/test\Asterionella\Asterionella ralfsii var. americana6.jpg
+13;E:\code/datasets/test\Aulacoseira\Aulacoseira  nivaloides-MT1245A_AUnivaloides17a.jpg
+13;E:\code/datasets/test\Aulacoseira\Aulacoseira  nivaloides-MT1245A_AUnivaloides17b.jpg
+13;E:\code/datasets/test\Aulacoseira\Aulacoseira  nivaloides-MT1245A_Aunivaloides5.jpg
+13;E:\code/datasets/test\Aulacoseira\Aulacoseira alpigena-25.2(1¦Ìm).jpg
+13;E:\code/datasets/test\Aulacoseira\Aulacoseira alpigena-25.3(1¦Ìm).jpg
+13;E:\code/datasets/test\Aulacoseira\Aulacoseira alpigena-25.4(1¦Ìm).jpg
+13;E:\code/datasets/test\Aulacoseira\Aulacoseira ambigua-AUamb_GSN01072_1b.jpg
+13;E:\code/datasets/test\Aulacoseira\Aulacoseira ambigua-MarkEdlund_Aambigua2a.jpg
+13;E:\code/datasets/test\Aulacoseira\Aulacoseira ambigua-MarkEdlund_Aambigua2b.jpg
+13;E:\code/datasets/test\Aulacoseira\Aulacoseira canadensis7.jpg
+13;E:\code/datasets/test\Aulacoseira\Aulacoseira canadensis8.jpg
+13;E:\code/datasets/test\Aulacoseira\Aulacoseira crassipunctata-NJ000195_1a.jpg
+13;E:\code/datasets/test\Aulacoseira\Aulacoseira crassipunctata-NJ000195_1b.jpg
+13;E:\code/datasets/test\Aulacoseira\Aulacoseira granulata var. angustissima7.jpg
+13;E:\code/datasets/test\Aulacoseira\Aulacoseira granulata var. angustissima8.jpg
+13;E:\code/datasets/test\Aulacoseira\Aulacoseira granulata-GC62434_AUgran4a.jpg
+13;E:\code/datasets/test\Aulacoseira\Aulacoseira granulata-GC62434_AUgran4b_1.jpg
+13;E:\code/datasets/test\Aulacoseira\Aulacoseira granulata-GS113589_08.jpg
+13;E:\code/datasets/test\Aulacoseira\Aulacoseira herzogii-AUherz_GC105982a_6a.jpg
+13;E:\code/datasets/test\Aulacoseira\Aulacoseira herzogii-AUherz_GC105982a_7a.jpg
+13;E:\code/datasets/test\Aulacoseira\Aulacoseira herzogii-AUherz_GC105982a_9a.jpg
+13;E:\code/datasets/test\Aulacoseira\Aulacoseira humilis-GC113175a_AUhum_1b.jpg
+13;E:\code/datasets/test\Aulacoseira\Aulacoseira humilis-GC113175a_AUhum_2a.jpg
+13;E:\code/datasets/test\Aulacoseira\Aulacoseira humilis-GC113175a_AUhum_4.jpg
+13;E:\code/datasets/test\Aulacoseira\Aulacoseira islandica-5.jpg
+13;E:\code/datasets/test\Aulacoseira\Aulacoseira islandica-6.jpg
+13;E:\code/datasets/test\Aulacoseira\Aulacoseira italica-GS027063_04.jpg
+13;E:\code/datasets/test\Aulacoseira\Aulacoseira italica-GSL00897_1a.jpg
+13;E:\code/datasets/test\Aulacoseira\Aulacoseira italica-mt1233_04.jpg
+13;E:\code/datasets/test\Aulacoseira\Aulacoseira lirata-WACA22_AUlir2b.jpg
+13;E:\code/datasets/test\Aulacoseira\Aulacoseira lirata-WACA22_AUlir3.jpg
+13;E:\code/datasets/test\Aulacoseira\Aulacoseira lirata2.jpg
+13;E:\code/datasets/test\Aulacoseira\Aulacoseira muzzanensis-GS113589_2b.jpg
+13;E:\code/datasets/test\Aulacoseira\Aulacoseira muzzanensis-GS113589_6.jpg
+13;E:\code/datasets/test\Aulacoseira\Aulacoseira muzzanensis-GS113589_8.jpg
+13;E:\code/datasets/test\Aulacoseira\Aulacoseira nivalis-MO000292_7a.jpg
+13;E:\code/datasets/test\Aulacoseira\Aulacoseira nivalis-MO000292_8a.jpg
+13;E:\code/datasets/test\Aulacoseira\Aulacoseira nivalis-MO000292_8b.jpg
+13;E:\code/datasets/test\Aulacoseira\Aulacoseira nygaardii6.jpg
+13;E:\code/datasets/test\Aulacoseira\Aulacoseira nygaardii7.jpg
+13;E:\code/datasets/test\Aulacoseira\Aulacoseira pusilla-AUpus_GSN97387_2b.jpg
+13;E:\code/datasets/test\Aulacoseira\Aulacoseira pusilla-GS020101_012.jpg
+13;E:\code/datasets/test\Aulacoseira\Aulacoseira subarctica7.jpg
+13;E:\code/datasets/test\Aulacoseira\Aulacoseira subarctica8.jpg
+13;E:\code/datasets/test\Aulacoseira\Aulacoseira subarctica9.jpg
+13;E:\code/datasets/test\Aulacoseira\Aulacoseira tenella-GSN97387_3a.jpg
+13;E:\code/datasets/test\Aulacoseira\Aulacoseira tenella-GSN97387_3b.jpg
+13;E:\code/datasets/test\Aulacoseira\Aulacoseira tenella-GSN97387_5a.jpg
+13;E:\code/datasets/test\Aulacoseira\Aulacoseira valida6.jpg
+13;E:\code/datasets/test\Aulacoseira\Aulacoseira valida7.jpg
+14;E:\code/datasets/test\Bacillaria\Bacillaria paxillifera4.jpg
+14;E:\code/datasets/test\Bacillaria\Bacillaria paxillifera5.jpg
+16;E:\code/datasets/test\Biremis\Biremis circumtexta-MO000191_6.jpg
+16;E:\code/datasets/test\Biremis\Biremis circumtexta-MO000191_7.jpg
+16;E:\code/datasets/test\Biremis\Biremis undulata -603_30.2um_CAS_Biremis_undulata2.jpg
+17;E:\code/datasets/test\Boreozonacola\Boreozonacola  hustedtii-Bhustedtii3.jpg
+17;E:\code/datasets/test\Boreozonacola\Boreozonacola olympica-Bolympica5.jpg
+18;E:\code/datasets/test\Brachysira\Brachysira arctoborealis-6.jpg
+18;E:\code/datasets/test\Brachysira\Brachysira brebissonii -CANA_LM_78270-006_NA.jpg
+18;E:\code/datasets/test\Brachysira\Brachysira brebissonii -CANA_LM_78270-009_NA.jpg
+18;E:\code/datasets/test\Brachysira\Brachysira brebissonii -CANA_LM_78270-025_NA.jpg
+18;E:\code/datasets/test\Brachysira\Brachysira follis-ME10011_B_101117_219.jpg
+18;E:\code/datasets/test\Brachysira\Brachysira hannae-CANA_LM_78274-013_NA.jpg
+18;E:\code/datasets/test\Brachysira\Brachysira microcephala-NCPA_0042-6-cropped.jpg
+18;E:\code/datasets/test\Brachysira\Brachysira microcephala-NCPA_0042-8-cropped.jpg
+18;E:\code/datasets/test\Brachysira\Brachysira neoacuta-CANA_LM_78274-007_NA.jpg
+18;E:\code/datasets/test\Brachysira\Brachysira neoacuta-CANA_LM_78274-014_NA.jpg
+18;E:\code/datasets/test\Brachysira\Brachysira neoacuta-CANA_LM_78274-016_NA.jpg
+18;E:\code/datasets/test\Brachysira\Brachysira ocalanensis-Brachysira_micro_morph1.jpg
+18;E:\code/datasets/test\Brachysira\Brachysira ocalanensis-morph1_4.jpg
+18;E:\code/datasets/test\Brachysira\Brachysira serians-CANA_LM_78270-010_NA.jpg
+18;E:\code/datasets/test\Brachysira\Brachysira serians-CANA_LM_78270-024_NA.jpg
+18;E:\code/datasets/test\Brachysira\Brachysira styriaca-styriaca4.jpg
+18;E:\code/datasets/test\Brachysira\Brachysira styriaca-styriaca6.jpg
+18;E:\code/datasets/test\Brachysira\Brachysira subtilis-GC64398_55a.jpg
+18;E:\code/datasets/test\Brachysira\Brachysira subtilis-_38_cl.jpg
+18;E:\code/datasets/test\Brachysira\Brachysira vitrea-5.jpg
+18;E:\code/datasets/test\Brachysira\Brachysira vitrea-_6.jpg
+18;E:\code/datasets/test\Brachysira\Brachysira zellensis-5.jpg
+19;E:\code/datasets/test\Brebissonia\Brebissonia lanceolata-_dup2.jpg
+20;E:\code/datasets/test\Caloneis\Caloneis amphisbaena-ILL2014_037_7.jpg
+20;E:\code/datasets/test\Caloneis\Caloneis bacillum-25.4(10¦Ìm).jpg
+20;E:\code/datasets/test\Caloneis\Caloneis fusus6.jpg
+20;E:\code/datasets/test\Caloneis\Caloneis fusus7.jpg
+20;E:\code/datasets/test\Caloneis\Caloneis lewisii7.jpg
+20;E:\code/datasets/test\Caloneis\Caloneis lewisii8.jpg
+20;E:\code/datasets/test\Caloneis\Caloneis silicula-_004.jpg
+21;E:\code/datasets/test\Campylodiscus\Campylodiscus hibernicus-4.jpg
+21;E:\code/datasets/test\Campylodiscus\Campylodiscus hibernicus-5.jpg
+21;E:\code/datasets/test\Campylodiscus\Campylodiscus hibernicus-7.jpg
+23;E:\code/datasets/test\Capartogramma\Capartogramma crucicula8.jpg
+23;E:\code/datasets/test\Capartogramma\Capartogramma crucicula9.jpg
+24;E:\code/datasets/test\Cavinula\Cavinula cocconeiformis-initialvalve.jpg
+24;E:\code/datasets/test\Cavinula\Cavinula cocconeiformis-sl57f.jpg
+24;E:\code/datasets/test\Cavinula\Cavinula davisiae-Cavdavis6.jpg
+24;E:\code/datasets/test\Cavinula\Cavinula davisiae-Cavdavis7.jpg
+24;E:\code/datasets/test\Cavinula\Cavinula davisiae-Cavdavis_SEM_internal_center.jpg
+24;E:\code/datasets/test\Cavinula\Cavinula lapidosa5.jpg
+24;E:\code/datasets/test\Cavinula\Cavinula maculata-GC103280a_CA5_ed.jpg
+24;E:\code/datasets/test\Cavinula\Cavinula maculata-GC103280a_CA6_ed.jpg
+24;E:\code/datasets/test\Cavinula\Cavinula pseudoscutiformis-C_pseudoscutiformis4.jpg
+24;E:\code/datasets/test\Cavinula\Cavinula pseudoscutiformis-C_pseudoscutiformis5.jpg
+24;E:\code/datasets/test\Cavinula\Cavinula pusio-Cavpusio6.jpg
+24;E:\code/datasets/test\Cavinula\Cavinula pusio-Cavpusio7.jpg
+24;E:\code/datasets/test\Cavinula\Cavinula scutelloides-GC8526_5.jpg
+24;E:\code/datasets/test\Cavinula\Cavinula scutiformis-Cavscutiformis6.jpg
+24;E:\code/datasets/test\Cavinula\Cavinula scutiformis-Cavscutiformis7.jpg
+24;E:\code/datasets/test\Cavinula\Cavinula vincentii-PBH-LM-CANA74863-041c.jpg
+24;E:\code/datasets/test\Cavinula\Cavinula vincentii-PBH-SEM-74863-52_crop.jpg
+24;E:\code/datasets/test\Cavinula\Cavinula-jaernefeltii-NYHP001_A_121417_05_c.jpg
+24;E:\code/datasets/test\Cavinula\Cavinula-jaernefeltii-VT10003_V2_A_011018_10_c.jpg
+24;E:\code/datasets/test\Cavinula\Cavinula-variostriata-RI006_09202017__67_c.jpg
+25;E:\code/datasets/test\Chaetoceros\Chaetoceros muelleri -CHelmorei_MBE504_576_19.5.jpg
+25;E:\code/datasets/test\Chaetoceros\Chaetoceros muelleri -CHelmorei__ILL2006-56_325_10.9.jpg
+25;E:\code/datasets/test\Chaetoceros\Chaetoceros-lauderi-LM4.jpg
+25;E:\code/datasets/test\Chaetoceros\Chaetoceros-lauderi-LM5.jpg
+25;E:\code/datasets/test\Chaetoceros\Chaetoceros-lauderi_ANSP_GCM5770_02.jpg
+26;E:\code/datasets/test\Chamaepinnularia\Chamaepinnularia hassiaca5.jpg
+26;E:\code/datasets/test\Chamaepinnularia\Chamaepinnularia mediocris-C_mediocris_113003b_101x12.jpg
+26;E:\code/datasets/test\Chamaepinnularia\Chamaepinnularia mediocris-C_mediocris_114819b_96x12.jpg
+26;E:\code/datasets/test\Chamaepinnularia\Chamaepinnularia soehrensis6.jpg
+26;E:\code/datasets/test\Chamaepinnularia\Chamaepinnularia witkowskii-ChamWitkowskii_LittleElmore_12t_2_2021-02-09-200224.jpg
+26;E:\code/datasets/test\Chamaepinnularia\Chamaepinnularia witkowskii-ChamWitkowskii_LittleElmore_12t_3.jpg
+27;E:\code/datasets/test\Cocconeis\Cocconeis fluviatilis-GSN23403_1_ed.jpg
+27;E:\code/datasets/test\Cocconeis\Cocconeis fluviatilis-GSN23403_2_ed.jpg
+27;E:\code/datasets/test\Cocconeis\Cocconeis klamathensis-klamath_003.jpg
+27;E:\code/datasets/test\Cocconeis\Cocconeis klamathensis-klamath_006.jpg
+27;E:\code/datasets/test\Cocconeis\Cocconeis klamathensis-klamath_010.jpg
+27;E:\code/datasets/test\Cocconeis\Cocconeis neodiminuta7.jpg
+27;E:\code/datasets/test\Cocconeis\Cocconeis neodiminuta8.jpg
+27;E:\code/datasets/test\Cocconeis\Cocconeis neodiminuta9.jpg
+27;E:\code/datasets/test\Cocconeis\Cocconeis pediculus -25.3(10¦Ìm).jpg
+27;E:\code/datasets/test\Cocconeis\Cocconeis pediculus -25.4(10¦Ìm).jpg
+27;E:\code/datasets/test\Cocconeis\Cocconeis pediculus -Cocconeis_pediculus_SEM_1.jpg
+27;E:\code/datasets/test\Cocconeis\Cocconeis placentula sensu lato  -GC109658_MO000285_CCplac1_ed.jpg
+27;E:\code/datasets/test\Cocconeis\Cocconeis placentula sensu lato  -GC109658_MO000285_CCplac3_ed.jpg
+27;E:\code/datasets/test\Cocconeis\Cocconeis placentula sensu lato  -NCPA206_CCplac4_ed.jpg
+27;E:\code/datasets/test\Cocconeis\Cocconeis pseudothumensis-NLS00444_7.jpg
+27;E:\code/datasets/test\Cocconeis\Cocconeis pseudothumensis-NLS00444_9b_(1).jpg
+27;E:\code/datasets/test\Cocconeis\Cocconeis-cascadensis-LM06.jpg
+27;E:\code/datasets/test\Cocconeis\Cocconeis-cascadensis-LM07.jpg
+27;E:\code/datasets/test\Cocconeis\Cocconeis-cascadensis-LM08.jpg
+27;E:\code/datasets/test\Cocconeis\Cocconeis_grovei_Terrebonne_RV3_RK.jpg
+29;E:\code/datasets/test\Cosmioneis\Cosmioneis  hawai'iensis-SEM_C_cosmioneis1.jpg
+29;E:\code/datasets/test\Cosmioneis\Cosmioneis citriformisccit4.jpg
+29;E:\code/datasets/test\Cosmioneis\Cosmioneis citriformisCcit7.jpg
+29;E:\code/datasets/test\Cosmioneis\Cosmioneis reimeri-creimeria33.jpg
+29;E:\code/datasets/test\Cosmioneis\Cosmioneis reimeri-Crimer.jpg
+30;E:\code/datasets/test\Craticula\Craticula accomoda-NCPA_0247_046.jpeg
+30;E:\code/datasets/test\Craticula\Craticula accomoda-NCPA_0247_06.jpeg
+30;E:\code/datasets/test\Craticula\Craticula accomodiformis-CRaccomodiformis-4.jpg
+30;E:\code/datasets/test\Craticula\Craticula accomodiformis-CRaccomodiformis-7.jpg
+30;E:\code/datasets/test\Craticula\Craticula acidoclinata-Cratacid5.jpg
+30;E:\code/datasets/test\Craticula\Craticula acidoclinata-Cratacid7.jpg
+30;E:\code/datasets/test\Craticula\Craticula buderi -Cratbuderi4.jpg
+30;E:\code/datasets/test\Craticula\Craticula citrus6.jpg
+30;E:\code/datasets/test\Craticula\Craticula citrus7.jpg
+30;E:\code/datasets/test\Craticula\Craticula coloradensis -6.Crat_obtusa_6_herib_123.7.jpg
+30;E:\code/datasets/test\Craticula\Craticula coloradensis -Radford_mix_025.jpg
+30;E:\code/datasets/test\Craticula\Craticula coloradensis -test1_bse_004.jpg
+30;E:\code/datasets/test\Craticula\Craticula cuspidata-C_cuspidata_valve_formsGRAY.jpg
+30;E:\code/datasets/test\Craticula\Craticula halophila -Crathalophila5.jpg
+30;E:\code/datasets/test\Craticula\Craticula halophila -Crathalophila7.jpg
+30;E:\code/datasets/test\Craticula\Craticula johnstoniae-Cratjohn4.jpg
+30;E:\code/datasets/test\Craticula\Craticula molestiformis -pic7_102984b_mm.jpg
+30;E:\code/datasets/test\Craticula\Craticula molestiformis -pic8_102988a_mm.jpg
+30;E:\code/datasets/test\Craticula\Craticula pampeana5.jpg
+30;E:\code/datasets/test\Craticula\Craticula riparia-Crat_riparia_NCPA0229_25heribaud_cl.jpeg
+30;E:\code/datasets/test\Craticula\Craticula riparia-Crat_riparia_NCPA0229_40_cl.jpeg
+30;E:\code/datasets/test\Craticula\Craticula sardiniana-Cratsard6.jpg
+30;E:\code/datasets/test\Craticula\Craticula subminuscula-46562_LM5.jpg
+30;E:\code/datasets/test\Craticula\Craticula subminuscula-46562_LM6.jpg
+30;E:\code/datasets/test\Craticula\Craticula_ambigua_2811_5-7-15_l2.jpg
+31;E:\code/datasets/test\Ctenophora\Ctenophora pulchella-JKJ_Ctenophora_696x46modified.jpg
+32;E:\code/datasets/test\Cyclostephanos\Cyclostephanos dubius-25.4(10¦Ìm).jpg
+32;E:\code/datasets/test\Cyclostephanos\Cyclostephanos dubius-25.5(10¦Ìm).jpg
+32;E:\code/datasets/test\Cyclostephanos\Cyclostephanos invisitatus -CYinvistatus-2.jpg
+32;E:\code/datasets/test\Cyclostephanos\Cyclostephanos tholiformis-MISSRCYtholiformis.jpg
+33;E:\code/datasets/test\Cyclotella\Cyclotella atomus-25.3(10¦Ìm).jpg
+33;E:\code/datasets/test\Cyclotella\Cyclotella atomus-25.4(10¦Ìm).jpg
+33;E:\code/datasets/test\Cyclotella\Cyclotella distinguenda-_Cdis29.2_.jpg
+33;E:\code/datasets/test\Cyclotella\Cyclotella distinguenda-_Cdis9.6_.jpg
+33;E:\code/datasets/test\Cyclotella\Cyclotella meneghiniana-cy_meneghiniana_15615a_08242015_11_cl.jpeg
+33;E:\code/datasets/test\Cyclotella\Cyclotella meneghiniana-cy_meneghiniana_15640a_10132015_08_cl.jpeg
+33;E:\code/datasets/test\Cyclotella\Cyclotella quillensis -CYquill_MBE504_50_7_1500.jpg
+33;E:\code/datasets/test\Cyclotella\Cyclotella quillensis -CYquill_MBE504_53_0_1583.jpg
+33;E:\code/datasets/test\Cyclotella\Cyclotella_gamma_5.jpg
+34;E:\code/datasets/test\Cymatopleura\Cymatopleura internationale6.jpg
+34;E:\code/datasets/test\Cymatopleura\Cymatopleura internationale7.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella  janischii-25.5(10¦Ìm).jpg
+35;E:\code/datasets/test\Cymbella\Cymbella affiniformis7.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella affiniformis8.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella affinis -GS009123_GC100325_7.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella affinis -GS009123_GC100325_8.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella alpestris-Cymbella_alpestris_2_431401.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella alpestris-Cymbella_alpestris_5_431401.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella amplificata-Cymbeamplificata4.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella amplificata-Cymbeamplificata7.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella aspera-Cymbella_aspera4.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella cosleyi-Cymbellacosleyi5.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella cosleyi-Cymbellacosleyi6.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella cosleyi8.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella designata-Cymbopleura_citriformis_5.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella excisiformis-NCPA0225_CYexcisiform_6.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella excisiformis-NCPA0225_CYexcisiform_7.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella mexicana -9-Grove_Lake.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella mexicana -Yellowstone8_7-8cm.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella mexicana var. kamtschatica6.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella mexicana var. kamtschatica7.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella neocistula var. islandica6.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella neocistula var. islandica7.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella neoleptoceros -Cymbella_neoleptoceros7.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella proxima  f. gravida6.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella proxima  f. gravida7.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella proxima -NCPA0317_CYprox_3copy.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella proxima -NCPA0317_CYprox_4copy.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella subturgidula -GS001343_CYsubturg_9_copy.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella subturgidula -GS001393_05.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella subturgidula -GS001393_06.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella tropica -GSN00414_GC105255_CYtrop6_copy.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella tropica -GSN17706_11.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella tropica -GSN17706_13.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella tumida-GS011143_4.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella tumida-GS011143_5.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella tumida-GS011143_9.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella turgidula -NRSA0519_GC112431b_7_copy.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella turgidula -NRSA0519_GC112431b_8_copy.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella vulgata -Cymbella_vulgata6.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella vulgata -Cymbella_vulgata7.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella-fontinalis-4923-5-holotype_rev.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella-fontinalis-4923-7rev.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella_blinnii4.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella_blinnii5.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella_compacta5.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella_compacta7.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella_cymbiformis_439301_1.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella_fontinalis_SEM_InternalMIddle1micron.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella_hantzschiana_5_336301.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella_hantzschiana_6_419501.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella_hustedtii3.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella_hustedtii5.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella_laevis_453001_5.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella_laevis_453001_7.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella_lanceolata5.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella_maggiana_409801_4.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella_maggiana_409801_6.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella_neocistula_L-4-33_5.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella_parva_404501_6.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella_parva_404501_7.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella_perfossilis_4_274201.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella_perfossilis_5_465801.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella_rumrichae4.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella_rumrichae6.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella_stigmaphora6.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella_stigmaphora7.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella_subleptoceros5.jpg
+35;E:\code/datasets/test\Cymbella\Cymbella_subleptoceros6.jpg
+36;E:\code/datasets/test\Cymbellonitzschia\Cymbellonitzschia diluviana-cymbellonitzschia_004.jpg
+36;E:\code/datasets/test\Cymbellonitzschia\Cymbellonitzschia diluviana-cymbellonitzschia_007.jpg
+37;E:\code/datasets/test\Cymbopleura\Cymbopleura  incerta  -Cymboincerta6.jpg
+37;E:\code/datasets/test\Cymbopleura\Cymbopleura anglica -Cymboanglica5.jpg
+37;E:\code/datasets/test\Cymbopleura\Cymbopleura anglica -Cymboanglica6.jpg
+37;E:\code/datasets/test\Cymbopleura\Cymbopleura angustata -Cymboangustata6.jpg
+37;E:\code/datasets/test\Cymbopleura\Cymbopleura apiculata -Cymboapiculata6.jpg
+37;E:\code/datasets/test\Cymbopleura\Cymbopleura austriaca -Cymbopleuraaustriaca4.jpg
+37;E:\code/datasets/test\Cymbopleura\Cymbopleura austriaca -Cymbopleuraaustriaca5.jpg
+37;E:\code/datasets/test\Cymbopleura\Cymbopleura bella designata6.jpg
+37;E:\code/datasets/test\Cymbopleura\Cymbopleura crassipunctata -Cymbopleura austriaca -25.4(10¦Ìm).jpg
+37;E:\code/datasets/test\Cymbopleura\Cymbopleura edlundii -Cymboedlundii_endSEM.jpg
+37;E:\code/datasets/test\Cymbopleura\Cymbopleura edlundii -Cymboedlundii_middleSEM.jpg
+37;E:\code/datasets/test\Cymbopleura\Cymbopleura elliptica -Cymbohybrid4.jpg
+37;E:\code/datasets/test\Cymbopleura\Cymbopleura elliptica -Cymbohybrid6.jpg
+37;E:\code/datasets/test\Cymbopleura\Cymbopleura florentina-Cymbopleura_florentina_4.jpg
+37;E:\code/datasets/test\Cymbopleura\Cymbopleura fluminea -Cymbopleura_linearis_Bogan_3.jpg
+37;E:\code/datasets/test\Cymbopleura\Cymbopleura fluminea -Cymbopleura_linearis_Bogan_4.jpg
+37;E:\code/datasets/test\Cymbopleura\Cymbopleura frequens -Cymbopleura_frequens_5_358701.jpg
+37;E:\code/datasets/test\Cymbopleura\Cymbopleura heinii -Cymboheinii4.jpg
+37;E:\code/datasets/test\Cymbopleura\Cymbopleura heinii -Cymboheinii5.jpg
+37;E:\code/datasets/test\Cymbopleura\Cymbopleura hybrida -Cymbopleura_hybrida_4.jpg
+37;E:\code/datasets/test\Cymbopleura\Cymbopleura hybrida -Cymbopleura_hybrida_6.jpg
+37;E:\code/datasets/test\Cymbopleura\Cymbopleura inaequalis -Cymboinaequalis7-1.jpg
+37;E:\code/datasets/test\Cymbopleura\Cymbopleura incertiformis var. laterostrata6.jpg
+37;E:\code/datasets/test\Cymbopleura\Cymbopleura incertiformis var. linearis6.jpg
+37;E:\code/datasets/test\Cymbopleura\Cymbopleura incertiformis-Cymbopleura_incertiformis_7.jpg
+37;E:\code/datasets/test\Cymbopleura\Cymbopleura lapponica -Cymbopleuralapponica4.jpg
+37;E:\code/datasets/test\Cymbopleura\Cymbopleura laszlorum -Cymbopleura-laszlorum_MDC_689301_4.jpg
+37;E:\code/datasets/test\Cymbopleura\Cymbopleura lata-Cymbolata5.jpg
+37;E:\code/datasets/test\Cymbopleura\Cymbopleura lata-Cymbolata7.jpg
+37;E:\code/datasets/test\Cymbopleura\Cymbopleura maggieae -Cymbopleura_maggieae_5.jpg
+37;E:\code/datasets/test\Cymbopleura\Cymbopleura maggieae -Cymbopleura_maggieae_6.jpg
+37;E:\code/datasets/test\Cymbopleura\Cymbopleura metzeltinii -Cymbometzeltinii7_1.jpg
+37;E:\code/datasets/test\Cymbopleura\Cymbopleura naviculiformis-Cymbonavi5.jpg
+37;E:\code/datasets/test\Cymbopleura\Cymbopleura oblongata -Cymbooblongata5.jpg
+37;E:\code/datasets/test\Cymbopleura\Cymbopleura perprocera -Cymbopleura_perprocera_5.jpg
+37;E:\code/datasets/test\Cymbopleura\Cymbopleura perprocera -Cymbopleura_perprocera_7.jpg
+37;E:\code/datasets/test\Cymbopleura\Cymbopleura rainierensis-Cymberainierensis4.jpg
+37;E:\code/datasets/test\Cymbopleura\Cymbopleura rainierensis-Cymberainierensis5.jpg
+37;E:\code/datasets/test\Cymbopleura\Cymbopleura rainierensis-Cymberainierensis6.jpg
+37;E:\code/datasets/test\Cymbopleura\Cymbopleura rupicola -Cymborupicola_5.jpg
+37;E:\code/datasets/test\Cymbopleura\Cymbopleura stauroneiformis -CymbopleuraStauroneiformis_GC63415_11.jpg
+37;E:\code/datasets/test\Cymbopleura\Cymbopleura stauroneiformis -CymbopleuraStauroneiformis_GC63415_8.jpg
+37;E:\code/datasets/test\Cymbopleura\Cymbopleura subaequalis-Cymbosubaequalis7.jpg
+37;E:\code/datasets/test\Cymbopleura\Cymbopleura subcuspidata -Cymbosubcusp5.jpg
+37;E:\code/datasets/test\Cymbopleura\Cymbopleura sublanceolata -Cymbosublance6_1.jpg
+37;E:\code/datasets/test\Cymbopleura\Cymbopleura sublanceolata -Cymbosublance7_1.jpg
+37;E:\code/datasets/test\Cymbopleura\Cymbopleura subrostrata -Cymbosubrostrata4.jpg
+37;E:\code/datasets/test\Cymbopleura\Cymbopleura subrostrata -Cymbosubrostrata6.jpg
+37;E:\code/datasets/test\Cymbopleura\Cymbopleura tundraphila -Cymbopleura_tundraphila_5_683001.jpg
+37;E:\code/datasets/test\Cymbopleura\Cymbopleura tynnii -Cymbopleura_tynnii_3.jpg
+37;E:\code/datasets/test\Cymbopleura\Cymbopleura_amphicephala_081301_6.jpg
+37;E:\code/datasets/test\Cymbopleura\Cymbopleura_amphicephala_384201_3.jpg
+38;E:\code/datasets/test\Decussata\Decussata placenta -decussata_005.jpg
+38;E:\code/datasets/test\Decussata\Decussata placenta -decussta_006.jpg
+39;E:\code/datasets/test\Delicata\Delicata alpestris -Delicata_alpestris_5_076101.jpg
+39;E:\code/datasets/test\Delicata\Delicata alpestris -Delicata_alpestris_6_076101.jpg
+39;E:\code/datasets/test\Delicata\Delicata bopleura tundraphila5.jpg
+39;E:\code/datasets/test\Delicata\Delicata canadensis -Delicata_canadensis_3_683001.jpg
+39;E:\code/datasets/test\Delicata\Delicata canadensis -Delicata_canadensis_4_683001.jpg
+39;E:\code/datasets/test\Delicata\Delicata delicatula -Delicata_delicatula_4_147904.jpg
+39;E:\code/datasets/test\Delicata\Delicata delicatula -Delicata_delicatula_5_147904.jpg
+39;E:\code/datasets/test\Delicata\Delicata montana -Delicata_montana_3_290102.jpg
+39;E:\code/datasets/test\Delicata\Delicata montana -Delicata_montana_5_290102.jpg
+39;E:\code/datasets/test\Delicata\Delicata montana -Delicata_montana_6_290102.jpg
+40;E:\code/datasets/test\Denticula\Denticula creticola -GC52244a_16_cl.jpeg
+40;E:\code/datasets/test\Denticula\Denticula creticola -GC52244a_23_cl.jpeg
+40;E:\code/datasets/test\Denticula\Denticula subtilis -BBDC0071_Denticula_subtilis3.jpg
+40;E:\code/datasets/test\Denticula\Denticula subtilis -BBDC0072_Denticula_subtilis.jpg
+40;E:\code/datasets/test\Denticula\Denticula subtilis -BBDC0072_Denticula_subtilis2.jpg
+40;E:\code/datasets/test\Denticula\Denticula tenuis -denticula_tenuis_005.jpg
+40;E:\code/datasets/test\Denticula\Denticula tenuis -denticula_tenuis_005b.jpg
+41;E:\code/datasets/test\Diadesmis\Diadesmis confervacea -confervacea_003.jpg
+42;E:\code/datasets/test\Diatoma\Diatoma ehrenbergii -DIehrenbergii-6.jpg
+42;E:\code/datasets/test\Diatoma\Diatoma ehrenbergii -DIehrenbergii-9.jpg
+42;E:\code/datasets/test\Diatoma\Diatoma moniliformis -27008_LM4.jpg
+42;E:\code/datasets/test\Diatoma\Diatoma moniliformis -27008_LM5.jpg
+42;E:\code/datasets/test\Diatoma\Diatoma tenuis -NYON0016_4.jpg
+42;E:\code/datasets/test\Diatoma\Diatoma tenuis -NYON0016_5.jpg
+42;E:\code/datasets/test\Diatoma\Diatoma tenuis -NYON0016_7.jpg
+42;E:\code/datasets/test\Diatoma\Diatoma vulgaris -27013_LM4.jpg
+42;E:\code/datasets/test\Diatoma\Diatoma vulgaris -27013_LM5.jpg
+43;E:\code/datasets/test\Diatomella\Diatomella balfouriana -diatomella_005.jpg
+43;E:\code/datasets/test\Diatomella\Diatomella balfouriana -diatomella_007.jpg
+44;E:\code/datasets/test\Didymosphenia\Didymosphenia geminata -BLUE_4_10.jpg
+45;E:\code/datasets/test\Diploneis\Diploneis abscondita-Diploneis-abscondita-LM5.jpg
+45;E:\code/datasets/test\Diploneis\Diploneis abscondita-Diploneis-abscondita-LM7.jpg
+45;E:\code/datasets/test\Diploneis\Diploneis boldtiana -Diploneis-boldtiana-LM5.jpg
+45;E:\code/datasets/test\Diploneis\Diploneis calcicolafrequens -NEON_06_cl.jpg
+45;E:\code/datasets/test\Diploneis\Diploneis calcicolafrequens -NEON_08_cl.jpg
+45;E:\code/datasets/test\Diploneis\Diploneis calcilacustris -Diploneis-calcilacustris-LM5.jpg
+45;E:\code/datasets/test\Diploneis\Diploneis calcilacustris -VT10090_A_110917_14.tif.jpg
+45;E:\code/datasets/test\Diploneis\Diploneis elliptica -DIelliptica-5.jpg
+45;E:\code/datasets/test\Diploneis\Diploneis finnica -Dfinnica2.jpg
+45;E:\code/datasets/test\Diploneis\Diploneis finnica -Dfinnica5.jpg
+45;E:\code/datasets/test\Diploneis\Diploneis ovalis -Diploneis_ovalis_5.jpg
+45;E:\code/datasets/test\Diploneis\Diploneis ovalis -Diploneis_ovalis_7.jpg
+45;E:\code/datasets/test\Diploneis\Diploneis potapovae -Diploneis-potapovae-LM7.jpg
+45;E:\code/datasets/test\Diploneis\Diploneis puella -Diploneis-puella-LM3.jpg
+45;E:\code/datasets/test\Diploneis\Diploneis puella -Diploneispuella17172_120318_06.tif.jpg
+45;E:\code/datasets/test\Diploneis\Diploneis texana -Diploneis-texana-LM8.jpg
+45;E:\code/datasets/test\Diploneis\Diploneis texana -Diploneis-texana-LM9.jpg
+46;E:\code/datasets/test\Diprora\Diprora haenaensis-DSCN1911ed.jpg
+46;E:\code/datasets/test\Diprora\Diprora haenaensis-DSCN1914ed.jpg
+47;E:\code/datasets/test\Discostella\Discostella asterocostata -Discostella asterocostata -25.1(10¦Ìm).jpg
+47;E:\code/datasets/test\Discostella\Discostella asterocostata -Discostella-asterocostata-SEM1.jpg
+47;E:\code/datasets/test\Discostella\Discostella asterocostata -Discostella-asterocostata_SEM3-copy.jpg
+47;E:\code/datasets/test\Discostella\Discostella asterocostata -Discostella-asterocostata_SEM8.jpg
+47;E:\code/datasets/test\Discostella\Discostella lakuskarluki -KODK00062_37_DONA.jpg
+47;E:\code/datasets/test\Discostella\Discostella lakuskarluki -KODK00062_7a_DONA.jpg
+47;E:\code/datasets/test\Discostella\Discostella lakuskarluki -KODK00062_7b_DONA.jpg
+47;E:\code/datasets/test\Discostella\Discostella pseudostelligera -45221apseudostellrex2.jpg
+47;E:\code/datasets/test\Discostella\Discostella pseudostelligera -45221apseudostellrex7lowfoc.jpg
+47;E:\code/datasets/test\Discostella\Discostella stelligera -25.3(10¦Ìm).jpg
+47;E:\code/datasets/test\Discostella\Discostella stelligera -cyclotella_stelligera_TEM.jpg
+48;E:\code/datasets/test\Distrionella\Distrionella incognita-Distincog5.jpg
+48;E:\code/datasets/test\Distrionella\Distrionella incognita-Distincog7.jpg
+49;E:\code/datasets/test\Ellerbeckia\Ellerbeckia arenaria-Elleraren6.jpg
+49;E:\code/datasets/test\Ellerbeckia\Ellerbeckia arenaria-Elleraren_gv.jpg
+49;E:\code/datasets/test\Ellerbeckia\Ellerbeckia arenaria-Mantles_and_external_openings_of_fultoportulae_4000X_copy.jpg
+50;E:\code/datasets/test\Encyonema\Encyonema appalachianum-SWPA0002_Enc6.jpg
+50;E:\code/datasets/test\Encyonema\Encyonema appalachianum-SWPA0002_Enc7.jpg
+50;E:\code/datasets/test\Encyonema\Encyonema auerswaldii -_114024b_111.jpg
+50;E:\code/datasets/test\Encyonema\Encyonema evergladianum -MPR09-04_crop.jpg
+50;E:\code/datasets/test\Encyonema\Encyonema hamsherae-Eham2_m06_rev.jpg
+50;E:\code/datasets/test\Encyonema\Encyonema hamsherae-Eham2_m08_rev.jpg
+50;E:\code/datasets/test\Encyonema\Encyonema hebridicum-hebridicum6.png
+50;E:\code/datasets/test\Encyonema\Encyonema lange-bertalotii -Encyonema_lange-bertalotii_6.jpg
+50;E:\code/datasets/test\Encyonema\Encyonema latum -E_latum5.jpg
+50;E:\code/datasets/test\Encyonema\Encyonema leibleinii -L-2-59-60.0.jpg
+50;E:\code/datasets/test\Encyonema\Encyonema lunatum -Encyonema_lunatum_686301.jpg
+50;E:\code/datasets/test\Encyonema\Encyonema minutum var. pseudogracilis7.jpg
+50;E:\code/datasets/test\Encyonema\Encyonema minutum var. pseudogracilis8.jpg
+50;E:\code/datasets/test\Encyonema\Encyonema montana -Encyonema_sp._212501_6.jpg
+50;E:\code/datasets/test\Encyonema\Encyonema montana -Encyonema_sp._212501_7.jpg
+50;E:\code/datasets/test\Encyonema\Encyonema neogracile -Encyonema_neogracile_5.jpg
+50;E:\code/datasets/test\Encyonema\Encyonema nicafei -E_nicafe_6.jpg
+50;E:\code/datasets/test\Encyonema\Encyonema nicafei -SEM_3.jpg
+50;E:\code/datasets/test\Encyonema\Encyonema nicafei -SEM_5.jpg
+50;E:\code/datasets/test\Encyonema\Encyonema norvegicum -NorvCenterIn.png
+50;E:\code/datasets/test\Encyonema\Encyonema norvegicum -NorvEnd.png
+50;E:\code/datasets/test\Encyonema\Encyonema norvegicum -NorvEndIn.png
+50;E:\code/datasets/test\Encyonema\Encyonema obscurum  -Encyonema_obscurum_3.jpg
+50;E:\code/datasets/test\Encyonema\Encyonema obscurum  -Encyonema_obscurum_4.jpg
+50;E:\code/datasets/test\Encyonema\Encyonema obscurum  -Encyonema_obscurum_5.jpg
+50;E:\code/datasets/test\Encyonema\Encyonema paucistriatum -Encyonema_paucistriatum_685701_1.jpg
+50;E:\code/datasets/test\Encyonema\Encyonema paucistriatum -Encyonema_paucistriatum_685701_8.jpg
+50;E:\code/datasets/test\Encyonema\Encyonema pergracile -E_lunatum2_copy.jpg
+50;E:\code/datasets/test\Encyonema\Encyonema pergracile -E_lunatum4copy.jpg
+50;E:\code/datasets/test\Encyonema\Encyonema procerum -Encyonema_procerum_452601_3.jpg
+50;E:\code/datasets/test\Encyonema\Encyonema procerum -Encyonema_procerum_452601_5.jpg
+50;E:\code/datasets/test\Encyonema\Encyonema reichardtii -E_reinhardtii_15966a_04062016_07_cl.jpeg
+50;E:\code/datasets/test\Encyonema\Encyonema reichardtii -E_reinhardtii_15966a_04062016_08_cl.jpeg
+50;E:\code/datasets/test\Encyonema\Encyonema reimeri -E_reimeri_SEM4.jpg
+50;E:\code/datasets/test\Encyonema\Encyonema reimeri -E_reimeri_SEM5.jpg
+50;E:\code/datasets/test\Encyonema\Encyonema reimeri -E_reimeri_SEM6.jpg
+50;E:\code/datasets/test\Encyonema\Encyonema sibericum -Encyonema_sibericum_4_686501.jpg
+50;E:\code/datasets/test\Encyonema\Encyonema silesiacum -Encyonema_silesiacum_6_382501.jpg
+50;E:\code/datasets/test\Encyonema\Encyonema silesiacum -Encyonema_silesiacum_7_417701.jpg
+50;E:\code/datasets/test\Encyonema\Encyonema temperei -E_stoermeri5.jpg
+50;E:\code/datasets/test\Encyonema\Encyonema triangulum -Encyonematriangulum5.jpg
+50;E:\code/datasets/test\Encyonema\Encyonema triangulum -Encyonematriangulum6.jpg
+50;E:\code/datasets/test\Encyonema\Encyonema yellowstonianumE_yellowstonianumSEM22.jpg
+50;E:\code/datasets/test\Encyonema\Encyonema yellowstonianumE_yellowstonianumSEM4.jpg
+51;E:\code/datasets/test\Encyonopsis\Encyonopsis aequaliformis-Encyonopsisaequalis_4.jpg
+51;E:\code/datasets/test\Encyonopsis\Encyonopsis aequaliformis-Encyonopsisaequalis_6.jpg
+51;E:\code/datasets/test\Encyonopsis\Encyonopsis albertana -Encyoalbertana6.jpg
+51;E:\code/datasets/test\Encyonopsis\Encyonopsis albertana -Encyoalbertana7.jpg
+51;E:\code/datasets/test\Encyonopsis\Encyonopsis alpina -Encyonopsis_alpina_5.jpg
+51;E:\code/datasets/test\Encyonopsis\Encyonopsis alpina -Encyonopsis_alpina_7.jpg
+51;E:\code/datasets/test\Encyonopsis\Encyonopsis anacondae -Encyonopsis_anaconda5.jpg
+51;E:\code/datasets/test\Encyonopsis\Encyonopsis anacondae -Encyonopsis_anaconda6.jpg
+51;E:\code/datasets/test\Encyonopsis\Encyonopsis bobmarshallensis  -Encyonopsis_moseri6.jpg
+51;E:\code/datasets/test\Encyonopsis\Encyonopsis bobmarshallensis  -Encyonopsis_moseri7.jpg
+51;E:\code/datasets/test\Encyonopsis\Encyonopsis cesatiformis -Encyonopsis_cesatiformis_5.jpg
+51;E:\code/datasets/test\Encyonopsis\Encyonopsis cesatiformis -Encyonopsis_cesatiformis_7.jpg
+51;E:\code/datasets/test\Encyonopsis\Encyonopsis cesatii -Encyocesatii_5.jpg
+51;E:\code/datasets/test\Encyonopsis\Encyonopsis cesatii -Encyocesatii_7.jpg
+51;E:\code/datasets/test\Encyonopsis\Encyonopsis czarneckii  -Encyonopsis_czarneckii_6.jpg
+51;E:\code/datasets/test\Encyonopsis\Encyonopsis czarneckii  -Encyonopsis_czarneckii_7.jpg
+51;E:\code/datasets/test\Encyonopsis\Encyonopsis dakotae -Encyodescripta6.jpg
+51;E:\code/datasets/test\Encyonopsis\Encyonopsis descripta -Encyonopsis_descripta6.jpg
+51;E:\code/datasets/test\Encyonopsis\Encyonopsis descriptiformis -Encyonopsis_descripta_5.jpg
+51;E:\code/datasets/test\Encyonopsis\Encyonopsis falaisensis -Encyofalaisensis_5.jpg
+51;E:\code/datasets/test\Encyonopsis\Encyonopsis falaisensis -Encyofalaisensis_6.jpg
+51;E:\code/datasets/test\Encyonopsis\Encyonopsis hustedtii -Encyonopsiseliseae4.jpg
+51;E:\code/datasets/test\Encyonopsis\Encyonopsis krammeri -Encyonopsis_krammeri_4.jpg
+51;E:\code/datasets/test\Encyonopsis\Encyonopsis krammeri -Encyonopsis_krammeri_6.jpg
+51;E:\code/datasets/test\Encyonopsis\Encyonopsis kutenaiorum -Encyonopsiskutenai_4.jpg
+51;E:\code/datasets/test\Encyonopsis\Encyonopsis kutenaiorum -Encyonopsiskutenai_6.jpg
+51;E:\code/datasets/test\Encyonopsis\Encyonopsis lacusalpini -Encyonopsislacusalpinus4.jpg
+51;E:\code/datasets/test\Encyonopsis\Encyonopsis lacusalpini -Encyonopsislacusalpinus7.jpg
+51;E:\code/datasets/test\Encyonopsis\Encyonopsis lacuscaerulei -Encyonopsis_lacuscaeruleus_5.jpg
+51;E:\code/datasets/test\Encyonopsis\Encyonopsis lacuscaerulei -Encyonopsis_lacuscaeruleus_7.jpg
+51;E:\code/datasets/test\Encyonopsis\Encyonopsis medicinalis -Encyonopsismedicinalis4.jpg
+51;E:\code/datasets/test\Encyonopsis\Encyonopsis medicinalis -Encyonopsismedicinalis5.jpg
+51;E:\code/datasets/test\Encyonopsis\Encyonopsis microcephala -Encyonemopsis_microcephala_005.jpg
+51;E:\code/datasets/test\Encyonopsis\Encyonopsis microcephala -Encyonemopsis_microcephala_007.jpg
+51;E:\code/datasets/test\Encyonopsis\Encyonopsis minuta -Encyonopsisminuta5.jpg
+51;E:\code/datasets/test\Encyonopsis\Encyonopsis minuta -Encyonopsisminuta6.jpg
+51;E:\code/datasets/test\Encyonopsis\Encyonopsis montana -Encyonopsis_montana_5.jpg
+51;E:\code/datasets/test\Encyonopsis\Encyonopsis neerlandica -Encyonopsis_montana4.jpg
+51;E:\code/datasets/test\Encyonopsis\Encyonopsis neerlandica -Encyonopsis_montana6.jpg
+51;E:\code/datasets/test\Encyonopsis\Encyonopsis perborealis -Encyonopsis_perborealis6.jpg
+51;E:\code/datasets/test\Encyonopsis\Encyonopsis perborealis -Encyonopsis_perborealis7.jpg
+51;E:\code/datasets/test\Encyonopsis\Encyonopsis robusta -Encyonopsisnellieae3.jpg
+51;E:\code/datasets/test\Encyonopsis\Encyonopsis robusta -Encyonopsisnellieae4.jpg
+51;E:\code/datasets/test\Encyonopsis\Encyonopsis stafsholtii -Estafsholtii_6.jpg
+51;E:\code/datasets/test\Encyonopsis\Encyonopsis stafsholtii -Estafsholtii_7.jpg
+51;E:\code/datasets/test\Encyonopsis\Encyonopsis subminuta -encyonemopsis_subminuta_006.jpg
+51;E:\code/datasets/test\Encyonopsis\Encyonopsis thumensis6.jpg
+51;E:\code/datasets/test\Encyonopsis\Encyonopsis thumensis7.jpg
+51;E:\code/datasets/test\Encyonopsis\Encyonopsis yonema evergladianum6.jpg
+52;E:\code/datasets/test\Entomoneis\Entomoneis alata-Entomalata6.jpg
+52;E:\code/datasets/test\Entomoneis\Entomoneis alata-Entomalata7.jpg
+52;E:\code/datasets/test\Entomoneis\Entomoneis ornata -Entomornata5.jpg
+52;E:\code/datasets/test\Entomoneis\Entomoneis ornata -Entomornata6.jpg
+52;E:\code/datasets/test\Entomoneis\Entomoneis paludosa -Entompaludosa5.jpg
+52;E:\code/datasets/test\Entomoneis\Entomoneis paludosa -Entompaludosa6.jpg
+52;E:\code/datasets/test\Entomoneis\Entomoneis punctulata -Entompunct6.jpg
+53;E:\code/datasets/test\Envekadea\Envekadea metzeltinii -E_metzeltini_6.jpg
+53;E:\code/datasets/test\Envekadea\Envekadea metzeltinii -internal_central4.jpg
+53;E:\code/datasets/test\Envekadea\Envekadea metzeltinii -internal_end5.jpg
+53;E:\code/datasets/test\Envekadea\Envekadea pachycephala -Envekadea_pachycephala_LA2.jpg
+53;E:\code/datasets/test\Envekadea\Envekadea vanlandinghamii -E_pseudocrassitrostris5.jpg
+53;E:\code/datasets/test\Envekadea\Envekadea vanlandinghamii -E_pseudocrassitrostris6.jpg
+54;E:\code/datasets/test\Eolimna\Eolimna aboensis -Eolimna-aboensis-MEHP003_A_110817_45.jpg
+54;E:\code/datasets/test\Eolimna\Eolimna aboensis -Eolimna-aboensis-VT10090_A_110917_43.jpg
+54;E:\code/datasets/test\Eolimna\Eolimna metafarta -25.3(10¦Ìm).jpeg
+54;E:\code/datasets/test\Eolimna\Eolimna metafarta -715646a_01132016_07_Eolimna_metafarta_SESQA_cl.jpeg
+55;E:\code/datasets/test\Epithemia\Epithemia adnata -EPadIHO44070-4edited.jpg
+55;E:\code/datasets/test\Epithemia\Epithemia adnata -EPadIHO44070-6edited.jpg
+55;E:\code/datasets/test\Epithemia\Epithemia alpestris -Epithemia_alpestris_L-5-71_02.jpg
+55;E:\code/datasets/test\Epithemia\Epithemia alpestris -Epithemia_alpestris_L-5-71_05.jpg
+55;E:\code/datasets/test\Epithemia\Epithemia argus -75microns.jpg
+55;E:\code/datasets/test\Epithemia\Epithemia gibba -rhopalodia_gibba_004.jpg
+55;E:\code/datasets/test\Epithemia\Epithemia gibba -rhopalodia_gibba_006.jpg
+55;E:\code/datasets/test\Epithemia\Epithemia gibberula -RHgibberu-6.jpg
+55;E:\code/datasets/test\Epithemia\Epithemia musculus -musculus_003.jpg
+55;E:\code/datasets/test\Epithemia\Epithemia reichelti -Er5.jpg
+55;E:\code/datasets/test\Epithemia\Epithemia reichelti -Er6.jpg
+55;E:\code/datasets/test\Epithemia\Epithemia smithii -Epithemia.smithii5a.jpg
+55;E:\code/datasets/test\Epithemia\Epithemia smithii -Epithemia.smithii6a.jpg
+55;E:\code/datasets/test\Epithemia\Epithemia sorex -EsorMO000125-6ed.jpg
+55;E:\code/datasets/test\Epithemia\Epithemia sorex -EsorMO000125-8ed_1.jpg
+55;E:\code/datasets/test\Epithemia\Epithemia turgida -EpturIHO41265-4ed_1.jpg
+56;E:\code/datasets/test\Eucocconeis\Eucocconeis alpestris -NLS00235_EUalp_4a_ed.jpg
+56;E:\code/datasets/test\Eucocconeis\Eucocconeis alpestris -NLS00235_EUalp_5b_ed.jpg
+56;E:\code/datasets/test\Eucocconeis\Eucocconeis americana -TypePopulation_4_copy.jpg
+56;E:\code/datasets/test\Eucocconeis\Eucocconeis americana -TypePopulation_5.jpg
+56;E:\code/datasets/test\Eucocconeis\Eucocconeis americana -TypePopulation_7_crptif.jpg
+56;E:\code/datasets/test\Eucocconeis\Eucocconeis depressa -E_depressa2_NLA13-AK21T.jpg
+56;E:\code/datasets/test\Eucocconeis\Eucocconeis depressa -E_depressa5prv_NLA13-AK21T.jpg
+56;E:\code/datasets/test\Eucocconeis\Eucocconeis flexella -Flexella_MT1405A_5b_ed.jpg
+56;E:\code/datasets/test\Eucocconeis\Eucocconeis flexella -Flexella_MT1405A_7a_ed.jpg
+56;E:\code/datasets/test\Eucocconeis\Eucocconeis laevis -GSN23387_EUlaevis_1b_ed.jpg
+56;E:\code/datasets/test\Eucocconeis\Eucocconeis laevis -MO000019_EUlaev_1a_ed.jpg
+56;E:\code/datasets/test\Eucocconeis\Eucocconeis laevis -MO000019_EUlaev_1b_ed.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia areniverma -E_areniverma_6thsmall_r.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia areniverma -E_areniverma_right_inner_apex_1.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia areniverma -E_areniverma_small_r.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia bactriana -eu_bactriana_15950_03262016_16_cl.jpeg
+57;E:\code/datasets/test\Eunotia\Eunotia bactriana -eu_bactriana_15950_03262016_24_cl.jpeg
+57;E:\code/datasets/test\Eunotia\Eunotia bidens -EUbiden-6.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia bidens -EUbiden-7.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia bidentula -eu_diadon_15950_03262016_25_cl.jpeg
+57;E:\code/datasets/test\Eunotia\Eunotia bidentula -eu_diadon_15950_03262016_32_cl.jpeg
+57;E:\code/datasets/test\Eunotia\Eunotia bilii -Eunotia_bilii_girdle_5_19_04_SC2A_girdledorsal.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia bilii -Eunotia_bilii_noIII.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia bilii -E_bilii_SEM_internal_left_apex.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia bilunaris -EuBilun-3.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia bilunaris -EuBilun-6.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia boomsma -Eunotia_boomsma_Cana_Isotype.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia boomsma -Eunotia_boomsma_smallest.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia canicula -E_canicula_isotype.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia canicula -E_canicula_isotype_CANA.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia cataractarum -Eunotia_cataractarum_SEMcloseup_1um.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia cataractarum -Eunotia_cataractarum_SEMinternal_1um.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia cataractarum -Eunotia_cataractarum_small.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia charliereimeri -25.3(10¦Ìm).jpg
+57;E:\code/datasets/test\Eunotia\Eunotia charliereimeri -808_40.4_EunCWR.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia diadema -Eunotiadiadema6.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia diadema -Eunotiadiadema7.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia enischna -Eunotia_enishna_5_19_05_7D.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia enischna -Eunotia_enishna_holotype.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia eruca -AMeruca-4.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia exigua-25.4(10¦Ìm).jpg
+57;E:\code/datasets/test\Eunotia\Eunotia exigua-25.5(10¦Ìm).jpg
+57;E:\code/datasets/test\Eunotia\Eunotia faba -Eunotia_faba_5.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia faba -Eunotia_faba_6.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia formica -EuFormi-3.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia gibbosa -Eunotia_gibbosa_4.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia gibbosa -Eunotia_gibbosa_6.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia hexaglyphis -Eunotia.hex5.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia hexaglyphis -Eunotia.hex6.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia horstii -Eunotia_horstii_CAS_isotype.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia incisa -25.2(2¦Ìm).jpg
+57;E:\code/datasets/test\Eunotia\Eunotia incisa -25.3(10¦Ìm).jpg
+57;E:\code/datasets/test\Eunotia\Eunotia kociolekii -E_kociolekii_holotype.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia kociolekii -E_kociolekii_SEM_inner_7_15_05_3.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia kociolekii -E_kociolekii_SEM_outerleft_7_15_05.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia lewisii -Eunotia_lewisii_02.png
+57;E:\code/datasets/test\Eunotia\Eunotia lewisii -Eunotia_lewisii_04.png
+57;E:\code/datasets/test\Eunotia\Eunotia lewisii -Eunotia_lewisii_07.png
+57;E:\code/datasets/test\Eunotia\Eunotia macroglossa -E_macroglossa_51_19r.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia macroglossa -E_macroglossa_apice1r.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia macroglossa -E_macroglossa_rimo_helic_1.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia metamonodon -EuMono-7.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia metamonodon -EUmono-9.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia microcephala -9c58627_Eunotia_microcephala_14_6.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia microcephala -9c58627_Eunotia_microcephala_15_1b.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia montuosa -E_montuosa_isotype.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia montuosa -E_montuosa_SEM_leftapex_1.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia montuosa -E_montuosa_SEM_rghtapex_1.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia mucophila -Eunotia_63_076bC_SS.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia mucophila -Eunotia_99_081bB_SS.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia mucophila -Eunotia_flexuosa_4_068bA_SS.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia mydohaimasiae -Eunotia_mydohaimasiae_Holotype.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia mydohaimasiae -Eunotia_mydohaimasiae_Isotype.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia naegelii -eunotia_naegelii_longII.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia naegelii -eunotia_naegelii_longIII.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia novaeangliae -Eunotia_143_080bA_1600x_ps.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia novaeangliae -Eunotia_157_080bA_1600x_ps.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia novaeangliae -Eunotia_18_107aA_1600x_ps.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia novaeangliae -Eunotia_sp30um_1_068bA_1600x_ps.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia nymanniana -Eunotia_nymanniana_6_16_05_J2_39.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia nymanniana -Eunotia_nymanniana_6_16_05_J2_47_5.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia nymanniana -Eunotia_nymanniana_SEM_ext_1.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia obliquestriata -Eunotia_obliquestriata_typematerial_i.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia obliquestriata -Eunotia_obliquestriata_typematerial_ii.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia orthohedra -E_orthohedra_isotype.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia paludosa -eunotia_paludosa_midIIIC.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia paludosa -eunotia_paludosa_shortC.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia panda -EunotiaSN2_ANP008-jv_04_ps.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia panda -EunotiaSN2_ANP008-jv_08_ps.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia panda -EunotiaSN2_ANP008-jv_13_ps.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia papilioforma -Eunotia_papilioforma_8_6_05_2_.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia papilioforma -Eunotia_papilioforma_holotype.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia papilioforma -E_papilioforma_SEM_7_25_05_4_inner_R_H_1umR.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia pectinalis -EuPectin-6.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia pectinalis -EUpectin-8.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia perpusilla -EUparatr_15982a_04082016_08.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia perpusilla -EUparatr_16012a_05122016_16.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia rhomboidea -25.3(10¦Ìm).jpg
+57;E:\code/datasets/test\Eunotia\Eunotia rhomboidea -25.4(10¦Ìm).jpg
+57;E:\code/datasets/test\Eunotia\Eunotia richbuttensis -Eunotia_richbuttensis_SEM_apex.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia richbuttensis -Eunotia_richbuttensis_SEM_inner.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia richbuttensis -Eunotia_richbuttensis_SEM_inner_rp.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia rushforthii -Eunotia_rushforthii_6_28_05_L3A_no2.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia rushforthii -Eunotia_rushforthii_Holotype.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia sarraceniae -621_31.1um_Eun_sarraceniae.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia sarraceniae -685_34.3um_Eun_sarraceniae.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia serra -Eunotiaserra4.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia serra -Eunotiaserra6.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia spatulata  -Eunotia_150_080bA_SS.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia spatulata  -Eunotia_173_078aA_1600x_ps.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia spatulata  -Eunotia_58_076bC_1000x_ps.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia subherkiniensis -Eunotia_subherkiniensis_5_19_04sc2Ai.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia subherkiniensis -Eunotia_subherkiniensis_SEM_internal1.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia sudetica -Eunotia_sudetica5.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia sudetica -Eunotia_sudetica6.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia superbidens -EUsuperb-5.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia superbidens -EUsuperb-6.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia tauntoniensis -Eutaut_Brant1188.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia tauntoniensis -EUtaut_Brant1212_337.45_6108.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia tenella -GSM6_9_05_9_tenella_V.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia tenella -tenelfam_16_.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia tetraodon -Eunotiatet6.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia trinacria -eunotia_trinacria_small.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia trinacria -eunotia_trinacria_small_II.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia triodon -Eunotia_triodon_6.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia triodon -Eunotia_triodon_7.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia zasuminensis -EUzasuminensis_SMM16212b_940_52.2.jpg
+57;E:\code/datasets/test\Eunotia\Eunotia zasuminensis -EUzasuminensis_SMM16212b_998_55.4.jpg
+58;E:\code/datasets/test\Eupodiscus\Eupodiscus radiatus -Eupodiscus_radiatus_067.jpg
+59;E:\code/datasets/test\Fallacia\Fallacia californica -Fallacia-californica_SWAMP-404S-25668_004.jpg
+59;E:\code/datasets/test\Fallacia\Fallacia californica -Fallacia-californica_SWAMP-404S-25668_005.jpg
+59;E:\code/datasets/test\Fallacia\Fallacia hummii7.jpg
+59;E:\code/datasets/test\Fallacia\Fallacia hummii8.jpg
+59;E:\code/datasets/test\Fallacia\Fallacia latelongitudinalis -GC44264a_FAlatelolong_4.jpg
+59;E:\code/datasets/test\Fallacia\Fallacia latelongitudinalis -Latelolongiud_NotType_3.jpg
+59;E:\code/datasets/test\Fallacia\Fallacia pygmaea -pygmaea_004.jpg
+59;E:\code/datasets/test\Fallacia\Fallacia pygmaea -pygmaea_006.jpg
+59;E:\code/datasets/test\Fallacia\Fallacia subhamulata -25.2(10¦Ìm).jpeg
+59;E:\code/datasets/test\Fallacia\Fallacia subhamulata -25.3(10¦Ìm).jpeg
+59;E:\code/datasets/test\Fallacia\Fallacia tenera -Fallacia-tenera-901M14126_2.jpg
+59;E:\code/datasets/test\Fallacia\Fallacia vitrea -fall_vitrea_GC2189_43_cl.jpeg
+59;E:\code/datasets/test\Fallacia\Fallacia vitrea -fall_vitrea_GC2189_81_cl.jpeg
+60;E:\code/datasets/test\Fragilaria\Fragilaria amphicephaloides -FRampicephaloides-1a.jpg
+60;E:\code/datasets/test\Fragilaria\Fragilaria amphicephaloides -FRampicephaloides-4a.jpg
+60;E:\code/datasets/test\Fragilaria\Fragilaria crotonensis -ANSP_GC112455-5.jpg
+60;E:\code/datasets/test\Fragilaria\Fragilaria crotonensis -ANSP_GC112455-6.jpg
+60;E:\code/datasets/test\Fragilaria\Fragilaria crotonensis -NorthHillsPondGG16_1um.jpg
+60;E:\code/datasets/test\Fragilaria\Fragilaria mesolepta -FRmesolepta-4.jpg
+60;E:\code/datasets/test\Fragilaria\Fragilaria mesolepta -FRmesolepta-7.jpg
+60;E:\code/datasets/test\Fragilaria\Fragilaria pennsylvanica -57578_Fragilaria_pennsylvanica_18.jpg
+60;E:\code/datasets/test\Fragilaria\Fragilaria pennsylvanica -57578_Fragilaria_pennsylvanica_a2.jpg
+60;E:\code/datasets/test\Fragilaria\Fragilaria recapitellata -Fragilaria_vaucheriae_fat_3_14372_clm.jpeg
+60;E:\code/datasets/test\Fragilaria\Fragilaria recapitellata -Fragiliaria_2_14374_clm.jpeg
+60;E:\code/datasets/test\Fragilaria\Fragilaria recapitellata -Fragiliaria_5_14374_clm.jpeg
+60;E:\code/datasets/test\Fragilaria\Fragilaria socia -Fragilaria_socia_E_39.7_117.3_AckerNikon_4036a_crop.jpg
+60;E:\code/datasets/test\Fragilaria\Fragilaria socia -Synedra_socia_06_37.2_116.9_AckerNikon_4036a_crop.jpg
+60;E:\code/datasets/test\Fragilaria\Fragilaria synegrotesca -F_synegrotesca_4_94.541.jpg
+60;E:\code/datasets/test\Fragilaria\Fragilaria synegrotesca -F_synegrotesca_6_125.46.jpg
+60;E:\code/datasets/test\Fragilaria\Fragilaria synegrotesca -F_synegrotesca_Diaterm_III_329_Internal_VV.jpg
+60;E:\code/datasets/test\Fragilaria\Fragilaria tenera -F_tenera_114970-8_10_um_bar.jpg
+60;E:\code/datasets/test\Fragilaria\Fragilaria tenera -F_tenera_114970-9_10_um_bar.jpg
+60;E:\code/datasets/test\Fragilaria\Fragilaria vaucheriae -Image4.jpg
+60;E:\code/datasets/test\Fragilaria\Fragilaria vaucheriae -SEM_Fragilaria_vaucheriae_gsn91856_COOK_2001_5_b_2micron.jpg
+61;E:\code/datasets/test\Fragilariforma\Fragilariforma acidobiontica -ANSP_GC_54250_Fragilariforma_acidobiota_T6.jpg
+61;E:\code/datasets/test\Fragilariforma\Fragilariforma bicapitata -IWB-23-III-2013-010_07312014_055_clm.jpeg
+61;E:\code/datasets/test\Fragilariforma\Fragilariforma bicapitata -IWB-23-III-2013-010_07312014_056_clm.jpeg
+61;E:\code/datasets/test\Fragilariforma\Fragilariforma constricta -FRconstricta_747_40b.jpg
+61;E:\code/datasets/test\Fragilariforma\Fragilariforma constricta -FRconstricta_863_39_Brant1098b.jpg
+61;E:\code/datasets/test\Fragilariforma\Fragilariforma horstii -Fraghorstii5.jpg
+61;E:\code/datasets/test\Fragilariforma\Fragilariforma horstii -Fraghorstii6.jpg
+61;E:\code/datasets/test\Fragilariforma\Fragilariforma marylandica -25.2(10¦Ìm).jpeg
+61;E:\code/datasets/test\Fragilariforma\Fragilariforma marylandica -25.3(10¦Ìm).jpeg
+61;E:\code/datasets/test\Fragilariforma\Fragilariforma nitzschioides -L-3-44-1.jpg
+61;E:\code/datasets/test\Fragilariforma\Fragilariforma nitzschioides -L-3-44-4.jpg
+61;E:\code/datasets/test\Fragilariforma\Fragilariforma nitzschioides -SEM_spines_5_micron.jpg
+61;E:\code/datasets/test\Fragilariforma\Fragilariforma polygonata -FRpolygonata_520_26.jpg
+61;E:\code/datasets/test\Fragilariforma\Fragilariforma virescens -25.4(10¦Ìm).jpg
+61;E:\code/datasets/test\Fragilariforma\Fragilariforma virescens -25.5(10¦Ìm).jpg
+62;E:\code/datasets/test\Frickea\Frickea lewisiana-CG-11-iii-11-014.jpg
+62;E:\code/datasets/test\Frickea\Frickea lewisiana-CG-17-iii-11-002sm.jpg
+63;E:\code/datasets/test\Frustulia\Frustulia amosseana6.jpg
+63;E:\code/datasets/test\Frustulia\Frustulia amosseana7.jpg
+63;E:\code/datasets/test\Frustulia\Frustulia amphipleuroides-Amphi5.png
+63;E:\code/datasets/test\Frustulia\Frustulia amphipleuroides-Amphi7.png
+63;E:\code/datasets/test\Frustulia\Frustulia asiatica-CG-27-viii-10-12.jpg
+63;E:\code/datasets/test\Frustulia\Frustulia asiatica-CG-27-viii-10-13.jpg
+63;E:\code/datasets/test\Frustulia\Frustulia bahlsii -FRbahlsii-181.jpg
+63;E:\code/datasets/test\Frustulia\Frustulia bahlsii -FRbahlsii-6.jpg
+63;E:\code/datasets/test\Frustulia\Frustulia capitata -capitata4.png
+63;E:\code/datasets/test\Frustulia\Frustulia capitata -capitata5.png
+63;E:\code/datasets/test\Frustulia\Frustulia crassinervia -crassinveria4.png
+63;E:\code/datasets/test\Frustulia\Frustulia crassinervia -crassinveria6.png
+63;E:\code/datasets/test\Frustulia\Frustulia creuzburgensis -LM_f_creuz_34.png
+63;E:\code/datasets/test\Frustulia\Frustulia creuzburgensis -LM_f_creuz_girdle.png
+63;E:\code/datasets/test\Frustulia\Frustulia creuzburgensis -SEM_f_creuz_end_in.png
+63;E:\code/datasets/test\Frustulia\Frustulia esandalliae -Frustulia_esandalliae_4.jpg
+63;E:\code/datasets/test\Frustulia\Frustulia esandalliae -Frustulia_esandalliae_7.jpg
+63;E:\code/datasets/test\Frustulia\Frustulia inculta -incultaD.jpg
+63;E:\code/datasets/test\Frustulia\Frustulia inculta -incultaE.jpg
+63;E:\code/datasets/test\Frustulia\Frustulia inculta -incultaF.jpg
+63;E:\code/datasets/test\Frustulia\Frustulia krammeri -krammeri96.png
+63;E:\code/datasets/test\Frustulia\Frustulia krammeri -porte-crayon.png
+63;E:\code/datasets/test\Frustulia\Frustulia latita -latita2.png
+63;E:\code/datasets/test\Frustulia\Frustulia latita -latita4.png
+63;E:\code/datasets/test\Frustulia\Frustulia neomundana -neo5.png
+63;E:\code/datasets/test\Frustulia\Frustulia pseudomagaliesmontana -Frustulia-pseudomagaliesmontana-NY10003_A_112017_21_c.jpg
+63;E:\code/datasets/test\Frustulia\Frustulia pseudomagaliesmontana -Frustulia-pseudomagaliesmontana-NY10003_A_112017_39_c.jpg
+63;E:\code/datasets/test\Frustulia\Frustulia quadrisinuata -quadri8.png
+63;E:\code/datasets/test\Frustulia\Frustulia rexii -CG-29-iii-11-015.jpg
+63;E:\code/datasets/test\Frustulia\Frustulia rexii -CG-8-iii-11-051b.jpg
+63;E:\code/datasets/test\Frustulia\Frustulia saxonica -sax5.png
+63;E:\code/datasets/test\Frustulia\Frustulia saxonica -sax6.png
+63;E:\code/datasets/test\Frustulia\Frustulia soror -soror4.png
+63;E:\code/datasets/test\Frustulia\Frustulia soror -soror5.png
+63;E:\code/datasets/test\Frustulia\Frustulia vulgaris -LM_f_vulgaris_54b.png
+63;E:\code/datasets/test\Frustulia\Frustulia vulgaris -LM_f_vulgaris_555.png
+64;E:\code/datasets/test\Geissleria\Geissleria acceptata-25.2(1¦Ìm).jpg
+64;E:\code/datasets/test\Geissleria\Geissleria acceptata-25.3(1¦Ìm).jpg
+64;E:\code/datasets/test\Geissleria\Geissleria cascadensis -Navicula_cascadensis_274501_6.jpg
+64;E:\code/datasets/test\Geissleria\Geissleria cascadensis -Navicula_cascadensis_274501_7.jpg
+64;E:\code/datasets/test\Geissleria\Geissleria cascadensis -Navicula_cascadensis_500101_4.jpg
+64;E:\code/datasets/test\Geissleria\Geissleria decussis -25.2(2¦Ìm).jpg
+64;E:\code/datasets/test\Geissleria\Geissleria decussis -25.3(10¦Ìm).jpg
+64;E:\code/datasets/test\Geissleria\Geissleria ignota -geis7.jpg
+64;E:\code/datasets/test\Geissleria\Geissleria kriegeri -GS020301_GEkr_4ed.jpg
+64;E:\code/datasets/test\Geissleria\Geissleria kriegeri -GS020301_GEkr_5ed.jpg
+64;E:\code/datasets/test\Geissleria\Geissleria lateropunctata -GS003301_5ed.jpg
+64;E:\code/datasets/test\Geissleria\Geissleria lateropunctata -TYPE_Circled3_ed.jpg
+64;E:\code/datasets/test\Geissleria\Geissleria punctifera -GS024161_4.jpg
+65;E:\code/datasets/test\Genkalia\Genkalia digitulus -Genkalia-digitulus-ME10023_A_101817_35_c.jpg
+65;E:\code/datasets/test\Genkalia\Genkalia digitulus -Genkalia-digitulus-NH10066_A_121117_11_c.jpg
+66;E:\code/datasets/test\Gliwiczia\Gliwiczia calcar -OR032144_GC110008_15.jpg
+66;E:\code/datasets/test\Gliwiczia\Gliwiczia calcar -OR032144_GC110008_17.jpg
+67;E:\code/datasets/test\Gomphoneis\Gomphoneis eriense -eriense_boyer_T-5-14004.jpg
+67;E:\code/datasets/test\Gomphoneis\Gomphoneis eriense var. angularis -angularis_005.jpg
+67;E:\code/datasets/test\Gomphoneis\Gomphoneis eriense var. apiculata -apiculata_005.jpg
+67;E:\code/datasets/test\Gomphoneis\Gomphoneis eriense var. variabilis -variabilis_005.jpg
+67;E:\code/datasets/test\Gomphoneis\Gomphoneis herculeana -herculeana_003.jpg
+67;E:\code/datasets/test\Gomphoneis\Gomphoneis herculeana -herculeana_004b.jpg
+67;E:\code/datasets/test\Gomphoneis\Gomphoneis herculeana var. abundans -abundans_005.jpg
+67;E:\code/datasets/test\Gomphoneis\Gomphoneis herculeana var. loweii -loweii_003a.jpg
+67;E:\code/datasets/test\Gomphoneis\Gomphoneis mammilla -mammilla_004_copy.jpg
+67;E:\code/datasets/test\Gomphoneis\Gomphoneis minuta -minuta_005.jpg
+67;E:\code/datasets/test\Gomphoneis\Gomphoneis oreophila -518rcnapc_Gomphoneis_3_100x_17_copy.jpg
+67;E:\code/datasets/test\Gomphoneis\Gomphoneis oreophila -518rcnapc_Gomphoneis_eriense_100x_10_copy.jpg
+67;E:\code/datasets/test\Gomphoneis\Gomphoneis oreophila -G3_33_10.jpg
+67;E:\code/datasets/test\Gomphoneis\Gomphoneis phonema olivaceoides var. hutchinsoniana6.jpg
+67;E:\code/datasets/test\Gomphoneis\Gomphoneis phonema olivaceoides var. hutchinsoniana7.jpg
+67;E:\code/datasets/test\Gomphoneis\Gomphoneis pseudo-okunoi -quadripunctata_004.jpg
+67;E:\code/datasets/test\Gomphoneis\Gomphoneis pseudo-okunoi -quadripunctate_006.jpg
+67;E:\code/datasets/test\Gomphoneis\Gomphoneis septa -2septa_005.jpg
+67;E:\code/datasets/test\Gomphoneis\Gomphoneis trullata -trullata_010.jpg
+68;E:\code/datasets/test\Gomphonella\Gomphonella olivacea -olivacea_004.jpg
+68;E:\code/datasets/test\Gomphonella\Gomphonella olivacea -olivacea_007.jpg
+68;E:\code/datasets/test\Gomphonella\Gomphonella olivacea -olivacea_008.jpg
+68;E:\code/datasets/test\Gomphonella\Gomphonella phonema olivaceoides var. densestriata6.jpg
+68;E:\code/datasets/test\Gomphonella\Gomphonella phonema olivaceoides var. densestriata7.jpg
+69;E:\code/datasets/test\Gomphonema\Gomphonema acuminatum -gomphonema_acuminatum_004.jpg
+69;E:\code/datasets/test\Gomphonema\Gomphonema amerhombicum -g_amerhombicum_B_isotype_20170301_09_cl.jpeg
+69;E:\code/datasets/test\Gomphonema\Gomphonema amerhombicum -g_amerhombicum_B_isotype_20170301_14_cl.jpeg
+69;E:\code/datasets/test\Gomphonema\Gomphonema amerhombicum -g_amerhombicum_B_isotype_20170301_21_cl.jpeg
+69;E:\code/datasets/test\Gomphonema\Gomphonema americobtusatum -Gomphonema_americobtusatum_497901_2.jpg
+69;E:\code/datasets/test\Gomphonema\Gomphonema americobtusatum -Gomphonema_americobtusatum_5_405501.jpg
+69;E:\code/datasets/test\Gomphonema\Gomphonema apicatum -apicatum_boyer_688005.jpg
+69;E:\code/datasets/test\Gomphonema\Gomphonema apuncto -duplicate.apuncto.gc4242brev004.png
+69;E:\code/datasets/test\Gomphonema\Gomphonema brebissonii -brebissonii_gc8988b003.jpg
+69;E:\code/datasets/test\Gomphonema\Gomphonema brebissonii -brebissonii_gc8988b005.jpg
+69;E:\code/datasets/test\Gomphonema\Gomphonema californicum -518RCNAPC_20170202__14_cl.jpeg
+69;E:\code/datasets/test\Gomphonema\Gomphonema californicum -518RCNAPC_20170202__15_cl.jpeg
+69;E:\code/datasets/test\Gomphonema\Gomphonema californicum -G17_13_2.jpg
+69;E:\code/datasets/test\Gomphonema\Gomphonema caperatum -g_caperatum_15959a_04042016_33_cl.jpeg
+69;E:\code/datasets/test\Gomphonema\Gomphonema caperatum -g_caperatum_15963a_04052016_02_cl.jpeg
+69;E:\code/datasets/test\Gomphonema\Gomphonema caperatum -g_caperatum_15971a_04082016_01.jpg
+69;E:\code/datasets/test\Gomphonema\Gomphonema christenseni -6_53920_Gchristenseni2.jpg
+69;E:\code/datasets/test\Gomphonema\Gomphonema christenseni -7_53920_Gchristenseni2.jpg
+69;E:\code/datasets/test\Gomphonema\Gomphonema consector -Gomphonema_consector3.jpg
+69;E:\code/datasets/test\Gomphonema\Gomphonema consector -Gomphonema_consector4.jpg
+69;E:\code/datasets/test\Gomphonema\Gomphonema consector -Gomphonema_consector7.jpg
+69;E:\code/datasets/test\Gomphonema\Gomphonema coronatum -coronatum_gc4367a007.jpg
+69;E:\code/datasets/test\Gomphonema\Gomphonema distans -Gomphonema_distans_6_683001.jpg
+69;E:\code/datasets/test\Gomphonema\Gomphonema distans -Gomphonema_distans_7_683001.jpg
+69;E:\code/datasets/test\Gomphonema\Gomphonema duplipunctatum -Gomphonema_bipunctatum_5_503501.jpg
+69;E:\code/datasets/test\Gomphonema\Gomphonema eileencoxiae -Kurtkrammeria_coxiae_459301_5.jpg
+69;E:\code/datasets/test\Gomphonema\Gomphonema eileencoxiae -Kurtkrammeria_coxiae_459401_4.jpg
+69;E:\code/datasets/test\Gomphonema\Gomphonema elongatum -acuminatumelongatum_wsmith_317006.jpg
+69;E:\code/datasets/test\Gomphonema\Gomphonema freesei -GC53921_Gomphonema_freesei_4b_holotype.jpg
+69;E:\code/datasets/test\Gomphonema\Gomphonema germainii -GOgermanii-804_27.4_.jpg
+69;E:\code/datasets/test\Gomphonema\Gomphonema gibba -Gomphonema_gibba_4356A_5.jpg
+69;E:\code/datasets/test\Gomphonema\Gomphonema incognitum -g_incog_15576a_08142015_29_cl.jpeg
+69;E:\code/datasets/test\Gomphonema\Gomphonema incognitum -g_incog_15620a_10132015_12_cl.jpeg
+69;E:\code/datasets/test\Gomphonema\Gomphonema insularum -5_ginsularum_104739a.png
+69;E:\code/datasets/test\Gomphonema\Gomphonema insularum -6_ginsularum_104739a.png
+69;E:\code/datasets/test\Gomphonema\Gomphonema johnsonii -Gomphjohnsonii4.jpg
+69;E:\code/datasets/test\Gomphonema\Gomphonema johnsonii -Gomphjohnsonii6.jpg
+69;E:\code/datasets/test\Gomphonema\Gomphonema johnsonii -Gomphjohnsonii_SEM_footpole_3mu.jpg
+69;E:\code/datasets/test\Gomphonema\Gomphonema kobayasii -kobayasii_004.jpg
+69;E:\code/datasets/test\Gomphonema\Gomphonema lagenula -Gomphonema-lagenula_GCUTRC3R_2018.jpg
+69;E:\code/datasets/test\Gomphonema\Gomphonema lagenula -Gomphonema-lagenula_GCUTRC6R3_2018.jpg
+69;E:\code/datasets/test\Gomphonema\Gomphonema louisiananum -g_louisiananum_15385b_10082015_11_cl.jpeg
+69;E:\code/datasets/test\Gomphonema\Gomphonema louisiananum -g_louisiananum_15385b_10082015_14_cl.jpeg
+69;E:\code/datasets/test\Gomphonema\Gomphonema manubrium -25.3(10¦Ìm).jpeg
+69;E:\code/datasets/test\Gomphonema\Gomphonema mehleri -gomp_mehleri_15551b2_03242016_08_cl.jpeg
+69;E:\code/datasets/test\Gomphonema\Gomphonema mehleri -gomp_mehleri_15551b_03232016_uncounted_gomp1_03_cl.jpeg
+69;E:\code/datasets/test\Gomphonema\Gomphonema mexicanum -mexicanum_006.jpg
+69;E:\code/datasets/test\Gomphonema\Gomphonema montezumense -540_18.3um_Gmont_BW.jpg
+69;E:\code/datasets/test\Gomphonema\Gomphonema montezumense -566_19.1um_Gmont_BW.jpg
+69;E:\code/datasets/test\Gomphonema\Gomphonema nathorstii -Gomphonema_nathorstii_682801_7.jpg
+69;E:\code/datasets/test\Gomphonema\Gomphonema nathorstii -Gomphonema_nathorstii_682801_8.jpg
+69;E:\code/datasets/test\Gomphonema\Gomphonema olivaceoides var. densestriata -g_oliv_v_dens_GC60992_20161207_14_cl.jpeg
+69;E:\code/datasets/test\Gomphonema\Gomphonema olivaceoides var. densestriata -g_oliv_v_dens_GC60992_20161207_15_cl.jpeg
+69;E:\code/datasets/test\Gomphonema\Gomphonema olivaceoides var. hutchinsoniana -Gomphonema-olivaceoides-hutchinsoniana_595px_11_GC112789.jpg
+69;E:\code/datasets/test\Gomphonema\Gomphonema olivaceoides var. hutchinsoniana -Gomphonema-olivaceoides-hutchinsoniana_627px_15_GC112789.jpg
+69;E:\code/datasets/test\Gomphonema\Gomphonema pseudosphaerophorum -3_gpseudosphaerophorum_104739a.png
+69;E:\code/datasets/test\Gomphonema\Gomphonema pusillum -pusillum1_gc2209003.jpg
+69;E:\code/datasets/test\Gomphonema\Gomphonema pusillum -pusillum1_gc2209008.jpeg
+69;E:\code/datasets/test\Gomphonema\Gomphonema pygmaeum -G_pygmaeum.111316a.004rev.jpg
+69;E:\code/datasets/test\Gomphonema\Gomphonema reimeri -g_reimeri_15592c_02262016_03_Gomphonema_SESQA_cl.jpeg
+69;E:\code/datasets/test\Gomphonema\Gomphonema reimeri -g_reimeri_15612c_12182015_01_cl.jpeg
+69;E:\code/datasets/test\Gomphonema\Gomphonema sarcophagus -G.sarcophagus.114.jpg
+69;E:\code/datasets/test\Gomphonema\Gomphonema sarcophagus -G.sarcophagus.116.jpg
+69;E:\code/datasets/test\Gomphonema\Gomphonema semiapertum -Gomphonema_semiapertum_3_457201.jpg
+69;E:\code/datasets/test\Gomphonema\Gomphonema semiapertum -Gomphonema_semiapertum_5_464901.jpg
+69;E:\code/datasets/test\Gomphonema\Gomphonema sierranum -gomphonema_7_14379_clm.jpeg
+69;E:\code/datasets/test\Gomphonema\Gomphonema sierranum -Gomphonema_sp_12_14372_clm.jpeg
+69;E:\code/datasets/test\Gomphonema\Gomphonema sierranum -g_sierrianum_533SPILSA_10.9.15_dup_20170118_07_cl.jpeg
+69;E:\code/datasets/test\Gomphonema\Gomphonema sphaerophorum -25.3(10¦Ìm).jpeg
+69;E:\code/datasets/test\Gomphonema\Gomphonema submehleri -GOsubmehleri-870_29.6-3_.jpg
+69;E:\code/datasets/test\Gomphonema\Gomphonema superiorense -GOsuperiorense-777_26.5_.jpg
+69;E:\code/datasets/test\Gomphonema\Gomphonema superiorense6.jpg
+69;E:\code/datasets/test\Gomphonema\Gomphonema turgidum -gomp_turg_15544a_09172015_25_cl.jpeg
+69;E:\code/datasets/test\Gomphonema\Gomphonema turgidum -gomp_turg_15596a_09042015_33_cl.jpeg
+69;E:\code/datasets/test\Gomphonema\Gomphonema variostriatum -25.3(10¦Ìm).jpg
+69;E:\code/datasets/test\Gomphonema\Gomphonema ventricosum -ventricosum_005.jpg
+70;E:\code/datasets/test\Gomphosinica\Gomphosinica geitleri -SodaButteMT_1.jpg
+70;E:\code/datasets/test\Gomphosinica\Gomphosinica geitleri -SodaButteMT_3.jpg
+70;E:\code/datasets/test\Gomphosinica\Gomphosinica geitleri -SodaButteMT_6.jpg
+71;E:\code/datasets/test\Gomphosphenia\Gomphosphenia grovei -grovei-jpk_598_010.jpg
+71;E:\code/datasets/test\Gomphosphenia\Gomphosphenia grovei -grovei-jpk_598_018.jpg
+71;E:\code/datasets/test\Gomphosphenia\Gomphosphenia lingulatiformis -g_lingulatiformis_15588a_08172015_17_cl.jpeg
+71;E:\code/datasets/test\Gomphosphenia\Gomphosphenia lingulatiformis -g_lingulatiformis_15588a_08172015_28_cl.jpeg
+71;E:\code/datasets/test\Gomphosphenia\Gomphosphenia stoermeri -Gomphosphenia_tackei_var_brevistriatum_100x_k_GC53756.jpg
+71;E:\code/datasets/test\Gomphosphenia\Gomphosphenia stoermeri -Gomphosphenia_tackei_var_brevistriatum_100x_r_GC53756.jpg
+72;E:\code/datasets/test\Grunowia\Grunowia sinuata -Nitzschia_sinuata_v._sinuata_4.jpg
+72;E:\code/datasets/test\Grunowia\Grunowia solgensis -25.2(10¦Ìm).jpeg
+72;E:\code/datasets/test\Grunowia\Grunowia solgensis -25.3(10¦Ìm).jpeg
+72;E:\code/datasets/test\Grunowia\Grunowia tabellaria -nitzschia_sinuata_tabellaria_005a.jpg
+72;E:\code/datasets/test\Grunowia\Grunowia tabellaria -nitzschia_sinuata_tabellaria_006a.jpg
+73;E:\code/datasets/test\Gyrosigma\Gyrosigma acuminatum -Images_4.jpg
+73;E:\code/datasets/test\Gyrosigma\Gyrosigma attenuatum -25.2(10¦Ìm).jpg
+73;E:\code/datasets/test\Gyrosigma\Gyrosigma attenuatum -25.3(10¦Ìm).jpg
+73;E:\code/datasets/test\Gyrosigma\Gyrosigma obscurum -Gyrosigma-obscurum-ME10042_A_102417_54_c.jpg
+73;E:\code/datasets/test\Gyrosigma\Gyrosigma obscurum -Gyrosigma-obscurum-ME10042_C_012318_04_c.jpg
+74;E:\code/datasets/test\Halamphora\Halamphora coffeaeformis -coffeaeformis_327_09.jpg
+74;E:\code/datasets/test\Halamphora\Halamphora elongata -Hsubcapitata045-010.png
+74;E:\code/datasets/test\Halamphora\Halamphora elongata -Hsubcapitata062BR-16.png
+74;E:\code/datasets/test\Halamphora\Halamphora hora bicapitata7.jpg
+74;E:\code/datasets/test\Halamphora\Halamphora hora bicapitata8.jpg
+74;E:\code/datasets/test\Halamphora\Halamphora latecostata -h_acutiuscula_GC6565b_18_cl.jpeg
+74;E:\code/datasets/test\Halamphora\Halamphora latecostata -h_acutiuscula_GC6565b_20_cl.jpeg
+74;E:\code/datasets/test\Halamphora\Halamphora montana -montana_337_03.jpg
+74;E:\code/datasets/test\Halamphora\Halamphora normanii -normanii_336_01.jpg
+74;E:\code/datasets/test\Halamphora\Halamphora oligotraphenta -360_sp1_04.jpg
+74;E:\code/datasets/test\Halamphora\Halamphora oligotraphenta -360_sp1_07.jpg
+74;E:\code/datasets/test\Halamphora\Halamphora subtilis -Halamphora-subtilis-LM14.jpg
+74;E:\code/datasets/test\Halamphora\Halamphora subtilis -Halamphora-subtilis-LM2.jpg
+74;E:\code/datasets/test\Halamphora\Halamphora thumensis -thumensis_340_01.jpg
+74;E:\code/datasets/test\Halamphora\Halamphora veneta -veneta_334_02.jpg
+74;E:\code/datasets/test\Halamphora\Halamphora veneta -veneta_334_04.jpg
+75;E:\code/datasets/test\Hannaea\Hannaea arcus -hannaea_005.jpg
+75;E:\code/datasets/test\Hannaea\Hannaea superiorensis -MBE_499a_3043_138.jpg
+75;E:\code/datasets/test\Hannaea\Hannaea superiorensis -MBE_499a__2434_111.jpg
+76;E:\code/datasets/test\Hippodonta\Hippodonta capitata -GS138229_6.jpg
+76;E:\code/datasets/test\Hippodonta\Hippodonta capitata -MO000332_1.jpg
+76;E:\code/datasets/test\Hippodonta\Hippodonta capitata subsp. iberoamericana -GS127032_HIiber_4.jpg
+76;E:\code/datasets/test\Hippodonta\Hippodonta capitata subsp. iberoamericana -GS127032_HIiber_6.jpg
+76;E:\code/datasets/test\Hippodonta\Hippodonta capitata subsp. iberoamericana -GS127032_HIiber_7.jpg
+76;E:\code/datasets/test\Hippodonta\Hippodonta coxiae -MO000332_HPcox5.jpg
+76;E:\code/datasets/test\Hippodonta\Hippodonta coxiae -MO000332_HPcox6.jpg
+76;E:\code/datasets/test\Hippodonta\Hippodonta gravistriata -GC8031_NAgravi_zeiss_4.jpg
+76;E:\code/datasets/test\Hippodonta\Hippodonta gravistriata -GC8031_NAgravi_zeiss_5.jpg
+76;E:\code/datasets/test\Hippodonta\Hippodonta hungarica -MO000191_HIhung3.jpg
+76;E:\code/datasets/test\Hippodonta\Hippodonta hungarica -NRSA0172_HIhung2.jpg
+76;E:\code/datasets/test\Hippodonta\Hippodonta pseudacceptata -hip_pseud_15578a_09182015_01_cl.jpeg
+76;E:\code/datasets/test\Hippodonta\Hippodonta pseudacceptata -hip_pseud_15652a_09172015_14_cl.jpeg
+77;E:\code/datasets/test\Humidophila\Humidophila contenta -_Mowhawk2.jpg
+77;E:\code/datasets/test\Humidophila\Humidophila contenta -_Mowhawk5.jpg
+77;E:\code/datasets/test\Humidophila\Humidophila pantropica -pantrop8.jpg
+77;E:\code/datasets/test\Humidophila\Humidophila pantropica -pantropica2.jpg
+77;E:\code/datasets/test\Humidophila\Humidophila perpusilla -Humidophila-perpusilla-NYHP001_A_121417_15_c.jpg
+77;E:\code/datasets/test\Humidophila\Humidophila schmassmanni -C_shmassmannii_113890a_104_5x156.jpg
+77;E:\code/datasets/test\Humidophila\Humidophila schmassmanni -C_shmassmannii_114048b_100x15.jpg
+77;E:\code/datasets/test\Humidophila\Humidophila undulata -humund5.jpg
+77;E:\code/datasets/test\Humidophila\Humidophila undulata -humund9.jpg
+78;E:\code/datasets/test\Hydrosera\Hydrosera whampoensis -HYwhampoensis_ILL2013-132-3.jpg
+79;E:\code/datasets/test\Hygropetra\Hygropetra balfouriana -pinnbalf_002.jpg
+80;E:\code/datasets/test\Iconella\Iconella hibernica7.jpg
+80;E:\code/datasets/test\Iconella\Iconella hibernica8.jpg
+80;E:\code/datasets/test\Iconella\Iconella hibernica9.jpg
+81;E:\code/datasets/test\Karayevia\Karayevia amoena -KARam_GS027563_6a_ed.jpg
+81;E:\code/datasets/test\Karayevia\Karayevia amoena -KARam_GS027563_6b_ed.jpg
+81;E:\code/datasets/test\Karayevia\Karayevia clevei -GS115987_5.jpg
+81;E:\code/datasets/test\Karayevia\Karayevia clevei -GS115987_7.jpg
+81;E:\code/datasets/test\Karayevia\Karayevia clevei -GSN23519_1_1.jpg
+81;E:\code/datasets/test\Karayevia\Karayevia laterostrata -IH041690_KARlatero_1a.jpg
+81;E:\code/datasets/test\Karayevia\Karayevia laterostrata -MO000019_KARlatero_1a.jpg
+81;E:\code/datasets/test\Karayevia\Karayevia laterostrata -MO000019_KARlatero_1b.jpg
+81;E:\code/datasets/test\Karayevia\Karayevia nitidiformis -K_nitidiformis_holly29_7.jpg
+81;E:\code/datasets/test\Karayevia\Karayevia nitidiformis -K_nitidiformis_holly29_8_copy.jpg
+81;E:\code/datasets/test\Karayevia\Karayevia ploenensis var. gessneri -NYS00073_GC111773_5.jpg
+81;E:\code/datasets/test\Karayevia\Karayevia ploenensis var. gessneri -NYS00073_GC111773_6.jpg
+81;E:\code/datasets/test\Karayevia\Karayevia ploenensis var. gessneri -NYS00073_GC111773_8.jpg
+81;E:\code/datasets/test\Karayevia\Karayevia suchlandtii -MO000019_2_ed_1.jpg
+81;E:\code/datasets/test\Karayevia\Karayevia suchlandtii -MO000019_3_ed.jpg
+81;E:\code/datasets/test\Karayevia\Karayevia suchlandtii -MO000254_1_ed.jpg
+82;E:\code/datasets/test\Kobayasiella\Kobayasiella jaagii -Kjaag4.jpg
+82;E:\code/datasets/test\Kobayasiella\Kobayasiella micropunctata -Kmicro5.jpg
+82;E:\code/datasets/test\Kobayasiella\Kobayasiella micropunctata -Kmicro6.jpg
+82;E:\code/datasets/test\Kobayasiella\Kobayasiella okadae -Kokadae2.jpg
+82;E:\code/datasets/test\Kobayasiella\Kobayasiella okadae -Kokadae3.jpg
+82;E:\code/datasets/test\Kobayasiella\Kobayasiella parasubtilissima -Kparasub5.jpg
+82;E:\code/datasets/test\Kobayasiella\Kobayasiella subtilissima -Ksub3.jpg
+83;E:\code/datasets/test\Krasskella\Krasskella kriegeriana -Krasskella_kriegeriana_14380_3.jpg
+83;E:\code/datasets/test\Krasskella\Krasskella kriegeriana -mono_1_14380__also_has_dimples_clm.jpeg
+84;E:\code/datasets/test\Kurtkrammeria\Kurtkrammeria aequalis -Encyonopsisaequaliformis5.jpg
+84;E:\code/datasets/test\Kurtkrammeria\Kurtkrammeria aequalis -Encyonopsisaequaliformis7.jpg
+84;E:\code/datasets/test\Kurtkrammeria\Kurtkrammeria lacusglacialis -Encyonadaensis_6.jpg
+84;E:\code/datasets/test\Kurtkrammeria\Kurtkrammeria neoamphioxys -Encyonopsis_neoamphioxys_5.jpg
+84;E:\code/datasets/test\Kurtkrammeria\Kurtkrammeria stodderi -Encyonopsis_stodderi_4.jpg
+84;E:\code/datasets/test\Kurtkrammeria\Kurtkrammeria stodderi -Encyonopsis_stodderi_7.jpg
+84;E:\code/datasets/test\Kurtkrammeria\Kurtkrammeria subspicula -Encyonopsis_subspicula5.jpg
+84;E:\code/datasets/test\Kurtkrammeria\Kurtkrammeria treinishii -Encyotreinischii_6.jpg
+84;E:\code/datasets/test\Kurtkrammeria\Kurtkrammeria weilandii -Kurtkrammeria_weilandii_501501_3.jpg
+84;E:\code/datasets/test\Kurtkrammeria\Kurtkrammeria weilandii -Kurtkrammeria_weilandii_501501_4.jpg
+84;E:\code/datasets/test\Kurtkrammeria\Kurtkrammeria weilandii -Kurtkrammeria_weilandii_519801.jpg
+84;E:\code/datasets/test\Kurtkrammeria\Kurtkrammeria yonopsis aequaliformis6.jpg
+84;E:\code/datasets/test\Kurtkrammeria\Kurtkrammeria yonopsis aequaliformis7.jpg
+85;E:\code/datasets/test\Lacustriella\Lacustriella lacustris -LAlacust_MBE2215a_899_41.jpg
+86;E:\code/datasets/test\Lemnicola\Lemnicola hungarica -LEhungarica_5_ed_1.jpg
+86;E:\code/datasets/test\Lemnicola\Lemnicola hungarica -LEhungarica_6_ed_1.jpg
+86;E:\code/datasets/test\Lemnicola\Lemnicola hungarica -LEhungarica_INCell_1_ed_1.jpg
+88;E:\code/datasets/test\Lindavia\Lindavia affinis -L._affinis_4.1_JM.jpeg
+88;E:\code/datasets/test\Lindavia\Lindavia antiqua -Cyclotella_antiqua_6.jpg
+88;E:\code/datasets/test\Lindavia\Lindavia antiqua -Cyclotella_antiqua_7.jpg
+88;E:\code/datasets/test\Lindavia\Lindavia bodanica -MBE180_690_31.jpg
+88;E:\code/datasets/test\Lindavia\Lindavia bodanica -MBE_180_398_18-2-2.jpg
+88;E:\code/datasets/test\Lindavia\Lindavia comensis -LIcomensis_MBE139_162_9.jpg
+88;E:\code/datasets/test\Lindavia\Lindavia comensis -LIcomensis_MBE139_186_10.3.jpg
+88;E:\code/datasets/test\Lindavia\Lindavia delicatula -CYdelic-7.jpg
+88;E:\code/datasets/test\Lindavia\Lindavia eriensis -LIeriensis_566_34.jpg
+88;E:\code/datasets/test\Lindavia\Lindavia eriensis -LIeriensis_794_48.jpg
+88;E:\code/datasets/test\Lindavia\Lindavia intermedia -C_bodanica_intermedia_LM4.jpg
+88;E:\code/datasets/test\Lindavia\Lindavia intermedia -C_bodanica_intermedia_LM5.jpg
+88;E:\code/datasets/test\Lindavia\Lindavia intermedia -C_bodanica_intermedia_LM7.jpg
+88;E:\code/datasets/test\Lindavia\Lindavia michiganiana -CYmich-6.jpg
+88;E:\code/datasets/test\Lindavia\Lindavia michiganiana -CYmich-7.jpg
+88;E:\code/datasets/test\Lindavia\Lindavia michiganiana -CYMichi-1.jpg
+88;E:\code/datasets/test\Lindavia\Lindavia ocellata -LIoccel-112-3.7.jpg
+88;E:\code/datasets/test\Lindavia\Lindavia ocellata -LIoccel-210-7.jpg
+88;E:\code/datasets/test\Lindavia\Lindavia praetermissa -Cyclotella_praetermissa_7.jpg
+88;E:\code/datasets/test\Lindavia\Lindavia praetermissa -Cyclotella_praetermissa_8.jpg
+88;E:\code/datasets/test\Lindavia\Lindavia radiosa -Cyclotella_radiosa_6.jpg
+88;E:\code/datasets/test\Lindavia\Lindavia radiosa -Cyclotella_radiosa_7.jpg
+88;E:\code/datasets/test\Lindavia\Lindavia rossii -FallenLeafLakeCA_sed25-30_Crossii8.jpg
+88;E:\code/datasets/test\Lindavia\Lindavia rossii -FallenLeafLakeCA_sed25-30_Crossii9.jpg
+89;E:\code/datasets/test\Luticola\Luticola arctica -LuticolaArctica_GC63412_19.jpg
+89;E:\code/datasets/test\Luticola\Luticola arctica -LuticolaArctica_GC63412_6.jpg
+89;E:\code/datasets/test\Luticola\Luticola goeppertiana -ILL2017_40_8.jpg
+89;E:\code/datasets/test\Luticola\Luticola minor -GC44458_110815_01_rev.jpg
+89;E:\code/datasets/test\Luticola\Luticola minor -GC44458_110815_07_rev.jpg
+89;E:\code/datasets/test\Luticola\Luticola mobiliensis -GC53230b_25_cl_rev.jpg
+89;E:\code/datasets/test\Luticola\Luticola stigma -Lut_sigma_GC48876a_19_cl.jpeg
+89;E:\code/datasets/test\Luticola\Luticola stigma -Lut_sigma_GC48876a_22_cl.jpeg
+89;E:\code/datasets/test\Luticola\Luticola ventricosa -GC63412_5.jpg
+89;E:\code/datasets/test\Luticola\Luticola ventricosa -GC63412_8.jpg
+91;E:\code/datasets/test\Mastogloia\Mastogloia albertii -mastogloia_smithii_003b.jpg
+91;E:\code/datasets/test\Mastogloia\Mastogloia albertii -mastogloia_smithii_004a.jpg
+91;E:\code/datasets/test\Mastogloia\Mastogloia calcarea -M_calcarea_6.jpg
+91;E:\code/datasets/test\Mastogloia\Mastogloia calcarea -M_calcarea_7.jpg
+91;E:\code/datasets/test\Mastogloia\Mastogloia calcarea -M_calcarea_8.jpg
+91;E:\code/datasets/test\Mastogloia\Mastogloia elliptica -Maselliptica4.jpg
+91;E:\code/datasets/test\Mastogloia\Mastogloia elliptica -Maselliptica6.jpg
+91;E:\code/datasets/test\Mastogloia\Mastogloia grevillei -mastogloia_grevillei_003a.jpg
+91;E:\code/datasets/test\Mastogloia\Mastogloia grevillei -mastogloia_grevillei_005a.jpg
+91;E:\code/datasets/test\Mastogloia\Mastogloia lacustris -mastogloia_smithii_lacustris_004a.jpg
+91;E:\code/datasets/test\Mastogloia\Mastogloia lacustris -mastogloia_smithii_lacustris_005a.jpg
+91;E:\code/datasets/test\Mastogloia\Mastogloia pseudosmithii -M_pseudosmithii_5.jpg
+91;E:\code/datasets/test\Mastogloia\Mastogloia pseudosmithii -M_pseudosmithii_6.jpg
+91;E:\code/datasets/test\Mastogloia\Mastogloia pumila -Maspumila2.jpg
+91;E:\code/datasets/test\Mastogloia\Mastogloia pumila -Maspumila4.jpg
+92;E:\code/datasets/test\Mayamaea\Mayamaea cahabaensis -5_m-cahabaensis_GC58615.png
+92;E:\code/datasets/test\Mayamaea\Mayamaea cahabaensis -7_m-cahabaensis_GC58615.png
+93;E:\code/datasets/test\Melosira\Melosira dickiei -4.212_9.6_melo_dickiei_GV.jpg
+93;E:\code/datasets/test\Melosira\Melosira normannii -5.802_36.5_Melundnorm_1439A.jpg
+93;E:\code/datasets/test\Melosira\Melosira undulata -Meloundulata_gv_400X.jpg
+93;E:\code/datasets/test\Melosira\Melosira undulata -Meloundulata_vv1.jpg
+93;E:\code/datasets/test\Melosira\Melosira undulata -Meloundulata_vv4.jpg
+93;E:\code/datasets/test\Melosira\Melosira varians -44073_LM6.jpg
+93;E:\code/datasets/test\Melosira\Melosira varians -44073_LM7.jpg
+94;E:\code/datasets/test\Meridion\Meridion alansmithii -MEalan_new-3.jpg
+94;E:\code/datasets/test\Meridion\Meridion alansmithii -MEalan_new-7.jpg
+94;E:\code/datasets/test\Meridion\Meridion anceps -GC8976b_04.jpeg
+94;E:\code/datasets/test\Meridion\Meridion anceps -GC8976b_09.jpeg
+94;E:\code/datasets/test\Meridion\Meridion circulare -meridion_006.jpg
+94;E:\code/datasets/test\Meridion\Meridion circulare var. constrictum -S331_copy.jpg
+94;E:\code/datasets/test\Meridion\Meridion lineare -Merlineare6.jpg
+94;E:\code/datasets/test\Meridion\Meridion lineare -Merlineare7.jpg
+95;E:\code/datasets/test\Microcostatus\Microcostatus krasskei -mic411.jpg
+95;E:\code/datasets/test\Microcostatus\Microcostatus krasskei -mic511.jpg
+97;E:\code/datasets/test\Muelleria\Muelleria agnellus -Muelleria_agnellus_4.jpg
+97;E:\code/datasets/test\Muelleria\Muelleria agnellus -Muelleria_agnellus_5.jpg
+97;E:\code/datasets/test\Muelleria\Muelleria agnellus -Muelleria_agnellus_7.jpg
+97;E:\code/datasets/test\Muelleria\Muelleria gibbula -25.3(5¦Ìm).jpg
+97;E:\code/datasets/test\Muelleria\Muelleria gibbula -25.4(10¦Ìm).jpg
+97;E:\code/datasets/test\Muelleria\Muelleria gibbula -25.5(10¦Ìm).jpg
+97;E:\code/datasets/test\Muelleria\Muelleria spauldingiae -Muelleria_spauldingiae_5.jpg
+97;E:\code/datasets/test\Muelleria\Muelleria spauldingiae -Muelleria_spauldingiae_8.jpg
+97;E:\code/datasets/test\Muelleria\Muelleria spauldingiae -Muelleria_spauldingiae_9.jpg
+97;E:\code/datasets/test\Muelleria\Muelleria tetonensis -Muelleria_tetonensis_SEM_end_external_513101.jpg
+97;E:\code/datasets/test\Muelleria\Muelleria tetonensis -Muelleria_tetonensis_SEM_middle_external_513101.jpg
+97;E:\code/datasets/test\Muelleria\Muelleria tetonensis -Muelleria_tetonensis_SEM_middle_internal__513101.jpg
+98;E:\code/datasets/test\Navicula\Navicula aitchelbee -Naitchelbee4.jpg
+98;E:\code/datasets/test\Navicula\Navicula aitchelbee -Naitchelbee5.jpg
+98;E:\code/datasets/test\Navicula\Navicula angusta -NCPA0160_NAang_6.jpg
+98;E:\code/datasets/test\Navicula\Navicula angusta -NCPA0162_NAang_1.jpg
+98;E:\code/datasets/test\Navicula\Navicula antonii -Navicula_antonii3.jpg
+98;E:\code/datasets/test\Navicula\Navicula antonii -Navicula_antonii6.jpg
+98;E:\code/datasets/test\Navicula\Navicula antonii -Navicula_antonii7.jpg
+98;E:\code/datasets/test\Navicula\Navicula aurora -Nauro4.jpg
+98;E:\code/datasets/test\Navicula\Navicula canalis -ANSP25741-8_cropped_S.jpg
+98;E:\code/datasets/test\Navicula\Navicula canalis -ANSP25741-9_cropped_S.jpg
+98;E:\code/datasets/test\Navicula\Navicula capitatoradiata -Navicula_capitatoradiata1.jpg
+98;E:\code/datasets/test\Navicula\Navicula capitatoradiata -Navicula_capitatoradiata5.jpg
+98;E:\code/datasets/test\Navicula\Navicula cari -Navcari5.jpg
+98;E:\code/datasets/test\Navicula\Navicula cari -Navcari7.jpg
+98;E:\code/datasets/test\Navicula\Navicula caroliniae -Ncaroliniae4.jpg
+98;E:\code/datasets/test\Navicula\Navicula caroliniae -Ncaroliniae6.jpg
+98;E:\code/datasets/test\Navicula\Navicula caterva -GC44466_8.jpg
+98;E:\code/datasets/test\Navicula\Navicula caterva -N_caterva_HOLOTYPE.jpg
+98;E:\code/datasets/test\Navicula\Navicula cincta -Navcincta5.jpg
+98;E:\code/datasets/test\Navicula\Navicula cincta -Navcincta6.jpg
+98;E:\code/datasets/test\Navicula\Navicula cryptocephala -NRSA0406_GC113396_7.jpg
+98;E:\code/datasets/test\Navicula\Navicula cryptocephala -NRSA0406_GC113396_9.jpg
+98;E:\code/datasets/test\Navicula\Navicula cryptocephaloides -Ncryptocephaloides5.jpg
+98;E:\code/datasets/test\Navicula\Navicula cryptocephaloides -Ncryptocephaloides6.jpg
+98;E:\code/datasets/test\Navicula\Navicula cryptofallax -Navcryptofallax6.jpg
+98;E:\code/datasets/test\Navicula\Navicula duerrenbergiana -Nduerrenberg5.jpg
+98;E:\code/datasets/test\Navicula\Navicula duerrenbergiana -Nduerrenberg7.jpg
+98;E:\code/datasets/test\Navicula\Navicula eileeniae -VA676_021.jpg
+98;E:\code/datasets/test\Navicula\Navicula eileeniae -VA696_013.jpg
+98;E:\code/datasets/test\Navicula\Navicula elsoniana -Navicula_elsoniana_GC8215a_58.jpg
+98;E:\code/datasets/test\Navicula\Navicula erifuga -46648_LM5.jpg
+98;E:\code/datasets/test\Navicula\Navicula erifuga -46648_LM7.jpg
+98;E:\code/datasets/test\Navicula\Navicula escambia -3_Navicula_escambia_103388b_6.jpg
+98;E:\code/datasets/test\Navicula\Navicula flatheadensis -Nflat5.jpg
+98;E:\code/datasets/test\Navicula\Navicula flatheadensis -Nflat_SEMproxrapheends.jpg
+98;E:\code/datasets/test\Navicula\Navicula freesei -Navicula_freesei_GC8188A_36.jpg
+98;E:\code/datasets/test\Navicula\Navicula galloae -Ngalloae6.jpg
+98;E:\code/datasets/test\Navicula\Navicula galloae -Ngalloae_SEM_closeupproxrapheends.jpg
+98;E:\code/datasets/test\Navicula\Navicula genovefae -25.1(10¦Ìm).jpeg
+98;E:\code/datasets/test\Navicula\Navicula genovefae -25.2(10¦Ìm).jpg
+98;E:\code/datasets/test\Navicula\Navicula genovefae -25.3(10¦Ìm).jpg
+98;E:\code/datasets/test\Navicula\Navicula germainii -GS127032_NAgerm_4_1.jpg
+98;E:\code/datasets/test\Navicula\Navicula germainii -GSN24379_01.jpg
+98;E:\code/datasets/test\Navicula\Navicula germainii -GSN24379_04_1.jpg
+98;E:\code/datasets/test\Navicula\Navicula geronimensis -GS023353_NAgeron3.jpg
+98;E:\code/datasets/test\Navicula\Navicula goersii -N_goersii_4.jpg
+98;E:\code/datasets/test\Navicula\Navicula goersii -N_goersii_6.jpg
+98;E:\code/datasets/test\Navicula\Navicula gregaria -GS138576_NAgreg4.jpg
+98;E:\code/datasets/test\Navicula\Navicula gregaria -NRSA1189_NAgreg_1.jpg
+98;E:\code/datasets/test\Navicula\Navicula harmoniae -Naviculaharmoniae_6.jpg
+98;E:\code/datasets/test\Navicula\Navicula harmoniae -Naviculaharmoniae_7.jpg
+98;E:\code/datasets/test\Navicula\Navicula hasta -GS100443_GC106117_3.jpg
+98;E:\code/datasets/test\Navicula\Navicula hasta -GS100443_GC106117_4.jpg
+98;E:\code/datasets/test\Navicula\Navicula ingenua -n_ingenua_15631a_10152015_11_cl.jpeg
+98;E:\code/datasets/test\Navicula\Navicula ingenua -n_ingenua_15631a_10152015_12_cl.jpeg
+98;E:\code/datasets/test\Navicula\Navicula kotschyi -N_kotschyi_15649a_09162015_15_cl.jpeg
+98;E:\code/datasets/test\Navicula\Navicula kotschyi -N_kot_15551a_12162015_02_cl.jpeg
+98;E:\code/datasets/test\Navicula\Navicula lanceolata -46859_LM6.jpg
+98;E:\code/datasets/test\Navicula\Navicula lanceolata -46859_LM7.jpg
+98;E:\code/datasets/test\Navicula\Navicula leptostriata -Nlepto5.jpg
+98;E:\code/datasets/test\Navicula\Navicula libonensis -MO000179_NAlib1.jpg
+98;E:\code/datasets/test\Navicula\Navicula libonensis -NRSA0053_NAlib1.jpg
+98;E:\code/datasets/test\Navicula\Navicula longicephala -GS020301_8.jpg
+98;E:\code/datasets/test\Navicula\Navicula longicephala -GS020301_9.jpg
+98;E:\code/datasets/test\Navicula\Navicula ludloviana -Navicula_ludloviana_274201.jpg
+98;E:\code/datasets/test\Navicula\Navicula ludloviana -Navicula_ludloviana_500201_cropped.jpg
+98;E:\code/datasets/test\Navicula\Navicula lundii -Navlundii5.jpg
+98;E:\code/datasets/test\Navicula\Navicula lundii -Navlundii7.jpg
+98;E:\code/datasets/test\Navicula\Navicula margalithii-Navicula_margalithii_395001_5.jpg
+98;E:\code/datasets/test\Navicula\Navicula metareichardtiana -MO000118_GC109491a_3.jpg
+98;E:\code/datasets/test\Navicula\Navicula metareichardtiana -MO000118_GC109491a_5.jpg
+98;E:\code/datasets/test\Navicula\Navicula notha -NonType_1a.jpg
+98;E:\code/datasets/test\Navicula\Navicula notha -NonType_5.jpg
+98;E:\code/datasets/test\Navicula\Navicula nunivakiana -Navicula_nunivakiana_GC8232B_21.jpg
+98;E:\code/datasets/test\Navicula\Navicula nunivakiana -Navicula_nunivakiana_GC8232B_29.jpg
+98;E:\code/datasets/test\Navicula\Navicula oblonga -Noblong5.jpg
+98;E:\code/datasets/test\Navicula\Navicula oppugnata -Navoppug5.jpg
+98;E:\code/datasets/test\Navicula\Navicula oppugnata -Navoppug7.jpg
+98;E:\code/datasets/test\Navicula\Navicula peregrina -Npere4.jpg
+98;E:\code/datasets/test\Navicula\Navicula peregrinopsis -NaviculaPeregrinopsis6.jpg
+98;E:\code/datasets/test\Navicula\Navicula peregrinopsis -NaviculaPeregrinopsis9.jpg
+98;E:\code/datasets/test\Navicula\Navicula perotii -Navicula_walkeri_GC8188A_30.jpg
+98;E:\code/datasets/test\Navicula\Navicula piercei -Npiercei5.jpg
+98;E:\code/datasets/test\Navicula\Navicula piercei -Npiercei7.jpg
+98;E:\code/datasets/test\Navicula\Navicula pseudolanceolata -Npseudolan6.jpg
+98;E:\code/datasets/test\Navicula\Navicula pseudolanceolata -Npseudolan7.jpg
+98;E:\code/datasets/test\Navicula\Navicula radiosa -IH043705_GC113915_4.jpg
+98;E:\code/datasets/test\Navicula\Navicula radiosa -IH043705_GC113915_5a.jpg
+98;E:\code/datasets/test\Navicula\Navicula radiosa -MO000295_GC109668_2_1.jpg
+98;E:\code/datasets/test\Navicula\Navicula recens -46649_LM5.jpg
+98;E:\code/datasets/test\Navicula\Navicula recens -46649_LM6.jpg
+98;E:\code/datasets/test\Navicula\Navicula recens -46649_LM7.jpg
+98;E:\code/datasets/test\Navicula\Navicula reinhardtii -Nrein5.jpg
+98;E:\code/datasets/test\Navicula\Navicula rhynchocephala -navicula_rhynchocephala_002.jpg
+98;E:\code/datasets/test\Navicula\Navicula rhynchotella -Nrhynchotella4small.jpg
+98;E:\code/datasets/test\Navicula\Navicula rhynchotella -Nrhynchotella6small.jpg
+98;E:\code/datasets/test\Navicula\Navicula rostellata -GSN24379_07.jpg
+98;E:\code/datasets/test\Navicula\Navicula rostellata -Navicula_viridula_rostellata_001_1.jpg
+98;E:\code/datasets/test\Navicula\Navicula schweigeri -Nschweigeri6.jpg
+98;E:\code/datasets/test\Navicula\Navicula seibigiana -Navicula_selbigiana_453301_n.jpg
+98;E:\code/datasets/test\Navicula\Navicula seibigiana -Navicula_selbigiana_453301_p.jpg
+98;E:\code/datasets/test\Navicula\Navicula slesvicensis -Nsles_4.jpg
+98;E:\code/datasets/test\Navicula\Navicula slesvicensis -Nsles_5.jpg
+98;E:\code/datasets/test\Navicula\Navicula slesvicensis -Nsles_7.jpg
+98;E:\code/datasets/test\Navicula\Navicula sovereignii -Nsov7.jpg
+98;E:\code/datasets/test\Navicula\Navicula sovereignii -Nsovereignii_SEM_middle.jpg
+98;E:\code/datasets/test\Navicula\Navicula staffordiae -Nstaffordiae6.jpg
+98;E:\code/datasets/test\Navicula\Navicula staffordiae -Nstaffordiae_SEM_middle.jpg
+98;E:\code/datasets/test\Navicula\Navicula streckerae -Nstrec5.jpg
+98;E:\code/datasets/test\Navicula\Navicula streckerae -Nstrec6.jpg
+98;E:\code/datasets/test\Navicula\Navicula subconcentrica -Nsubcon5.jpg
+98;E:\code/datasets/test\Navicula\Navicula subconcentrica -Nsubcon6.jpg
+98;E:\code/datasets/test\Navicula\Navicula subrhynchocephala -GS137280_3.jpg
+98;E:\code/datasets/test\Navicula\Navicula subrhynchocephala -GS137280_5.jpg
+98;E:\code/datasets/test\Navicula\Navicula subrhynchocephala -GS137280_6.jpg
+98;E:\code/datasets/test\Navicula\Navicula subrostellata -GC6604a_NAsecrApiculata_HOLO_NotInCircle1a.jpg
+98;E:\code/datasets/test\Navicula\Navicula subrostellata -GC6604a_NAsecrApiculata_HOLO_NotInCircle3.jpg
+98;E:\code/datasets/test\Navicula\Navicula subwalkeri -Navicula_subwalkeri_SEM_insidecenter.jpg
+98;E:\code/datasets/test\Navicula\Navicula subwalkeri -Navicula_subwalkeri_SEM_outsidecenter.jpg
+98;E:\code/datasets/test\Navicula\Navicula subwalkeri -Navicula_subwalkeri_SEM_outsideend.jpg
+98;E:\code/datasets/test\Navicula\Navicula supleeorum -Navsuplee5.jpg
+98;E:\code/datasets/test\Navicula\Navicula supleeorum -Navsuplee7.jpg
+98;E:\code/datasets/test\Navicula\Navicula symmetrica -Navicula_symmetrica_109522_5_1scale_1.jpg
+98;E:\code/datasets/test\Navicula\Navicula trilatera -Navtrilatera3.jpg
+98;E:\code/datasets/test\Navicula\Navicula trilatera -Navtrilatera7.jpg
+98;E:\code/datasets/test\Navicula\Navicula tripunctata -46104_LM6_1.jpg
+98;E:\code/datasets/test\Navicula\Navicula tripunctata -46104_LM7_1.jpg
+98;E:\code/datasets/test\Navicula\Navicula trivialis -N_cryptocephala_6.jpg
+98;E:\code/datasets/test\Navicula\Navicula vaneei -Nvane6.jpg
+98;E:\code/datasets/test\Navicula\Navicula vaneei -Nvane7.jpg
+98;E:\code/datasets/test\Navicula\Navicula venerablis -GS007601_3.jpg
+98;E:\code/datasets/test\Navicula\Navicula veneta -GC112144_NRSA0167_NAven5.jpg
+98;E:\code/datasets/test\Navicula\Navicula veneta -GC112144_NRSA0167_NAven7.jpg
+98;E:\code/datasets/test\Navicula\Navicula vilaplanii -GSN24379_5.jpg
+98;E:\code/datasets/test\Navicula\Navicula vilaplanii -GSN24379_6.jpg
+98;E:\code/datasets/test\Navicula\Navicula viridula -GC107320_GS141643_NAviridulacal7.jpg
+98;E:\code/datasets/test\Navicula\Navicula viridula -GS141643_21.jpg
+98;E:\code/datasets/test\Navicula\Navicula viridula -GS141643_23.jpg
+98;E:\code/datasets/test\Navicula\Navicula viridulacalcis subsp. neomundana -GS020273_6.jpg
+98;E:\code/datasets/test\Navicula\Navicula viridulacalcis subsp. neomundana -GS020273_7.jpg
+98;E:\code/datasets/test\Navicula\Navicula volcanica -volcanica_external_center.jpg
+98;E:\code/datasets/test\Navicula\Navicula volcanica -volcanica_external_end.jpg
+98;E:\code/datasets/test\Navicula\Navicula vulpina -navicula_peregrina_005.jpg
+98;E:\code/datasets/test\Navicula\Navicula walkeri -Nwalk5.jpg
+98;E:\code/datasets/test\Navicula\Navicula walkeri -Nwalk_ca.jpg
+98;E:\code/datasets/test\Navicula\Navicula weberi -Nweberi6.jpg
+98;E:\code/datasets/test\Navicula\Navicula weberi -Nweberi7.jpg
+98;E:\code/datasets/test\Navicula\Navicula whitefishensis -Navwhitefish5_small.jpg
+98;E:\code/datasets/test\Navicula\Navicula wildii -Nwildii5.jpg
+98;E:\code/datasets/test\Navicula\Navicula wildii -Nwildii6.jpg
+98;E:\code/datasets/test\Navicula\Navicula winona -Nwinona7.jpg
+99;E:\code/datasets/test\Navicymbula\Navicymbula pusilla -MO000191_3_1.jpg
+100;E:\code/datasets/test\Neidiomorpha\Neidiomorpha binodiformis -NEbinodis-4.jpg
+100;E:\code/datasets/test\Neidiomorpha\Neidiomorpha binodiformis -NEbinodis-7.jpg
+101;E:\code/datasets/test\Neidiopsis\Neidiopsis hamiltonii -Neidiopsis_hamiltonii_Mex3.jpg
+101;E:\code/datasets/test\Neidiopsis\Neidiopsis hamiltonii -Neidiopsis_hamiltonii_Mex7.jpg
+101;E:\code/datasets/test\Neidiopsis\Neidiopsis levanderi -Nelevander5.jpg
+101;E:\code/datasets/test\Neidiopsis\Neidiopsis weilandii -Diatom_Photos16161.jpg
+101;E:\code/datasets/test\Neidiopsis\Neidiopsis weilandii -Diatom_Photos16177.jpg
+101;E:\code/datasets/test\Neidiopsis\Neidiopsis wulffii -Newulffii5.jpg
+102;E:\code/datasets/test\Neidium\Neidium bobmarshallensis -Nekozlow5_1.jpg
+102;E:\code/datasets/test\Neidium\Neidium densestriatum -Neidium-densestriatum-NH10004_B_041518_06_c.jpg
+102;E:\code/datasets/test\Neidium\Neidium distinctepunctatum6.jpg
+102;E:\code/datasets/test\Neidium\Neidium fogedii -NeidiumCOLLLB6.jpg
+102;E:\code/datasets/test\Neidium\Neidium hitchcockii -Neidium-hitchcockii_RBL-1_1.jpg
+102;E:\code/datasets/test\Neidium\Neidium hitchcockii -Neidium-hitchcockii_RBL-2_5.jpg
+102;E:\code/datasets/test\Neidium\Neidium hitchcockii -Neidium-hitchcockii_SIL-2-2_2.jpg
+102;E:\code/datasets/test\Neidium\Neidium pseudodensestriatum -Neidium-pseudodensestriatum-NH10004_C_041518_01_c.jpg
+102;E:\code/datasets/test\Neidium\Neidium sacoense -EUsacoense_Brant1182_60.5_1095.jpg
+102;E:\code/datasets/test\Neidium\Neidium sacoense -Neidium-sacoense-683401.jpeg
+102;E:\code/datasets/test\Neidium\Neidium undulatum -Neidiumundulata2.jpg
+103;E:\code/datasets/test\Ninastrelnikovia\Ninastrelnikovia gibbosa -Ninastrelnikovia-gibbosa_USGS16MS021-2_1000x_202105020003_cl.jpg
+103;E:\code/datasets/test\Ninastrelnikovia\Ninastrelnikovia gibbosa -Ninastrelnikovia-gibbosa_USGS16MS021-2_1000x_202105020012_cl.jpg
+104;E:\code/datasets/test\Nitzschia\Nitzschia acicularis5.jpg
+104;E:\code/datasets/test\Nitzschia\Nitzschia acidoclinata -Nitzschia_acidoclinata_408101_3.jpg
+104;E:\code/datasets/test\Nitzschia\Nitzschia acidoclinata -Nitzschia_acidoclinata_408101_5.jpg
+104;E:\code/datasets/test\Nitzschia\Nitzschia alpina -Nitzalpina5.jpg
+104;E:\code/datasets/test\Nitzschia\Nitzschia alpina -Nitzalpina7.jpg
+104;E:\code/datasets/test\Nitzschia\Nitzschia amphibia -nitzschia_amphibia_002.jpg
+104;E:\code/datasets/test\Nitzschia\Nitzschia angustata -_tryb_1_14384.jpeg
+104;E:\code/datasets/test\Nitzschia\Nitzschia angustata -_tryb_2_14384.jpeg
+104;E:\code/datasets/test\Nitzschia\Nitzschia angustata -_tryb_3_14384.jpeg
+104;E:\code/datasets/test\Nitzschia\Nitzschia balcanica -capitellata_a_002.jpg
+104;E:\code/datasets/test\Nitzschia\Nitzschia biacrula -type_Nitzschia_biacrula_for_web.jpg
+104;E:\code/datasets/test\Nitzschia\Nitzschia brevissima -brevissima_gc109965h004.jpg
+104;E:\code/datasets/test\Nitzschia\Nitzschia clausii -clausii_011.jpg
+104;E:\code/datasets/test\Nitzschia\Nitzschia clausii -clausii_013.jpg
+104;E:\code/datasets/test\Nitzschia\Nitzschia columbiana -columbiana_007.jpg
+104;E:\code/datasets/test\Nitzschia\Nitzschia communis -Nitzschia_communis_002.jpg
+104;E:\code/datasets/test\Nitzschia\Nitzschia desertorum -nitzschia_desertorum_005.jpg
+104;E:\code/datasets/test\Nitzschia\Nitzschia dissipata -Nitzschia_dissipata_106900_1.jpg
+104;E:\code/datasets/test\Nitzschia\Nitzschia dissipata -Nitzschia_dissipata_107597_7.jpg
+104;E:\code/datasets/test\Nitzschia\Nitzschia dissipata -Ni_dissipata_image_Rex_Lowe.jpg
+104;E:\code/datasets/test\Nitzschia\Nitzschia exilis -exilis_004.jpg
+104;E:\code/datasets/test\Nitzschia\Nitzschia filiformis -filiformis_gc106965h008.jpg
+104;E:\code/datasets/test\Nitzschia\Nitzschia filiformis -filiformis_gc106965h010.jpg
+104;E:\code/datasets/test\Nitzschia\Nitzschia fonticola -fonticola_007.jpg
+104;E:\code/datasets/test\Nitzschia\Nitzschia fonticola -fonticola_011.jpg
+104;E:\code/datasets/test\Nitzschia\Nitzschia fonticoloides -fonticuloides_004b.jpg
+104;E:\code/datasets/test\Nitzschia\Nitzschia incognita -Nitzschia_incognita_218501_6.jpg
+104;E:\code/datasets/test\Nitzschia\Nitzschia incognita -Nitzschia_incognita_218701_7.jpg
+104;E:\code/datasets/test\Nitzschia\Nitzschia innominata -innominata_008.jpg
+104;E:\code/datasets/test\Nitzschia\Nitzschia kurzeana -N_kurzeana_GC103574a_4.jpg
+104;E:\code/datasets/test\Nitzschia\Nitzschia kurzeana -N_kurzeana_GC103574a_5.jpg
+104;E:\code/datasets/test\Nitzschia\Nitzschia liebethruthii -liebetruthii_gc108446a004.jpg
+104;E:\code/datasets/test\Nitzschia\Nitzschia liebethruthii -liebetruthii_gc108446a005.jpg
+104;E:\code/datasets/test\Nitzschia\Nitzschia linearis -nitzschia_linearis_004.jpg
+104;E:\code/datasets/test\Nitzschia\Nitzschia microcephala -nitzschia_microcephala_004.jpg
+104;E:\code/datasets/test\Nitzschia\Nitzschia minuta -minuta_005_1.jpg
+104;E:\code/datasets/test\Nitzschia\Nitzschia oligotraphenta -5_Nitzschia_dissipata_var_oligotraphenta_106900_7.jpg
+104;E:\code/datasets/test\Nitzschia\Nitzschia oligotraphenta -6_Nitzschia_dissipata_var_oligotraphenta_106882_1_valve_2.jpg
+104;E:\code/datasets/test\Nitzschia\Nitzschia oregona -oregona_005.jpg
+104;E:\code/datasets/test\Nitzschia\Nitzschia palea -palea_010.jpg
+104;E:\code/datasets/test\Nitzschia\Nitzschia palea -palea_012.jpg
+104;E:\code/datasets/test\Nitzschia\Nitzschia palea var. debilis -debilis_003.jpg
+104;E:\code/datasets/test\Nitzschia\Nitzschia palea var. tenuirostris -tenuirostris_005.jpg
+104;E:\code/datasets/test\Nitzschia\Nitzschia paleacea -paleacea_gc62547005_copy.jpg
+104;E:\code/datasets/test\Nitzschia\Nitzschia perminuta -perminuta_004.jpg
+104;E:\code/datasets/test\Nitzschia\Nitzschia recta -Nitzschia_recta_NEW110130A_9_g_view_1.jpg
+104;E:\code/datasets/test\Nitzschia\Nitzschia regula var. robusta -Nitzschregula4.jpg
+104;E:\code/datasets/test\Nitzschia\Nitzschia reversa -reversa_007.jpg
+104;E:\code/datasets/test\Nitzschia\Nitzschia semirobusta -9.jpg
+104;E:\code/datasets/test\Nitzschia\Nitzschia serpentiraphe -Nitzschia-serpentiraphe_FIU_2017-10-27_CERP-040-951-1-21_06.jpg
+104;E:\code/datasets/test\Nitzschia\Nitzschia serpentiraphe -Nitzschia-serpentiraphe_ILL_2018-05-11_2018-204-C_04.jpg
+104;E:\code/datasets/test\Nitzschia\Nitzschia sigma5.jpg
+104;E:\code/datasets/test\Nitzschia\Nitzschia sigmoidea -L-6-50_2.jpg
+104;E:\code/datasets/test\Nitzschia\Nitzschia siliqua -silicula.communtata.gc44258a.ciculed001b.png
+104;E:\code/datasets/test\Nitzschia\Nitzschia siliqua -silicula.commutata.gc44258a.circuled001a.png
+104;E:\code/datasets/test\Nitzschia\Nitzschia sociabilis -Nitzschia_sociabilis_103388b_26.jpg
+104;E:\code/datasets/test\Nitzschia\Nitzschia sociabilis -Nitzschia_sociabilis_g_view_103388b_13.jpg
+104;E:\code/datasets/test\Nitzschia\Nitzschia sociabilis -Nitzschia_socialis_112435b_3.jpg
+104;E:\code/datasets/test\Nitzschia\Nitzschia soratensis -inconspicua_004.jpg
+104;E:\code/datasets/test\Nitzschia\Nitzschia soratensis -inconspicua_005.jpg
+104;E:\code/datasets/test\Nitzschia\Nitzschia valdecostata -valdecostata_006.jpg
+104;E:\code/datasets/test\Nitzschia\Nitzschia valdecostata -valdecostata_007.jpg
+105;E:\code/datasets/test\Nupela\Nupela carolina -GC57568_NUcarolina_NotInCircle_5.jpg
+105;E:\code/datasets/test\Nupela\Nupela carolina -GC57568_NUcarolina_NotInCircle_6.jpg
+105;E:\code/datasets/test\Nupela\Nupela decipiens -GC44260a_ACdecipiens_9b.jpg
+105;E:\code/datasets/test\Nupela\Nupela decipiens -GC44260a_ACdecipiens_markedCircle1b.jpg
+105;E:\code/datasets/test\Nupela\Nupela decipiens -GC44260a_ACdecipiens_markedCircle1c.jpg
+105;E:\code/datasets/test\Nupela\Nupela elegantula -NUsp1_2_ed_1.jpg
+105;E:\code/datasets/test\Nupela\Nupela elegantula -NUsp1_3_ed_1.jpg
+105;E:\code/datasets/test\Nupela\Nupela fennica -GS024284_NUfennica_8.jpg
+105;E:\code/datasets/test\Nupela\Nupela frezelii -NRSA0888_NUfrez8.jpg
+105;E:\code/datasets/test\Nupela\Nupela frezelii -NRSA0888_NUfrez_HOLOa.jpg
+105;E:\code/datasets/test\Nupela\Nupela frezelii -NRSA0888_NUfrez_HOLOb.jpg
+105;E:\code/datasets/test\Nupela\Nupela impexiformis -WACA019_5.jpg
+105;E:\code/datasets/test\Nupela\Nupela impexiformis -WACA019_6.jpg
+105;E:\code/datasets/test\Nupela\Nupela lapidosa -ncpa0173_11ed.jpg
+105;E:\code/datasets/test\Nupela\Nupela lapidosa -NCPA0173_NUlap_12ed.jpg
+105;E:\code/datasets/test\Nupela\Nupela lapidosa -NCPA0173_NUlap_7ed.jpg
+105;E:\code/datasets/test\Nupela\Nupela neglecta -GC57577_HOLOsilide_4b_1.jpg
+105;E:\code/datasets/test\Nupela\Nupela neglecta -GC57577_HOLOsilide_5a_1.jpg
+105;E:\code/datasets/test\Nupela\Nupela neglecta -GC57577_HOLOsilide_5b_1.jpg
+105;E:\code/datasets/test\Nupela\Nupela pennsylvanica -NaConcava_NotInCircle_2b_ed_4.jpg
+105;E:\code/datasets/test\Nupela\Nupela pennsylvanica -NCPA0025_NUsp2_3_ed_1.jpg
+105;E:\code/datasets/test\Nupela\Nupela poconoensis -NCPA0025_NUsp2_1_ed_2.jpg
+105;E:\code/datasets/test\Nupela\Nupela poconoensis -NCPA0025_NUsp2_2_ed_2.jpg
+105;E:\code/datasets/test\Nupela\Nupela potapovae -Nupelapotapovae12.jpg
+105;E:\code/datasets/test\Nupela\Nupela potapovae -Nupelapotapovae30.jpg
+105;E:\code/datasets/test\Nupela\Nupela potapovae -Nupelapotapovae4.jpg
+105;E:\code/datasets/test\Nupela\Nupela scissura -GC58610_NUsciss_NotInCircle_2.jpg
+105;E:\code/datasets/test\Nupela\Nupela scissura -GC58610_NUsciss_NotInCircle_7a.jpg
+105;E:\code/datasets/test\Nupela\Nupela scissura -GC58610_NUsciss_NotInCircle_7b.jpg
+105;E:\code/datasets/test\Nupela\Nupela subrostrata -NCPA0039_ANUlap_23.jpg
+105;E:\code/datasets/test\Nupela\Nupela subrostrata -NCPA0041_ACsubrAPP_1_ed.jpg
+105;E:\code/datasets/test\Nupela\Nupela tenuicephala -Nupelasp.1COL5.jpg
+105;E:\code/datasets/test\Nupela\Nupela tenuicephala -Nupelasp.1COL6.jpg
+105;E:\code/datasets/test\Nupela\Nupela tenuicephala -Nupelasp.1COL8.jpg
+105;E:\code/datasets/test\Nupela\Nupela vitiosa -NLS00267_NUvitiosa_5ed.jpg
+105;E:\code/datasets/test\Nupela\Nupela vitiosa -NLS00267_NUvitiosa_6ed.jpg
+105;E:\code/datasets/test\Nupela\Nupela wellneri -GS020183nuCap2_ed.jpg
+106;E:\code/datasets/test\Odontidium\Odontidium hyemale -IWB-0002_2_20170509_03_cl.jpeg
+106;E:\code/datasets/test\Odontidium\Odontidium hyemale -IWB-0002_2_20170509_05_cl.jpeg
+106;E:\code/datasets/test\Odontidium\Odontidium hyemale -IWB-0025_1_20170509_05_cl.jpeg
+106;E:\code/datasets/test\Odontidium\Odontidium mesodon -27002_LM5.jpg
+106;E:\code/datasets/test\Odontidium\Odontidium mesodon -27002_LM6.jpg
+106;E:\code/datasets/test\Odontidium\Odontidium mesodon -27002_LM7.jpg
+107;E:\code/datasets/test\Orthoseira\Orthoseira roeseana -4.674_30.6_Ortho_roes_715A.jpg
+108;E:\code/datasets/test\Oxyneis\Oxyneis binalis -OXbinalis-6.jpg
+108;E:\code/datasets/test\Oxyneis\Oxyneis binalis -OXbinalis_9__MBE715.jpg
+108;E:\code/datasets/test\Oxyneis\Oxyneis binalis var. elliptica -OXelliptica_5_MBE715.jpg
+109;E:\code/datasets/test\Parlibellus\Parlibellus icula nunivakiana6.jpg
+109;E:\code/datasets/test\Parlibellus\Parlibellus icula nunivakiana7.jpg
+110;E:\code/datasets/test\Peronia\Peronia fibula -Peroniafibula_688601_5.jpg
+110;E:\code/datasets/test\Peronia\Peronia fibula -Peroniafibula_688601_6.jpg
+110;E:\code/datasets/test\Peronia\Peronia fibula -Peroniafibula_688601_8.jpg
+112;E:\code/datasets/test\Pinnularia\Pinnularia acrosphaeria -Pinnularia_acrosphaeria6.jpg
+112;E:\code/datasets/test\Pinnularia\Pinnularia acrosphaeria -Pinnularia_acrosphaeria7.jpg
+112;E:\code/datasets/test\Pinnularia\Pinnularia borealis -Pinnularia_borealis6.jpg
+112;E:\code/datasets/test\Pinnularia\Pinnularia borealis -Pinnularia_borealis7.jpg
+112;E:\code/datasets/test\Pinnularia\Pinnularia borealis var. lanceolata -Pinnularia_borealis_lanceolata6.jpg
+112;E:\code/datasets/test\Pinnularia\Pinnularia borealis var. lanceolata -Pinnularia_borealis_lanceolata7.jpg
+112;E:\code/datasets/test\Pinnularia\Pinnularia brauniana -Pinnularia-brauniana-ME10021_A_110317_10_c.jpg
+112;E:\code/datasets/test\Pinnularia\Pinnularia brauniana -Pinnularia-brauniana-RI10010B_101017_65_c.jpg
+112;E:\code/datasets/test\Pinnularia\Pinnularia brebissonii -Pinnularia_brebissonii5.jpg
+112;E:\code/datasets/test\Pinnularia\Pinnularia brebissonii -Pinnularia_brebissonii7.jpg
+112;E:\code/datasets/test\Pinnularia\Pinnularia cardinaliculus6.jpg
+112;E:\code/datasets/test\Pinnularia\Pinnularia cardinaliculus7.jpg
+112;E:\code/datasets/test\Pinnularia\Pinnularia cuneicephala -Pinnularia-cuneicephala-RI10010_A_102517_46_c.jpg
+112;E:\code/datasets/test\Pinnularia\Pinnularia cuneicephala -Pinnularia-cuneicephala-VT10094_A_111017_11_c.jpg
+112;E:\code/datasets/test\Pinnularia\Pinnularia decrescens6.jpg
+112;E:\code/datasets/test\Pinnularia\Pinnularia decrescens7.jpg
+112;E:\code/datasets/test\Pinnularia\Pinnularia divergentissima -Pdivergent6.jpg
+112;E:\code/datasets/test\Pinnularia\Pinnularia gigas -Pinnularia_gigas3.jpg
+112;E:\code/datasets/test\Pinnularia\Pinnularia lata -Pinnularia_lata_506401_17518.jpg
+112;E:\code/datasets/test\Pinnularia\Pinnularia marchica -GC106339_GS108490_4.jpg
+112;E:\code/datasets/test\Pinnularia\Pinnularia marchica -GC106339_GS108490_9.jpg
+112;E:\code/datasets/test\Pinnularia\Pinnularia microstauron -Pinnularia_microstauron6.jpg
+112;E:\code/datasets/test\Pinnularia\Pinnularia nodosa -Pinnularia_nodosa6.jpg
+112;E:\code/datasets/test\Pinnularia\Pinnularia nodosa -Pinnularia_nodosa7.jpg
+112;E:\code/datasets/test\Pinnularia\Pinnularia nodosa var. percapitata -Pinnularia_nodosa_percapitata5.jpg
+112;E:\code/datasets/test\Pinnularia\Pinnularia parvulissima -474_gray.jpg
+112;E:\code/datasets/test\Pinnularia\Pinnularia parvulissima -651_gray.jpg
+112;E:\code/datasets/test\Pinnularia\Pinnularia polyonca var. stidolphii -Pinnpoly4.jpg
+112;E:\code/datasets/test\Pinnularia\Pinnularia rabenhorstii -Pinnularia_rabenhorstii5.jpg
+112;E:\code/datasets/test\Pinnularia\Pinnularia rabenhorstii -Pinnularia_rabenhorstii6.jpg
+112;E:\code/datasets/test\Pinnularia\Pinnularia rhombarea -Pinnularia_rhombarea6.jpg
+112;E:\code/datasets/test\Pinnularia\Pinnularia rhombarea -Pinnularia_rhombarea7.jpg
+112;E:\code/datasets/test\Pinnularia\Pinnularia saprophila -GC100996_GS020253_0.jpg
+112;E:\code/datasets/test\Pinnularia\Pinnularia saprophila -GC100996_GS020253_1.jpg
+112;E:\code/datasets/test\Pinnularia\Pinnularia scotica -Pinnularia-scotica-ME10002_A_112817_05_c.jpg
+112;E:\code/datasets/test\Pinnularia\Pinnularia scotica -Pinnularia-scotica-ME10011_C_102617_08_c.jpg
+112;E:\code/datasets/test\Pinnularia\Pinnularia streptoraphe -pinnularia_streptoraphe3.jpg
+112;E:\code/datasets/test\Pinnularia\Pinnularia streptoraphe -pinnularia_streptoraphe5.jpg
+112;E:\code/datasets/test\Pinnularia\Pinnularia streptoraphe -pinnularia_streptoraphe7a.jpg
+112;E:\code/datasets/test\Pinnularia\Pinnularia suchlandtii -Pinnularia_suchlandtii5.jpg
+112;E:\code/datasets/test\Pinnularia\Pinnularia suchlandtii -Pinnularia_suchlandtii7.jpg
+112;E:\code/datasets/test\Pinnularia\Pinnularia turfosiphila -PIturfosiphila-7.jpg
+112;E:\code/datasets/test\Pinnularia\Pinnularia turfosiphila -PIturfosiphila-8.jpg
+112;E:\code/datasets/test\Pinnularia\Pinnularia turgidula7.jpg
+112;E:\code/datasets/test\Pinnularia\Pinnularia turgidula8.jpg
+112;E:\code/datasets/test\Pinnularia\Pinnularia undula var. major6.jpg
+112;E:\code/datasets/test\Pinnularia\Pinnularia undula var. major7.jpg
+112;E:\code/datasets/test\Pinnularia\Pinnularia undula6.jpg
+112;E:\code/datasets/test\Pinnularia\Pinnularia-formica-ME10023_A_101817_94.jpg
+112;E:\code/datasets/test\Pinnularia\Pinnularia-formica-SEM_10u_ME-10011unfiltered_041918_Mix_009.jpg
+113;E:\code/datasets/test\Placoneis\Placoneis abiskoensis -Placoneis_abiskoensis_4.jpg
+113;E:\code/datasets/test\Placoneis\Placoneis amphibola -25.3(10¦Ìm).jpg
+113;E:\code/datasets/test\Placoneis\Placoneis amphibola -779_39.0_Plac_amphibola.jpg
+113;E:\code/datasets/test\Placoneis\Placoneis anglophila -PLpseudanglica-6.jpg
+113;E:\code/datasets/test\Placoneis\Placoneis explanata -PLexplanata_SMM16085b_819_37.2.jpg
+113;E:\code/datasets/test\Placoneis\Placoneis gastrum6.jpg
+114;E:\code/datasets/test\Plagiotropis\Plagiotropis arizonica -Plagarizon4.jpg
+114;E:\code/datasets/test\Plagiotropis\Plagiotropis arizonica -Plagarizon6.jpg
+114;E:\code/datasets/test\Plagiotropis\Plagiotropis lepidoptera var. proboscidea -Plaglepid5.jpg
+114;E:\code/datasets/test\Plagiotropis\Plagiotropis lepidoptera var. proboscidea -Plaglepid6.jpg
+115;E:\code/datasets/test\Planothidium\Planothidium abbreviatum -GS024101_1.jpg
+115;E:\code/datasets/test\Planothidium\Planothidium abbreviatum -GS024101_3.jpg
+115;E:\code/datasets/test\Planothidium\Planothidium abbreviatum -NRSA0023_1.jpg
+115;E:\code/datasets/test\Planothidium\Planothidium amphibium -NRSA0108_6.jpg
+115;E:\code/datasets/test\Planothidium\Planothidium amphibium -NRSA0108_9.jpg
+115;E:\code/datasets/test\Planothidium\Planothidium apiculatum -GSN23403_PLapicul_2b_ed.jpg
+115;E:\code/datasets/test\Planothidium\Planothidium apiculatum -GSN23403_PLapicul_3ed.jpg
+115;E:\code/datasets/test\Planothidium\Planothidium apiculatum -GSN69662_PLapicul_1b_ed.jpg
+115;E:\code/datasets/test\Planothidium\Planothidium biporomum -GC3872b_PLfreq_1a.jpg
+115;E:\code/datasets/test\Planothidium\Planothidium biporomum -GC3872b_PLfreq_3.jpg
+115;E:\code/datasets/test\Planothidium\Planothidium delicatulum -GS134565_3_1.jpg
+115;E:\code/datasets/test\Planothidium\Planothidium delicatulum -GS134565_6.jpg
+115;E:\code/datasets/test\Planothidium\Planothidium delicatulum -GS181995_2a.jpg
+115;E:\code/datasets/test\Planothidium\Planothidium frequentissimum -MO000465_1a_ed.jpg
+115;E:\code/datasets/test\Planothidium\Planothidium frequentissimum -MO000465_1b_ed.jpg
+115;E:\code/datasets/test\Planothidium\Planothidium frequentissimum -MO000465_2b_ed.jpg
+115;E:\code/datasets/test\Planothidium\Planothidium holstii -Planothidium_holstii_Amphi_sl57f.jpg
+115;E:\code/datasets/test\Planothidium\Planothidium holstii -Planothidium_holstii_Amphi_sl57g.jpg
+115;E:\code/datasets/test\Planothidium\Planothidium incuriatum -Planothidium_incuriatum_GC110451a_7.jpg
+115;E:\code/datasets/test\Planothidium\Planothidium joursacense -P_joursacense_16329a_20170602_41_cl.jpeg
+115;E:\code/datasets/test\Planothidium\Planothidium joursacense -P_joursacense_16329a_20170602_53_cl.jpeg
+115;E:\code/datasets/test\Planothidium\Planothidium lanceolatoides -501101_4_10.jpg
+115;E:\code/datasets/test\Planothidium\Planothidium lanceolatoides -501101_4_11.jpg
+115;E:\code/datasets/test\Planothidium\Planothidium lanceolatoides -501101_4_8a.jpg
+115;E:\code/datasets/test\Planothidium\Planothidium lanceolatum -IH042040_PLlanc2.jpg
+115;E:\code/datasets/test\Planothidium\Planothidium lanceolatum -IH042040_PLlanc4.jpg
+115;E:\code/datasets/test\Planothidium\Planothidium lanceolatum -MO000019_1.jpg
+115;E:\code/datasets/test\Planothidium\Planothidium potapovae -GSN23403_PLrostr_3.jpg
+115;E:\code/datasets/test\Planothidium\Planothidium potapovae -GSN23403_PLrostr_5.jpg
+115;E:\code/datasets/test\Planothidium\Planothidium reichardtii -MO000295_GC109668_5.jpg
+115;E:\code/datasets/test\Planothidium\Planothidium reichardtii -MO000295_GC109668_6b.jpg
+115;E:\code/datasets/test\Planothidium\Planothidium reichardtii -MO000295_GC109668_7.jpg
+115;E:\code/datasets/test\Planothidium\Planothidium rostratoholarcticum -PLrstrhlactcm_GC106751a_5b_ed.jpg
+115;E:\code/datasets/test\Planothidium\Planothidium rostratoholarcticum -PLrstrhlactcm_GC108214a_7b_ed.jpg
+115;E:\code/datasets/test\Planothidium\Planothidium sheathii -Planothidium-sheathii-LM08.jpg
+115;E:\code/datasets/test\Planothidium\Planothidium sheathii -Planothidium-sheathii-LM09.jpg
+115;E:\code/datasets/test\Planothidium\Planothidium sheathii -Planothidium-sheathii-LM10.jpg
+116;E:\code/datasets/test\Platessa\Platessa bahlsii -NRSA0023_8.jpg
+116;E:\code/datasets/test\Platessa\Platessa bahlsii -NRSA0023_realHOLOa.jpg
+116;E:\code/datasets/test\Platessa\Platessa bahlsii -NRSA0023_realHOLOb.jpg
+116;E:\code/datasets/test\Platessa\Platessa conspicua -GSN82684_PlConsp_5ed.jpg
+116;E:\code/datasets/test\Platessa\Platessa conspicua -GSN82684_PlConsp_8ed.jpg
+116;E:\code/datasets/test\Platessa\Platessa conspicua -GSN82684_PlConsp_9ed.jpg
+116;E:\code/datasets/test\Platessa\Platessa hustedtii -NRSA0024_PLhust_3.jpg
+116;E:\code/datasets/test\Platessa\Platessa hustedtii -NRSA0024_PLhust_4.jpg
+116;E:\code/datasets/test\Platessa\Platessa hustedtii -NRSA0024_PLhust_5.jpg
+116;E:\code/datasets/test\Platessa\Platessa kingstonii -NCPA0267_holoslide7a.jpg
+116;E:\code/datasets/test\Platessa\Platessa kingstonii -NCPA0267_HOLOTYPE_a.jpg
+116;E:\code/datasets/test\Platessa\Platessa kingstonii -NCPA0267_HOLOTYPE_c.jpg
+116;E:\code/datasets/test\Platessa\Platessa lutheri -MURD0063_2b.jpg
+116;E:\code/datasets/test\Platessa\Platessa lutheri -MURD0063_3b.jpg
+116;E:\code/datasets/test\Platessa\Platessa nothidium joursacense6.jpg
+116;E:\code/datasets/test\Platessa\Platessa nothidium joursacense7.jpg
+116;E:\code/datasets/test\Platessa\Platessa oblongella -NRSA1189_KAobl_7.jpg
+116;E:\code/datasets/test\Platessa\Platessa oblongella -NRSA1189_KAobl_8_1.jpg
+116;E:\code/datasets/test\Platessa\Platessa oblongella -NRSA1189_KAobl_9.jpg
+116;E:\code/datasets/test\Platessa\Platessa stewartii -NCPA0267_Stew2.jpg
+116;E:\code/datasets/test\Platessa\Platessa stewartii -NCPA0267_Stew3ed.jpg
+116;E:\code/datasets/test\Platessa\Platessa stewartii -VA000232_2.jpg
+116;E:\code/datasets/test\Platessa\Platessa strelnikovae -NRSA0265_PLAT_holotype_b.jpg
+116;E:\code/datasets/test\Platessa\Platessa strelnikovae -NRSA0265_PLAT_holotype_c.jpg
+116;E:\code/datasets/test\Platessa\Platessa strelnikovae -NRSA0265_PLAT_isotype2_2a.jpg
+117;E:\code/datasets/test\Playaensis\Playaensis circumfimbria -Playaensis_circumfimbria4.jpg
+117;E:\code/datasets/test\Playaensis\Playaensis circumfimbria -Playaensis_circumfimbria5.jpg
+118;E:\code/datasets/test\Pleurosigma\Pleurosigma inflatum -P.inflatum5a.jpg
+119;E:\code/datasets/test\Pleurosira\Pleurosira laevis -pleurosira_laevis_006.jpg
+119;E:\code/datasets/test\Pleurosira\Pleurosira laevis -pleurosira_laevis_007b.jpg
+120;E:\code/datasets/test\Prestauroneis\Prestauroneis icula genovefae7.jpg
+120;E:\code/datasets/test\Prestauroneis\Prestauroneis icula genovefae8.jpg
+120;E:\code/datasets/test\Prestauroneis\Prestauroneis icula genovefae9.jpg
+120;E:\code/datasets/test\Prestauroneis\Prestauroneis integra -25.3(10¦Ìm).jpg
+120;E:\code/datasets/test\Prestauroneis\Prestauroneis protracta -p_protracta_16326a_20170515_23_cl.jpeg
+120;E:\code/datasets/test\Prestauroneis\Prestauroneis protracta -p_protracta_16326a_20170515_57_cl.jpeg
+121;E:\code/datasets/test\Proschkinia\Proschkinia browderiana -Proschkinia-browderiana-LM4.jpg
+121;E:\code/datasets/test\Proschkinia\Proschkinia browderiana -Proschkinia-browderiana-LM5.jpg
+121;E:\code/datasets/test\Proschkinia\Proschkinia browderiana -Proschkinia-browderiana-LM6.jpg
+122;E:\code/datasets/test\Psammothidium\Psammothidium acidoclinatum -NCPA0009_PSmargiulatum_1ed.jpg
+122;E:\code/datasets/test\Psammothidium\Psammothidium acidoclinatum -NCPA0078_PSmarginul_2.jpg
+122;E:\code/datasets/test\Psammothidium\Psammothidium alpinum -WACA19_PS2_5b.jpg
+122;E:\code/datasets/test\Psammothidium\Psammothidium alpinum -WACA19_PS2_6b.jpg
+122;E:\code/datasets/test\Psammothidium\Psammothidium bioretii -NCPA0156_PSbiretii_1a_ed.jpg
+122;E:\code/datasets/test\Psammothidium\Psammothidium bioretii -NCPA0156_PSbiretii_1b_ed.jpg
+122;E:\code/datasets/test\Psammothidium\Psammothidium bioretii -NCPS0148_PSchlidanos_1a_ed.jpg
+122;E:\code/datasets/test\Psammothidium\Psammothidium chlidanos -GSN23387_PSchlidanos_2b_ed.jpg
+122;E:\code/datasets/test\Psammothidium\Psammothidium chlidanos -NCPA0007_PSchlidanos_1a_ed_1.jpg
+122;E:\code/datasets/test\Psammothidium\Psammothidium chlidanos -NCPA0007_PSchlidanos_1b_1.jpg
+122;E:\code/datasets/test\Psammothidium\Psammothidium daonense -MO000019_2a_ed.jpg
+122;E:\code/datasets/test\Psammothidium\Psammothidium daonense -MO000019_4a_ed.jpg
+122;E:\code/datasets/test\Psammothidium\Psammothidium daonense -MO000019_4b_ed.jpg
+122;E:\code/datasets/test\Psammothidium\Psammothidium didymum -MT001517_6a_ed.jpg
+122;E:\code/datasets/test\Psammothidium\Psammothidium didymum -MT001517_7a_ed.jpg
+122;E:\code/datasets/test\Psammothidium\Psammothidium didymum -MT001517_7b_ed.jpg
+122;E:\code/datasets/test\Psammothidium\Psammothidium harveyi -NCPA116_harve_2ed.jpg
+122;E:\code/datasets/test\Psammothidium\Psammothidium harveyi -NCPA116_harve_3a_ed.jpg
+122;E:\code/datasets/test\Psammothidium\Psammothidium harveyi -NCPA4_harveyi_ed.jpg
+122;E:\code/datasets/test\Psammothidium\Psammothidium helveticum -GSL00810_6a_ed.jpg
+122;E:\code/datasets/test\Psammothidium\Psammothidium helveticum -GSN23403_1a.jpg
+122;E:\code/datasets/test\Psammothidium\Psammothidium lacustre -ISO_sp1_2b.jpg
+122;E:\code/datasets/test\Psammothidium\Psammothidium lacustre -WACA19_PS1_1b_ed.jpg
+122;E:\code/datasets/test\Psammothidium\Psammothidium lauenburgianum -GS181995_3b.jpg
+122;E:\code/datasets/test\Psammothidium\Psammothidium lauenburgianum -GS181995_4a_1.jpg
+122;E:\code/datasets/test\Psammothidium\Psammothidium lauenburgianum -GS181995_5a.jpg
+122;E:\code/datasets/test\Psammothidium\Psammothidium levanderi  -NCPA0033_PSlev_3_ed.jpg
+122;E:\code/datasets/test\Psammothidium\Psammothidium levanderi  -NCPA0033_PSlev_5b_ed.jpg
+122;E:\code/datasets/test\Psammothidium\Psammothidium microscopicum -MT001517_3a_ed.jpg
+122;E:\code/datasets/test\Psammothidium\Psammothidium microscopicum -MT001517_3b_ed.jpg
+122;E:\code/datasets/test\Psammothidium\Psammothidium microscopicum -MT001517_PScurt_1a_ed.jpg
+122;E:\code/datasets/test\Psammothidium\Psammothidium nivale -TypePop_sp3_1a.jpg
+122;E:\code/datasets/test\Psammothidium\Psammothidium nivale -TypePop_sp3_1b.jpg
+122;E:\code/datasets/test\Psammothidium\Psammothidium obliquum -PsammoObliquum_GC64415_52.jpg
+122;E:\code/datasets/test\Psammothidium\Psammothidium obliquum -PsammoObliquum_GC64415_80.jpg
+122;E:\code/datasets/test\Psammothidium\Psammothidium pennsylvanicum -NCPA0116_ISOTYPE_1d.jpg
+122;E:\code/datasets/test\Psammothidium\Psammothidium pennsylvanicum -NCPA0116_slideIso3_nottype1a.jpg
+122;E:\code/datasets/test\Psammothidium\Psammothidium pennsylvanicum -NCPA0116_slideIso3_nottype1b.jpg
+122;E:\code/datasets/test\Psammothidium\Psammothidium rossii6.jpg
+122;E:\code/datasets/test\Psammothidium\Psammothidium rossii7.jpg
+122;E:\code/datasets/test\Psammothidium\Psammothidium scoticum -NCPA0002_PSsp1cfScoticum_1_ed.jpg
+122;E:\code/datasets/test\Psammothidium\Psammothidium scoticum -NCPA0268_PSscoticum_1a_ed.jpg
+122;E:\code/datasets/test\Psammothidium\Psammothidium semiapertum -NRSA0151_4ed.jpg
+122;E:\code/datasets/test\Psammothidium\Psammothidium semiapertum -NRSA0151_6ed.jpg
+122;E:\code/datasets/test\Psammothidium\Psammothidium subatomoides -25.2(1¦Ìm).jpg
+122;E:\code/datasets/test\Psammothidium\Psammothidium subatomoides -25.3(10¦Ìm).jpg
+123;E:\code/datasets/test\Pseudofallacia\Pseudofallacia monoculata -pseudo_mono_15624_05262016_01_cl.jpeg
+123;E:\code/datasets/test\Pseudofallacia\Pseudofallacia monoculata -pseudo_mono_15624_05262016_08_cl.jpeg
+124;E:\code/datasets/test\Pseudostaurosira\Pseudostaurosira americana -ANSP_GC114098-6a.jpg
+124;E:\code/datasets/test\Pseudostaurosira\Pseudostaurosira americana -ANSP_GC114098-7a.jpg
+124;E:\code/datasets/test\Pseudostaurosira\Pseudostaurosira americana -ANSP_GC114098-8.jpg
+124;E:\code/datasets/test\Pseudostaurosira\Pseudostaurosira brevistriata -Pseudostaurosira_brevistriata_gs120211_CCYK_WA_2003_12_26_7124.jpg
+124;E:\code/datasets/test\Pseudostaurosira\Pseudostaurosira brevistriata -Pseudostaurosira_brevistriata_gs120211_CCYK_WA_2003_5_22_603.jpg
+124;E:\code/datasets/test\Pseudostaurosira\Pseudostaurosira elliptica -P_elliptica_type_material_6.jpg
+124;E:\code/datasets/test\Pseudostaurosira\Pseudostaurosira elliptica -SCHU15_1.jpg
+124;E:\code/datasets/test\Pseudostaurosira\Pseudostaurosira elliptica -SCHU46_2.jpg
+124;E:\code/datasets/test\Pseudostaurosira\Pseudostaurosira neoelliptica -Pseudostaurosira_neoelliptica_GS027561_GC103590_6.jpg
+124;E:\code/datasets/test\Pseudostaurosira\Pseudostaurosira neoelliptica -Pseudostaurosira_neoelliptica_GS027561_GC103590_9.jpg
+124;E:\code/datasets/test\Pseudostaurosira\Pseudostaurosira parasitica -Pseudostaurosira_parasitica_LAKE_OF_ISLES_CT_1.jpg
+124;E:\code/datasets/test\Pseudostaurosira\Pseudostaurosira parasitica -Pseudostaurosira_parasitica_NLS00027_SC_2007_22_15_411.jpg
+124;E:\code/datasets/test\Pseudostaurosira\Pseudostaurosira pseudoconstruens -Pp_2013-056_TCS4116_14-024.jpg
+124;E:\code/datasets/test\Pseudostaurosira\Pseudostaurosira pseudoconstruens -Pp_2013-126_TCS2281_8-16.jpg
+124;E:\code/datasets/test\Pseudostaurosira\Pseudostaurosira robusta -CAS-184007_08042014_0042_clm.jpeg
+124;E:\code/datasets/test\Pseudostaurosira\Pseudostaurosira robusta -CAS-184007_08042014_0046_clm.jpeg
+124;E:\code/datasets/test\Pseudostaurosira\Pseudostaurosira trainorii -Pseudostaurosira_trainori_NLS00126_MA_2007_4_6_1644.jpg
+124;E:\code/datasets/test\Pseudostaurosira\Pseudostaurosira trainorii -Pseudostaurosira_trainori_NLS00126_MA_2007_7_10_274.jpg
+124;E:\code/datasets/test\Pseudostaurosira\Pseudostaurosira trainorii -Pseudostaurosira_trainori_NLS00130_RI_2007_8_5_137.jpg
+125;E:\code/datasets/test\Punctastriata\Punctastriata mimetica -ANSP_GC101196-5.jpg
+125;E:\code/datasets/test\Punctastriata\Punctastriata mimetica -ANSP_GC101196-6.jpg
+125;E:\code/datasets/test\Punctastriata\Punctastriata mimetica -ANSP_GC101196-7.jpg
+126;E:\code/datasets/test\Reimeria\Reimeria sinuata -55002_LM5_1.jpg
+126;E:\code/datasets/test\Reimeria\Reimeria sinuata -55002_LM6_1.jpg
+126;E:\code/datasets/test\Reimeria\Reimeria sinuata -55002_LM7_1.jpg
+126;E:\code/datasets/test\Reimeria\Reimeria sinuata f. antiqua-duplicate.sinuatafantiqua.gc54103rev012.png
+126;E:\code/datasets/test\Reimeria\Reimeria uniseriata -GSN82684_REuniser_5_ed.jpg
+126;E:\code/datasets/test\Reimeria\Reimeria uniseriata -GSN82684_REuniser_6_ed.jpg
+126;E:\code/datasets/test\Reimeria\Reimeria uniseriata -GSN82684_REuniser_7_ed.jpg
+127;E:\code/datasets/test\Rexlowea\Rexlowea navicularis -rexlowea_navicularis.jpg
+128;E:\code/datasets/test\Rhoicosphenia\Rhoicosphenia abbreviata -57002_LM4_1.jpg
+128;E:\code/datasets/test\Rhoicosphenia\Rhoicosphenia abbreviata -57002_LM5_1.jpg
+128;E:\code/datasets/test\Rhoicosphenia\Rhoicosphenia californica -RcalSEM2headinxR.jpg
+128;E:\code/datasets/test\Rhoicosphenia\Rhoicosphenia californica -RcalSEM3footexR.jpg
+128;E:\code/datasets/test\Rhoicosphenia\Rhoicosphenia californica -RcalSEM4footexD.jpg
+128;E:\code/datasets/test\Rhoicosphenia\Rhoicosphenia stoermeri -RstoerLM7.jpg
+128;E:\code/datasets/test\Rhoicosphenia\Rhoicosphenia stoermeri -RstoerSEMfootRout.jpg
+128;E:\code/datasets/test\Rhoicosphenia\Rhoicosphenia stoermeri -RstoerSEMmidexR.jpg
+129;E:\code/datasets/test\Rhopalodia musculus\Rossithidium anastasiae -MEDP0088_6.jpg
+130;E:\code/datasets/test\Rossithidium\Rossithidium anastasiae -MEDP0088_7.jpg
+130;E:\code/datasets/test\Rossithidium\Rossithidium anastasiae -MEDP0088_8.jpg
+130;E:\code/datasets/test\Rossithidium\Rossithidium anastasiae2.jpg
+130;E:\code/datasets/test\Rossithidium\Rossithidium kriegeri -47_LM7.jpg
+130;E:\code/datasets/test\Rossithidium\Rossithidium kriegeri -47_SEM2.jpg
+130;E:\code/datasets/test\Rossithidium\Rossithidium kriegeri -47_SEM3.jpg
+130;E:\code/datasets/test\Rossithidium\Rossithidium nodosum -25.2(1¦Ìm).jpg
+130;E:\code/datasets/test\Rossithidium\Rossithidium nodosum -25.3(1¦Ìm).jpg
+130;E:\code/datasets/test\Rossithidium\Rossithidium petersenii -Rpet_6.jpg
+130;E:\code/datasets/test\Rossithidium\Rossithidium petersenii -Rpet_7.jpg
+130;E:\code/datasets/test\Rossithidium\Rossithidium petersenii -Rpet_9.jpg
+130;E:\code/datasets/test\Rossithidium\Rossithidium pusillum -25.2(10¦Ìm).jpg
+130;E:\code/datasets/test\Rossithidium\Rossithidium pusillum -25.3(10¦Ìm).jpg
+131;E:\code/datasets/test\Scoliopleura\Scoliopleura peisonis -Scoliopleura_peisonis_074601_5.jpg
+132;E:\code/datasets/test\Sellaphora\Sellaphora alastos -Sellaphora_alastos6.jpg
+132;E:\code/datasets/test\Sellaphora\Sellaphora alastos -Sellaphora_alastos7.jpg
+132;E:\code/datasets/test\Sellaphora\Sellaphora americana -Sellaphora_americana3.jpg
+132;E:\code/datasets/test\Sellaphora\Sellaphora americana -Sellaphora_americana_492001_4.jpg
+132;E:\code/datasets/test\Sellaphora\Sellaphora atomoides -25.3(10¦Ìm).png
+132;E:\code/datasets/test\Sellaphora\Sellaphora atomoides -Sellaphora-atomoides-SEM2.jpg
+132;E:\code/datasets/test\Sellaphora\Sellaphora auldreekie -SEauldreekie_591_26.8.jpg
+132;E:\code/datasets/test\Sellaphora\Sellaphora auldreekie -SEauldreekie_742_33.7.jpg
+132;E:\code/datasets/test\Sellaphora\Sellaphora bacilloides -Sellabacilloides4.jpg
+132;E:\code/datasets/test\Sellaphora\Sellaphora bacillum -sellaphora_bacillum_006.jpg
+132;E:\code/datasets/test\Sellaphora\Sellaphora californica -GC64842_4.jpg
+132;E:\code/datasets/test\Sellaphora\Sellaphora disjuncta -Sellaphora-disjuncta-RI10005_B_101117_11_c.jpg
+132;E:\code/datasets/test\Sellaphora\Sellaphora disjuncta -Sellaphora-disjuncta-RI10010B_101017_29_c.jpg
+132;E:\code/datasets/test\Sellaphora\Sellaphora fusticulus -SEfusticulus_900_40.9.jpg
+132;E:\code/datasets/test\Sellaphora\Sellaphora hohnii -GC44484_9.jpg
+132;E:\code/datasets/test\Sellaphora\Sellaphora hohnii -SCristula1_b.jpg
+132;E:\code/datasets/test\Sellaphora\Sellaphora japonica -sellaphora_japonica_10um_15555_mix3.jpeg
+132;E:\code/datasets/test\Sellaphora\Sellaphora japonica -sellaphora_japonica_10um_15555_mix33.jpeg
+132;E:\code/datasets/test\Sellaphora\Sellaphora japonica -sellaphora_japonica_1um_15555_mix_031.jpeg
+132;E:\code/datasets/test\Sellaphora\Sellaphora javanica6.jpg
+132;E:\code/datasets/test\Sellaphora\Sellaphora laevissima -SElaevissima_910_41.3.jpg
+132;E:\code/datasets/test\Sellaphora\Sellaphora meridionalis -GSN17543_S6.jpg
+132;E:\code/datasets/test\Sellaphora\Sellaphora meridionalis -GSN17543_S8.jpg
+132;E:\code/datasets/test\Sellaphora\Sellaphora moesta -SEmoesta_TP159_1399_112-2.jpg
+132;E:\code/datasets/test\Sellaphora\Sellaphora moesta -SEmoesta_TP159_983_79.jpg
+132;E:\code/datasets/test\Sellaphora\Sellaphora nigri -25.2(10¦Ìm).png
+132;E:\code/datasets/test\Sellaphora\Sellaphora nigri -25.3(10¦Ìm).png
+132;E:\code/datasets/test\Sellaphora\Sellaphora pulchra -GC113163_NLS252_6.jpg
+132;E:\code/datasets/test\Sellaphora\Sellaphora pulchra -GC113163_NLS252_8.jpg
+132;E:\code/datasets/test\Sellaphora\Sellaphora rexii -GSN95461_s8.jpg
+132;E:\code/datasets/test\Sellaphora\Sellaphora rexii -Holo2b_real.jpg
+132;E:\code/datasets/test\Sellaphora\Sellaphora saugerresii -WP160_4_sclbr.png
+132;E:\code/datasets/test\Sellaphora\Sellaphora saugerresii -WP172_1_sclbr.png
+132;E:\code/datasets/test\Sellaphora\Sellaphora stauroneioides -sel_stauroneioides_FW08MS048_20170201_02_cl.jpeg
+132;E:\code/datasets/test\Sellaphora\Sellaphora stauroneioides -sel_stauroneioides_FW08MS048_20170201_06_cl.jpeg
+132;E:\code/datasets/test\Sellaphora\Sellaphora stroemii -Sell_stroemii_GC102062a_GS021763_2.jpg
+132;E:\code/datasets/test\Sellaphora\Sellaphora stroemii -Sell_stroemii_GC102062a_GS021763_4.jpg
+132;E:\code/datasets/test\Sellaphora\Sellaphora stroemii -Sell_stroemii_GC102062a_GS021763_9.jpg
+132;E:\code/datasets/test\Sellaphora\Sellaphora subbacillum -25.3(10¦Ìm).jpg
+132;E:\code/datasets/test\Sellaphora\Sellaphora subbacillum -Sell_subbacillum_Tuttle_12T_SEL501_7.jpg
+132;E:\code/datasets/test\Sellaphora\Sellaphora subfasciata -GC44264a_SEsubfasciata_1.jpg
+132;E:\code/datasets/test\Sellaphora\Sellaphora subfasciata -GC44264a_SEsubfasciata_3zeiiss.jpg
+132;E:\code/datasets/test\Sellaphora\Sellaphora wallacei -GC105959_GSN95451_8.jpg
+132;E:\code/datasets/test\Sellaphora\Sellaphora wallacei -GC105959_GSN95451_9.jpg
+134;E:\code/datasets/test\Semiorbis\Semiorbis catillifera -SEcatillifera-6.jpg
+134;E:\code/datasets/test\Semiorbis\Semiorbis catillifera -SEcatillifera-8a.jpg
+134;E:\code/datasets/test\Semiorbis\Semiorbis eliasiae -SEMeliaseae_ANSP_GC-65337_26-9_768.jpeg
+134;E:\code/datasets/test\Semiorbis\Semiorbis eliasiae -SEMeliaseae_ANSP_GC-65337_31-2_891.jpeg
+134;E:\code/datasets/test\Semiorbis\Semiorbis rotundus -SErotundus-5.jpg
+134;E:\code/datasets/test\Semiorbis\Semiorbis rotundus -SErotundus-7.jpg
+135;E:\code/datasets/test\Simonsenia\Simonsenia delognei -simonsem.png
+136;E:\code/datasets/test\Skabitschewskia\Skabitschewskia oestrupii -SKABoestrupii_GC111350a_7.jpg
+136;E:\code/datasets/test\Skabitschewskia\Skabitschewskia oestrupii -SKABoestrupii_GC111350a_8.jpg
+136;E:\code/datasets/test\Skabitschewskia\Skabitschewskia peragalloi -NRSA0406_GC113396_17a.jpg
+136;E:\code/datasets/test\Skabitschewskia\Skabitschewskia peragalloi -NRSA0406_GC113396_17b.jpg
+138;E:\code/datasets/test\Spicaticribra\Spicaticribra kingstonii -_Spic2112a_1200.jpg
+138;E:\code/datasets/test\Spicaticribra\Spicaticribra kingstonii -_spic4_cropped.jpg
+139;E:\code/datasets/test\Stauroforma\Stauroforma exiguiformis -STexig_15978a_04082016_09_cl.jpeg
+139;E:\code/datasets/test\Stauroforma\Stauroforma exiguiformis -STexig_16005a_04182016_21_cl.jpeg
+139;E:\code/datasets/test\Stauroforma\Stauroforma exiguiformis -STexig_16015a_05122016_06.jpg
+140;E:\code/datasets/test\Stauroneis\Stauroneis absaroka -Sabsaroka6.jpg
+140;E:\code/datasets/test\Stauroneis\Stauroneis acidoclinata -Sacidoclinata6.jpg
+140;E:\code/datasets/test\Stauroneis\Stauroneis acidoclinatopsis -Sacidoclinatopsis3.jpg
+140;E:\code/datasets/test\Stauroneis\Stauroneis acuta -Sacuta4.jpg
+140;E:\code/datasets/test\Stauroneis\Stauroneis agrestis -Stagrestis5.jpg
+140;E:\code/datasets/test\Stauroneis\Stauroneis agrestis -Stagrestis6.jpg
+140;E:\code/datasets/test\Stauroneis\Stauroneis akamina -Sakamina5.jpg
+140;E:\code/datasets/test\Stauroneis\Stauroneis akamina -Sakamina6.jpg
+140;E:\code/datasets/test\Stauroneis\Stauroneis americana -Samer6.jpg
+140;E:\code/datasets/test\Stauroneis\Stauroneis amphicephala -Samphiceph6.jpg
+140;E:\code/datasets/test\Stauroneis\Stauroneis anceps -Sanceps7.jpg
+140;E:\code/datasets/test\Stauroneis\Stauroneis ancepsfallax -Sancepsfallax5.jpg
+140;E:\code/datasets/test\Stauroneis\Stauroneis angustilancea -Sangustilanc4.jpg
+140;E:\code/datasets/test\Stauroneis\Stauroneis angustilancea -Sangustilanc6.jpg
+140;E:\code/datasets/test\Stauroneis\Stauroneis baconiana -Sbacon6.jpg
+140;E:\code/datasets/test\Stauroneis\Stauroneis beeskovea -Sbeesk6.jpg
+140;E:\code/datasets/test\Stauroneis\Stauroneis bovbjergii -STbovbjergii-4.jpg
+140;E:\code/datasets/test\Stauroneis\Stauroneis boyntoniae -Staurosboyntoniae6.jpg
+140;E:\code/datasets/test\Stauroneis\Stauroneis boyntoniae -Staurosboyntoniae7.jpg
+140;E:\code/datasets/test\Stauroneis\Stauroneis bryocola -Sbryocola5.jpg
+140;E:\code/datasets/test\Stauroneis\Stauroneis circumborealis -Scircumbor6.jpg
+140;E:\code/datasets/test\Stauroneis\Stauroneis conspicua -Sitalica3_1.jpg
+140;E:\code/datasets/test\Stauroneis\Stauroneis finlandia -Sfinlandia4.jpg
+140;E:\code/datasets/test\Stauroneis\Stauroneis finlandia -Sfinlandia5.jpg
+140;E:\code/datasets/test\Stauroneis\Stauroneis fluminopsis -Sfluminopsis5.jpg
+140;E:\code/datasets/test\Stauroneis\Stauroneis gracilis -Sgracilis6.jpg
+140;E:\code/datasets/test\Stauroneis\Stauroneis heinii -Sheinii4.jpg
+140;E:\code/datasets/test\Stauroneis\Stauroneis kingstonii -STkings_SEM_1.jpg
+140;E:\code/datasets/test\Stauroneis\Stauroneis kingstonii -STkings_SEM_2.png
+140;E:\code/datasets/test\Stauroneis\Stauroneis kishinena -Skish4.jpg
+140;E:\code/datasets/test\Stauroneis\Stauroneis kishinena -Skish5.jpg
+140;E:\code/datasets/test\Stauroneis\Stauroneis kootenai -Skootenai5.jpg
+140;E:\code/datasets/test\Stauroneis\Stauroneis kriegeri -Stkriegeri6.jpg
+140;E:\code/datasets/test\Stauroneis\Stauroneis lauenburgiana -Slauenburg6.jpg
+140;E:\code/datasets/test\Stauroneis\Stauroneis lauenburgiana -Slauenburg7.jpg
+140;E:\code/datasets/test\Stauroneis\Stauroneis livingstonii -Slivingston5.jpg
+140;E:\code/datasets/test\Stauroneis\Stauroneis neohyalina -Sneohyalina5.jpg
+140;E:\code/datasets/test\Stauroneis\Stauroneis pax -Spax6.jpg
+140;E:\code/datasets/test\Stauroneis\Stauroneis phoenicenteron -Sphoen3.jpg
+140;E:\code/datasets/test\Stauroneis\Stauroneis pikuni -Spikuni6.jpg
+140;E:\code/datasets/test\Stauroneis\Stauroneis pikuni -Spikuni7.jpg
+140;E:\code/datasets/test\Stauroneis\Stauroneis pseudagrestis -Stpseudagrestis6.jpg
+140;E:\code/datasets/test\Stauroneis\Stauroneis pseudagrestis -Stpseudagrestis7.jpg
+140;E:\code/datasets/test\Stauroneis\Stauroneis reichardtii -Sreichardtii6.jpg
+140;E:\code/datasets/test\Stauroneis\Stauroneis rex -Srex5.jpg
+140;E:\code/datasets/test\Stauroneis\Stauroneis sacajaweae -Staurossacaja5.jpg
+140;E:\code/datasets/test\Stauroneis\Stauroneis schroederi4.jpg
+140;E:\code/datasets/test\Stauroneis\Stauroneis separanda -Stauroneis_separanda_3.jpg
+140;E:\code/datasets/test\Stauroneis\Stauroneis siberica -Ssiberica6.jpg
+140;E:\code/datasets/test\Stauroneis\Stauroneis siberica -Ssiberica7.jpg
+140;E:\code/datasets/test\Stauroneis\Stauroneis smithii -Staurossmithii3.jpg
+140;E:\code/datasets/test\Stauroneis\Stauroneis smithii -Staurossmithii7.jpg
+140;E:\code/datasets/test\Stauroneis\Stauroneis smithii var. incisa -st_smit_incis_15654c_03222016_07a_stauroneis_sp1_SESQA_cl.jpeg
+140;E:\code/datasets/test\Stauroneis\Stauroneis smithii var. incisa -st_smit_incis_15654c_03222016_07_stauroneis_sp1_SESQA_cl.jpeg
+140;E:\code/datasets/test\Stauroneis\Stauroneis smithii var. incisa -st_smit_incis_15654c_03222016_09_stauroneis_sp1_SESQA_cl.jpeg
+140;E:\code/datasets/test\Stauroneis\Stauroneis sonyae -Ssonyae5.jpg
+140;E:\code/datasets/test\Stauroneis\Stauroneis staurolineata -Stauroneis-staurolineata-NH10067_A_121117_35_c.jpg
+140;E:\code/datasets/test\Stauroneis\Stauroneis staurolineata -Stauroneis-staurolineata-NH10891_A_110117_09_c.jpg
+140;E:\code/datasets/test\Stauroneis\Stauroneis stodderi7.jpg
+140;E:\code/datasets/test\Stauroneis\Stauroneis stodderi8.jpg
+140;E:\code/datasets/test\Stauroneis\Stauroneis subborealis -Ssubbor6.jpg
+140;E:\code/datasets/test\Stauroneis\Stauroneis subborealis -Ssubbor7.jpg
+140;E:\code/datasets/test\Stauroneis\Stauroneis submarginalis -Stsubmarginalis2.jpg
+140;E:\code/datasets/test\Stauroneis\Stauroneis supergracilis -Stsupergracilis1.jpg
+140;E:\code/datasets/test\Stauroneis\Stauroneis supergracilis -Stsupergracilis8.jpg
+140;E:\code/datasets/test\Stauroneis\Stauroneis superkuelbsii -Ssuperkuelbs6.jpg
+140;E:\code/datasets/test\Stauroneis\Stauroneis thompsonii -Staurosthompson5.jpg
+140;E:\code/datasets/test\Stauroneis\Stauroneis vandevijveri -Svandevijveri7.jpg
+141;E:\code/datasets/test\Staurophora\Staurophora amphioxys -Staurophora_amphioxys_074601_6.jpg
+141;E:\code/datasets/test\Staurophora\Staurophora brantii -Staurophorabrantii7.jpg
+141;E:\code/datasets/test\Staurophora\Staurophora brantii -Staurophorabrantii_end_SEM.jpg
+141;E:\code/datasets/test\Staurophora\Staurophora brantii -Staurophorabrantii_midvalve_SEM.jpg
+141;E:\code/datasets/test\Staurophora\Staurophora columbiana -Stcolumbiana5.jpg
+141;E:\code/datasets/test\Staurophora\Staurophora columbiana -Stcolumbiana7.jpg
+141;E:\code/datasets/test\Staurophora\Staurophora soodensis -Stlegleri5.jpg
+141;E:\code/datasets/test\Staurophora\Staurophora soodensis -Stlegleri6.jpg
+141;E:\code/datasets/test\Staurophora\Staurophora tackei -Staurophoratackei5.jpg
+141;E:\code/datasets/test\Staurophora\Staurophora wislouchii -Stwislouch6.jpg
+141;E:\code/datasets/test\Staurophora\Staurophora wislouchii -Stwislouch7.jpg
+142;E:\code/datasets/test\Staurosira\Staurosira binodis -Staurosira_construens_var_binodis_NX000086_NM_2004_1_9_247.jpg
+142;E:\code/datasets/test\Staurosira\Staurosira binodis -Staurosira_construens_var_binodis_NX000365_NM_2006_10_30_822.jpg
+142;E:\code/datasets/test\Staurosira\Staurosira construens -Staurosira_construens_NLS00354_NC_2007_17_158.jpg
+142;E:\code/datasets/test\Staurosira\Staurosira construens -Staurosira_construens_NLS00442_CT_2007_1_128.jpg
+142;E:\code/datasets/test\Staurosira\Staurosira construens var. venter -Staurosira_construens_var_venter_IH042875_ID_2001_22_11_3014.jpg
+142;E:\code/datasets/test\Staurosira\Staurosira construens var. venter -Staurosira_construens_var_venter_IH042875_ID_2001_3_18_493.jpg
+142;E:\code/datasets/test\Staurosira\Staurosira stevensonii -27_57564.jpg
+142;E:\code/datasets/test\Staurosira\Staurosira stevensonii -57578_Stauroneis_stevensonii_holotype_02.jpg
+143;E:\code/datasets/test\Staurosirella\Staurosirella berolinensis -STberolinensis__441_20.1.jpg
+143;E:\code/datasets/test\Staurosirella\Staurosirella berolinensis -STberolinensis__533_24.2.jpg
+143;E:\code/datasets/test\Staurosirella\Staurosirella berolinensis -STberolinensis__570_25.9-1.jpg
+143;E:\code/datasets/test\Staurosirella\Staurosirella leptostauron -Staurosirella_leptostauron_MO000008_MT_2005_31_15_411.jpg
+143;E:\code/datasets/test\Staurosirella\Staurosirella leptostauron -Staurosirella_leptostauron_MO000008_MT_2005_34_25_685.jpg
+143;E:\code/datasets/test\Staurosirella\Staurosirella leptostauron var. dubia -Staurosirella_leptostauron_var_dubia_GS027561_5_11_3014.jpg
+143;E:\code/datasets/test\Staurosirella\Staurosirella leptostauron var. dubia -Staurosirella_leptostauron_var_dubia_GS027561_6_15_411.jpg
+143;E:\code/datasets/test\Staurosirella\Staurosirella martyi -25.3(10¦Ìm).jpg
+143;E:\code/datasets/test\Staurosirella\Staurosirella martyi -L2-88-S.martyi_13.jpg
+143;E:\code/datasets/test\Staurosirella\Staurosirella martyi -S.marty24.jpg
+143;E:\code/datasets/test\Staurosirella\Staurosirella pinnata -Staurosirella_pinnata_NX000610_NM_2007_8_219.jpg
+143;E:\code/datasets/test\Staurosirella\Staurosirella pinnata -Staurosirella_pinnata_NX000610_NM_2007_8_219_a.jpg
+143;E:\code/datasets/test\Staurosirella\Staurosirella rhomboides -ANSP_GC107082-27.jpg
+143;E:\code/datasets/test\Staurosirella\Staurosirella rhomboides -ANSP_GC107082-28.jpg
+144;E:\code/datasets/test\Stephanodiscus\Stephanodiscus alpinus -Stephanodiscus_alpinus_5.jpg
+144;E:\code/datasets/test\Stephanodiscus\Stephanodiscus alpinus -Stephanodiscus_alpinus_8.jpg
+144;E:\code/datasets/test\Stephanodiscus\Stephanodiscus binderanus -STbinderanus5.jpg
+144;E:\code/datasets/test\Stephanodiscus\Stephanodiscus binderanus -STbinderanus6.jpg
+144;E:\code/datasets/test\Stephanodiscus\Stephanodiscus hantzschii -SThantzschii-5_CR.jpg
+144;E:\code/datasets/test\Stephanodiscus\Stephanodiscus hantzschii fo. tenuis-STtennuis-6.jpg
+144;E:\code/datasets/test\Stephanodiscus\Stephanodiscus hantzschii fo. tenuis-STtennuis-7.jpg
+144;E:\code/datasets/test\Stephanodiscus\Stephanodiscus hantzschii fo. tenuis-STtennuis-8.jpg
+144;E:\code/datasets/test\Stephanodiscus\Stephanodiscus minutulus -STminutulus_MBE1654_208_9.5.jpg
+144;E:\code/datasets/test\Stephanodiscus\Stephanodiscus minutulus -STminutulus_MBE1654_222_10.jpg
+144;E:\code/datasets/test\Stephanodiscus\Stephanodiscus niagarae -inside_valve_scale_bar4um_changed.jpg
+144;E:\code/datasets/test\Stephanodiscus\Stephanodiscus niagarae -valve_and_mantle_changed.jpg
+144;E:\code/datasets/test\Stephanodiscus\Stephanodiscus oregonicus -Stephanodiscus_oregonicus_7.jpg
+144;E:\code/datasets/test\Stephanodiscus\Stephanodiscus oregonicus -Stephanodiscus_oregonicus_8.jpg
+144;E:\code/datasets/test\Stephanodiscus\Stephanodiscus parvus6.jpg
+144;E:\code/datasets/test\Stephanodiscus\Stephanodiscus reimeri5.jpg
+144;E:\code/datasets/test\Stephanodiscus\Stephanodiscus yellowstonensis -yellowstonensis_4a_copy.jpg
+144;E:\code/datasets/test\Stephanodiscus\Stephanodiscus yellowstonensis -Yellowstone_vcd_026.jpg
+144;E:\code/datasets/test\Stephanodiscus\Stephanodiscus yellowstonensis -Yellowstone_vcd_030.jpg
+146;E:\code/datasets/test\Surirella\Surirella amphioxys -GC3778a_amphioxys_1.jpg
+146;E:\code/datasets/test\Surirella\Surirella amphioxys -GS020021_19.jpg
+146;E:\code/datasets/test\Surirella\Surirella angusta -GC111490b_angusta_interior_1.jpg
+146;E:\code/datasets/test\Surirella\Surirella angusta -GC2530a_angusta_1.jpg
+146;E:\code/datasets/test\Surirella\Surirella angusta -NCPA0160_15.jpg
+146;E:\code/datasets/test\Surirella\Surirella arctica -DotUS_Detail1_SurArc_GCM5285-109Gb_28_ps.jpg
+146;E:\code/datasets/test\Surirella\Surirella arctica -DotUS_Detail2_SurArc_GCM5285-109G_16_ps.jpg
+146;E:\code/datasets/test\Surirella\Surirella arctica -DotUS_Detail3_Driftwood110_09_ps.jpg
+146;E:\code/datasets/test\Surirella\Surirella arctica -DotUS_Frustule-in_SurArc_GCM5285-109Gb_20_ps.jpg
+146;E:\code/datasets/test\Surirella\Surirella atomus -GC114255b_atomus_0009.jpg
+146;E:\code/datasets/test\Surirella\Surirella atomus -GC114255b_atomus_0011.jpg
+146;E:\code/datasets/test\Surirella\Surirella atopleura internationale6.jpg
+146;E:\code/datasets/test\Surirella\Surirella atopleura internationale7.jpg
+146;E:\code/datasets/test\Surirella\Surirella brebissonii -GC112761a_brebissonii_7.jpg
+146;E:\code/datasets/test\Surirella\Surirella brebissonii -GC112761a_brebissonii_8.jpg
+146;E:\code/datasets/test\Surirella\Surirella brebissonii -GC112761a_brebissonii_9.jpg
+146;E:\code/datasets/test\Surirella\Surirella cruciata -GC-113401a_NanticR_DE_SC2b_DoUS.jpg
+146;E:\code/datasets/test\Surirella\Surirella cruciata -GC-115390b_SycamoreLNJ_SC27b_DoUS_copy.jpg
+146;E:\code/datasets/test\Surirella\Surirella cruciata -SurCruc-14_inFP_copy1.jpg
+146;E:\code/datasets/test\Surirella\Surirella crumena -Surirella_crumena_074601_7.jpg
+146;E:\code/datasets/test\Surirella\Surirella iowensis -GC100589a_iowensis-0085.jpg
+146;E:\code/datasets/test\Surirella\Surirella iowensis -MO434_02.jpg
+146;E:\code/datasets/test\Surirella\Surirella iowensis -MO434_12.jpg
+146;E:\code/datasets/test\Surirella\Surirella lacrimula -GC109827b_lacrimula_0001.jpg
+146;E:\code/datasets/test\Surirella\Surirella lacrimula -GC110629a_lacrimula_0039.jpg
+146;E:\code/datasets/test\Surirella\Surirella lacrimula -GS018351_24.jpg
+146;E:\code/datasets/test\Surirella\Surirella librile -solea_001.jpg
+146;E:\code/datasets/test\Surirella\Surirella librile -solea_002.jpg
+146;E:\code/datasets/test\Surirella\Surirella ovalis -GC109807b_ovalis_5.jpg
+146;E:\code/datasets/test\Surirella\Surirella ovalis -GC109807b_ovalis_6.jpg
+146;E:\code/datasets/test\Surirella\Surirella ovalis -MO434_21.jpg
+146;E:\code/datasets/test\Surirella\Surirella pinnata -GC4055b_minuta_7.jpg
+146;E:\code/datasets/test\Surirella\Surirella pinnata -GC4055b_minuta_8.jpg
+146;E:\code/datasets/test\Surirella\Surirella stalagma -GC102882a_stalagma_7.jpg
+146;E:\code/datasets/test\Surirella\Surirella stalagma -VA000161_04.jpg
+146;E:\code/datasets/test\Surirella\Surirella stalagma -VA000161_05.jpg
+146;E:\code/datasets/test\Surirella\Surirella striatula -S_striatula_036_2_2ss.jpg
+146;E:\code/datasets/test\Surirella\Surirella striatula -S_striatula_036_2_6ss.jpg
+146;E:\code/datasets/test\Surirella\Surirella suecica -VA000161_10.jpg
+146;E:\code/datasets/test\Surirella\Surirella suecica -VA000161_16.jpg
+146;E:\code/datasets/test\Surirella\Surirella suecica -VA000161_17.jpg
+146;E:\code/datasets/test\Surirella\Surirella tenera -Sur_tenera_4_20ss.jpg
+146;E:\code/datasets/test\Surirella\Surirella tenera -Sur_tenera_5_23.jpg
+146;E:\code/datasets/test\Surirella\Surirella terryi -GC-42664_fossilPhila_SurTer1a_copy.jpg
+146;E:\code/datasets/test\Surirella\Surirella terryi -SurTer_SEM-29_innerstriae.jpg
+146;E:\code/datasets/test\Surirella\Surirella terryi -TPII-78_SurirellaTer42-Lectotype.jpg
+146;E:\code/datasets/test\Surirella\Surirella undulata -Surirella-undulata_ILL_2018-79-6.jpg
+146;E:\code/datasets/test\Surirella\Surirella undulata -Surirella-undulata_ILL_2018-80-7.jpg
+147;E:\code/datasets/test\Synedra\Synedra cyclopum -Synedracyclopum8.jpg
+147;E:\code/datasets/test\Synedra\Synedra famelica -Synfam5.jpg
+147;E:\code/datasets/test\Synedra\Synedra famelica -Synfam6.jpg
+147;E:\code/datasets/test\Synedra\Synedra goulardii -Synedra_goulardii_GC109962H_03_cl.jpeg
+147;E:\code/datasets/test\Synedra\Synedra goulardii -Synedra_goulardii_GC109962H_07_cl.jpeg
+147;E:\code/datasets/test\Synedra\Synedra mazamaensis -GSN89558_LM6_1.jpg
+147;E:\code/datasets/test\Synedra\Synedra mazamaensis -GSN89558_LM7_1.jpg
+148;E:\code/datasets/test\Tabellaria\Tabellaria fenestrata -KAN_5_1_Cropped.jpg
+148;E:\code/datasets/test\Tabellaria\Tabellaria fenestrata -WLO_1971_Cropped.jpg
+148;E:\code/datasets/test\Tabellaria\Tabellaria flocculosa -KAN2_StrainIV_Cropped.jpg
+148;E:\code/datasets/test\Tabellaria\Tabellaria flocculosa -KAN2_StrainIV_Girdle_Cropped.jpg
+148;E:\code/datasets/test\Tabellaria\Tabellaria flocculosa -test_mix_053.jpg
+149;E:\code/datasets/test\Tabularia\Tabularia fasciculata5.jpg
+150;E:\code/datasets/test\Terpsinoe\Terpsinoe musica -image_2_1.jpg
+151;E:\code/datasets/test\Tetracyclus\Tetracyclus glans -IWB-0026_1_Tglans_004_cropped_adjusted_small.jpg
+151;E:\code/datasets/test\Tetracyclus\Tetracyclus hinziae -trup_vv_6_cropped.jpg
+151;E:\code/datasets/test\Tetracyclus\Tetracyclus hinziae -trup_vv_8_cropped.jpg
+151;E:\code/datasets/test\Tetracyclus\Tetracyclus hinziae -trup_vv_9_cropped.jpg
+151;E:\code/datasets/test\Tetracyclus\Tetracyclus rupestris -25.3(10¦Ìm).jpeg
+151;E:\code/datasets/test\Tetracyclus\Tetracyclus rupestris -25.4(10¦Ìm).jpeg
+152;E:\code/datasets/test\Thalassiosira\Thalassiosira baltica -Tbalt5-2.jpg
+152;E:\code/datasets/test\Thalassiosira\Thalassiosira baltica -THbalt-8.jpg
+152;E:\code/datasets/test\Thalassiosira\Thalassiosira lacustris -thalassiosira_visurgis_003c.jpg
+152;E:\code/datasets/test\Thalassiosira\Thalassiosira lacustris -thalassiosira_visurgis_004.jpg
+152;E:\code/datasets/test\Thalassiosira\Thalassiosira minima7.jpg
+152;E:\code/datasets/test\Thalassiosira\Thalassiosira minima8.jpg
+152;E:\code/datasets/test\Thalassiosira\Thalassiosira minima9.jpg
+152;E:\code/datasets/test\Thalassiosira\Thalassiosira weissflogii -thalassiosira_004.jpg
+153;E:\code/datasets/test\Tryblionella\Tryblionella apiculata -Tryblionella_apiculata_9.jpg
+153;E:\code/datasets/test\Tryblionella\Tryblionella brunoi -Tryblionella-brunoi_ILL_2018-16_6.jpg
+153;E:\code/datasets/test\Tryblionella\Tryblionella brunoi -Tryblionella-brunoi_ILL_2018-16_7.jpg
+153;E:\code/datasets/test\Tryblionella\Tryblionella calida -Nitzschia_calida_003_copy.jpg
+153;E:\code/datasets/test\Tryblionella\Tryblionella gracilis -slide_11_image_10.jpg
+153;E:\code/datasets/test\Tryblionella\Tryblionella granulata7.jpg
+153;E:\code/datasets/test\Tryblionella\Tryblionella granulata8.jpg
+153;E:\code/datasets/test\Tryblionella\Tryblionella hungarica -nitzschia_hungarica_006.jpg
+153;E:\code/datasets/test\Tryblionella\Tryblionella hungarica -nitzschia_hungarica_007.jpg
+153;E:\code/datasets/test\Tryblionella\Tryblionella lanceola -Nitzschia-lanceola-LM6.jpg
+153;E:\code/datasets/test\Tryblionella\Tryblionella zschia siliqua6.jpg
+153;E:\code/datasets/test\Tryblionella\Tryblionella zschia siliqua7.jpg
+154;E:\code/datasets/test\Ulnaria\Ulnaria acus -ULdelicatissima-3a.jpg
+154;E:\code/datasets/test\Ulnaria\Ulnaria acus -ULdelicatissima-6a.jpg
+154;E:\code/datasets/test\Ulnaria\Ulnaria capitata -Ulnaria-capitata-LM4.jpg
+154;E:\code/datasets/test\Ulnaria\Ulnaria capitata -Ulnaria_capitata_01.jpg
+154;E:\code/datasets/test\Ulnaria\Ulnaria contracta -Ulnaria_contracta_GC111326a_08_cl.jpeg
+154;E:\code/datasets/test\Ulnaria\Ulnaria contracta -Ulnaria_contracta_GC111326a_10_cl.jpeg
+154;E:\code/datasets/test\Ulnaria\Ulnaria delicatissima -ULdelic_L-6-90_3385_187.jpg
+154;E:\code/datasets/test\Ulnaria\Ulnaria delicatissima -ULdelic_NESQA15967D_3903_215.jpg
+154;E:\code/datasets/test\Ulnaria\Ulnaria edra goulardii6.jpg
+154;E:\code/datasets/test\Ulnaria\Ulnaria edra goulardii7.jpg
+155;E:\code/datasets/test\Urosolenia\Urosolenia eriensis -Urosolenia-eriensis-LM9.jpg
